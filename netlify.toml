@@ -1,0 +1,9 @@
+# Deploy target for this repository: Patrick Sarpen's digital business card.
+[build]
+  publish = "card/site"
+  command = ""
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
