@@ -55,7 +55,7 @@ function renderPhoto() {
   slot.innerHTML = `
     <picture>
       <source srcset="${esc(PROFILE.photoWebp)}" type="image/webp">
-      <img src="${esc(PROFILE.photo)}" alt="${esc(PROFILE.name)}" width="640" height="640" decoding="async" fetchpriority="high">
+      <img src="${esc(PROFILE.photo)}" alt="${esc(PROFILE.name)}" width="480" height="480" decoding="async" fetchpriority="high">
     </picture>`;
   // If the photo is missing, fall back to the monogram rather than a broken image.
   slot.querySelector("img").addEventListener("error", () => {
