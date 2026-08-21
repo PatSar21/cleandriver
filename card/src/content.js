@@ -18,9 +18,9 @@ export const CONTENT = {
     nav: { work: "Projekte", career: "Werdegang", contact: "Kontakt", write: "Schreiben" },
     hero: {
       eyebrow: "Digitale Visitenkarte",
-      role: "Enterprise Sales Manager & Gründer",
+      role: "Senior Full Cycle Sales Manager & Gründer",
       tagline:
-        "Ich verkaufe Software an große Organisationen — und baue nebenbei die Produkte, die mir selbst gefehlt haben.",
+        "Seit zwanzig Jahren im Vertrieb — und nebenbei baue ich die Produkte, die mir selbst gefehlt haben.",
       saveContact: "Kontakt speichern",
       writeEmail: "E-Mail schreiben",
       stats: [
@@ -33,7 +33,7 @@ export const CONTENT = {
       label: "Über mich",
       title: "Verkaufen und bauen — seit zwanzig Jahren.",
       body: [
-        "Seit 2005 im Vertrieb — vom Verkaufsstand des Familienbetriebs über die Kaltakquise und die Leitung eines Zwölfer-Teams bis heute ins Enterprise-Geschäft. Erstkontakt, Pilot, Vertrag, Rollout: ich sitze jeden Tag zwischen Fachabteilung, IT und Einkauf und übersetze zwischen allen dreien.",
+        "Seit 2005 im Vertrieb — vom Verkaufsstand des Familienbetriebs über die Kaltakquise und die Leitung eines Zwölfer-Teams bis heute ins Enterprise-Geschäft. Erstkontakt, Pilot, Vertrag, Abschluss: ich sitze jeden Tag zwischen Fachabteilung, Entscheidern und Einkauf und übersetze zwischen allen dreien.",
         "Dazwischen viereinhalb Jahre eigenes Unternehmen: MOODBOWL, von der Idee bis zum laufenden Betrieb. Seitdem baue ich weiter eigene Produkte — nicht als Hobby, sondern weil ich in Gesprächen ständig Probleme höre, für die es noch nichts Gutes gibt. Zwei davon sind bisher entstanden."
       ]
     },
@@ -95,9 +95,9 @@ export const CONTENT = {
     nav: { work: "Projects", career: "Career", contact: "Contact", write: "Write" },
     hero: {
       eyebrow: "Digital business card",
-      role: "Enterprise Sales Manager & Founder",
+      role: "Senior Full Cycle Sales Manager & Founder",
       tagline:
-        "I sell software to large organisations — and build the products I kept wishing existed.",
+        "Twenty years in sales — and on the side I build the products I kept wishing existed.",
       saveContact: "Save contact",
       writeEmail: "Write an email",
       stats: [
@@ -110,7 +110,7 @@ export const CONTENT = {
       label: "About",
       title: "Selling and building — for twenty years.",
       body: [
-        "In sales since 2005 — from the family market stall through cold calling and leading a team of twelve, to enterprise deals today. First contact, pilot, contract, rollout: every day I sit between the business side, IT and procurement, and translate between all three.",
+        "In sales since 2005 — from the family market stall through cold calling and leading a team of twelve, to enterprise deals today. First contact, pilot, contract, close: every day I sit between the business side, the decision makers and procurement, and translate between all three.",
         "In between, four and a half years running my own company: MOODBOWL, from idea to a working business. I have kept building my own products since — not as a hobby, but because I keep hearing problems in those conversations that nothing good solves yet. Two of them exist so far."
       ]
     },
@@ -172,7 +172,15 @@ export const CONTENT = {
 
 export const CAREER = [
   {
-    from: "", to: null, company: "Eye-Able (Web Inclusion GmbH)",
+    from: "06/2026", to: null, company: "hey circle — Reusable Packaging",
+    role: { de: "Senior Full Cycle Sales Manager", en: "Senior Full Cycle Sales Manager" },
+    body: {
+      de: "Mehrwegverpackungen statt Karton: der komplette Vertriebszyklus von der ersten Ansprache bis zum Abschluss.",
+      en: "Reusable packaging instead of cardboard: the full sales cycle from first contact to close."
+    }
+  },
+  {
+    from: "", to: "", toUnknown: true, company: "Eye-Able (Web Inclusion GmbH)",
     role: { de: "Enterprise Sales Manager", en: "Enterprise Sales Manager" },
     body: {
       de: "Digitale Barrierefreiheit für große Organisationen: Enterprise-Kunden von der ersten Ansprache bis zum Rollout.",
@@ -292,13 +300,12 @@ export const PROJECTS = [
     name: "Rhythmus",
     status: "building",
     url: "",
-    tags: ["App"],
+    tags: ["App", "Gesundheit", "Zyklus"],
+    tagline: { de: "Dein Zyklus. Dein Rhythmus.", en: "Your cycle. Your rhythm." },
     body: {
-      de: "[Kurzbeschreibung folgt — bitte in einem Satz sagen, was Rhythmus macht und für wen.]",
-      en: "[Short description pending — one sentence on what Rhythmus does and who it is for.]"
-    },
-    confirm: true,
-    placeholder: true
+      de: "Eine App für die Frau. Kalender, Ernährung, Sport und Zyklus — alles an einem Ort, abgestimmt auf deinen Körper.",
+      en: "An app for women. Calendar, nutrition, training and cycle — all in one place, tuned to your body."
+    }
   }
 ];
 

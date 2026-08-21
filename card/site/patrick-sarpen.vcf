@@ -2,9 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 N:Sarpen;Patrick;;;
 FN:Patrick Sarpen
-TITLE:Enterprise Sales Manager
+TITLE:Senior Full Cycle Sales Manager
 ADR;TYPE=WORK:;;;Berlin;;;Deutschland
 EMAIL;TYPE=INTERNET,PREF:patrick.sarpen21@gmail.com
 URL:https://www.linkedin.com/in/patrick-sarpen-4449591a2/
-NOTE:Enterprise Sales Manager & Gründer — CleanDriver, Rhythmus
+ORG:hey circle
+NOTE:Senior Full Cycle Sales Manager & Gründer — CleanDriver, Rhythmus
 END:VCARD
