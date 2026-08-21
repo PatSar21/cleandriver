@@ -180,22 +180,20 @@ export const CAREER = [
     }
   },
   {
-    from: "", to: "", toUnknown: true, company: "Eye-Able (Web Inclusion GmbH)",
+    from: "11/2025", to: "06/2026", company: "Eye-Able (Web Inclusion GmbH)",
     role: { de: "Enterprise Sales Manager", en: "Enterprise Sales Manager" },
     body: {
       de: "Digitale Barrierefreiheit für große Organisationen: Enterprise-Kunden von der ersten Ansprache bis zum Rollout.",
       en: "Digital accessibility for large organisations: enterprise accounts from first outreach through to rollout."
-    },
-    confirm: true
+    }
   },
   {
-    from: "06/2022", to: "", toUnknown: true, company: "WorkMotion Software GmbH, Berlin",
+    from: "06/2022", to: "10/2025", company: "WorkMotion Software GmbH, Berlin",
     role: { de: "Senior Account Executive", en: "Senior Account Executive" },
     body: {
       de: "Neukundengeschäft von der Ansprache bis zum Abschluss, Messen, Vertriebstrainings, Projektsteuerung, QBRs und Forecasting.",
       en: "New business from first contact to close, trade fairs, sales training, project management, QBRs and forecasting."
-    },
-    confirm: true
+    }
   },
   {
     from: "06/2021", to: "06/2022", company: "Cameo Systems GmbH, Berlin",
@@ -309,4 +307,4 @@ export const PROJECTS = [
   }
 ];
 
-export const DRAFT_MODE = true;
+export const DRAFT_MODE = false;
