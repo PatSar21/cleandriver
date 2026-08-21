@@ -31,6 +31,8 @@ async function shot(name, opts) {
   await page.waitForTimeout(700);
   await page.evaluate(() => { document.querySelectorAll('.reveal').forEach(n => n.classList.add('in')); });
   await page.waitForTimeout(300);
+  const tg = await page.$('.tl-toggle');
+  if (tg) { await tg.click(); await page.waitForTimeout(250); }
   await page.screenshot({ path: `${OUT}/${name}.png`, fullPage: true });
   // sanity probes
   const probe = await page.evaluate(() => ({
@@ -42,7 +44,9 @@ async function shot(name, opts) {
     stats: document.querySelectorAll('.stat').length,
     tagline: (document.querySelector('.tagline')||{}).textContent?.length || 0,
     about: document.querySelectorAll('#about-body p').length,
-    fontLoaded: document.fonts.check('700 40px "Inter Tight"')
+    fontLoaded: document.fonts.check('700 40px "Inter Tight"'),
+    timelineHidden: document.querySelectorAll('.tl-more .tl-item').length,
+    toggle: !!document.querySelector('.tl-toggle')
   }));
   console.log(name, JSON.stringify(probe));
   if (probe.docW > probe.winW + 1) errors.push(`[${name}] HORIZONTAL OVERFLOW ${probe.docW} > ${probe.winW}`);

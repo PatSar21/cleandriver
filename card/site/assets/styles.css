@@ -325,6 +325,21 @@ h1.name {
 }
 .tl-company { color: var(--accent); font-size: 14.5px; font-weight: 500; }
 .tl-body { color: var(--text-dim); font-size: 15px; margin: 9px 0 0; max-width: 58ch; }
+.tl-toggle {
+  appearance: none; cursor: pointer; font: inherit;
+  display: inline-flex; align-items: center; gap: 8px;
+  margin: 4px 0 0; padding: 9px 16px 9px 18px;
+  font-size: 13.5px; font-weight: 600;
+  color: var(--text-dim); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 999px;
+  transition: color .18s ease, border-color .18s ease, background .18s ease;
+}
+.tl-toggle:hover { color: var(--text); border-color: var(--line-hi); background: var(--surface-hi); }
+.tl-toggle svg { width: 15px; height: 15px; transition: transform .2s ease; }
+.tl-toggle.is-open svg { transform: rotate(180deg); }
+.tl-more { padding-top: 28px; }
+.tl-more .tl-item:last-child { padding-bottom: 0; }
+
 .tl-item.is-placeholder .tl-role,
 .tl-item.is-placeholder .tl-company { color: var(--text-faint); }
 

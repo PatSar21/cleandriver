@@ -24,7 +24,7 @@ export const CONTENT = {
       saveContact: "Kontakt speichern",
       writeEmail: "E-Mail schreiben",
       stats: [
-        { value: "3", label: "eigene Projekte" },
+        { value: "2", label: "eigene Projekte" },
         { value: "Berlin", label: "Basis" },
         { value: "DE / EN", label: "Sprachen" }
       ]
@@ -34,13 +34,16 @@ export const CONTENT = {
       title: "Verkaufen und bauen — beides.",
       body: [
         "Im Hauptberuf bringe ich Enterprise-Software zu großen Kunden: Erstkontakt, Pilot, Vertrag, Rollout. Ich sitze dabei jeden Tag zwischen Fachabteilung, IT und Einkauf und übersetze zwischen allen dreien.",
-        "Daneben baue ich eigene Produkte. Nicht als Hobby, sondern weil ich in Gesprächen ständig Probleme höre, für die es noch nichts Gutes gibt. Drei davon sind bisher entstanden."
+        "Daneben baue ich eigene Produkte. Nicht als Hobby, sondern weil ich in Gesprächen ständig Probleme höre, für die es noch nichts Gutes gibt. Zwei davon sind bisher entstanden."
       ]
     },
     career: {
       label: "Werdegang",
       title: "Stationen",
-      present: "heute"
+      present: "heute",
+      showEarlier: "Frühere Stationen anzeigen",
+      hideEarlier: "Frühere Stationen ausblenden",
+      unknownEnd: "Ende offen"
     },
     projects: {
       label: "Was ich gebaut habe",
@@ -74,7 +77,7 @@ export const CONTENT = {
       saveContact: "Save contact",
       writeEmail: "Write an email",
       stats: [
-        { value: "3", label: "own projects" },
+        { value: "2", label: "own projects" },
         { value: "Berlin", label: "based in" },
         { value: "DE / EN", label: "languages" }
       ]
@@ -84,10 +87,17 @@ export const CONTENT = {
       title: "Selling and building — both.",
       body: [
         "By day I bring enterprise software to large customers: first contact, pilot, contract, rollout. Every day I sit between the business side, IT and procurement, and translate between all three.",
-        "On the side I build my own products. Not as a hobby — because I keep hearing problems in those conversations that nothing good solves yet. Three of them exist so far."
+        "On the side I build my own products. Not as a hobby — because I keep hearing problems in those conversations that nothing good solves yet. Two of them exist so far."
       ]
     },
-    career: { label: "Career", title: "Where I've been", present: "present" },
+    career: {
+      label: "Career",
+      title: "Where I've been",
+      present: "present",
+      showEarlier: "Show earlier stations",
+      hideEarlier: "Hide earlier stations",
+      unknownEnd: "end date pending"
+    },
     projects: {
       label: "What I've built",
       title: "Projects",
@@ -114,39 +124,80 @@ export const CONTENT = {
 
 export const CAREER = [
   {
-    from: "2024",
-    to: null,
-    company: "Eye-Able",
+    from: "", to: null, company: "Eye-Able (Web Inclusion GmbH)",
     role: { de: "Enterprise Sales Manager", en: "Enterprise Sales Manager" },
     body: {
-      de: "Digitale Barrierefreiheit für große Organisationen: Verantwortung für Enterprise-Kunden von der ersten Ansprache bis zum Rollout.",
-      en: "Digital accessibility for large organisations: owning enterprise accounts from first outreach through to rollout."
+      de: "Digitale Barrierefreiheit für große Organisationen: Enterprise-Kunden von der ersten Ansprache bis zum Rollout.",
+      en: "Digital accessibility for large organisations: enterprise accounts from first outreach through to rollout."
     },
     confirm: true
   },
   {
-    from: "",
-    to: "",
-    company: "[Vorherige Station]",
-    role: { de: "[Rolle]", en: "[Role]" },
+    from: "11/2015", to: "", toUnknown: true, company: "DNS:NET Internet Service GmbH",
+    role: { de: "Assistent der Vertriebsleitung", en: "Assistant to the Head of Sales" },
     body: {
-      de: "Platzhalter — bitte Angaben aus dem LinkedIn-Profil ergänzen.",
-      en: "Placeholder — to be filled in from the LinkedIn profile."
+      de: "Vertriebsinnendienst und Neukundenberatung online und am Telefon, dazu Systemadministration und Marketing.",
+      en: "Inside sales and new-customer advice by phone and email, plus systems administration and marketing."
     },
-    confirm: true,
-    placeholder: true
+    confirm: true
   },
   {
-    from: "",
-    to: "",
-    company: "OSZ Louise-Schroeder-Schule, Berlin",
-    role: { de: "Bürowirtschaft und Verwaltung", en: "Business administration" },
+    from: "03/2015", to: "11/2015", company: "Gillanation UG",
+    role: { de: "Assistent der Geschäftsführung", en: "Assistant to the Managing Director" },
     body: {
-      de: "Ausbildung in Berlin.",
-      en: "Vocational education in Berlin."
+      de: "Rechte Hand der Geschäftsführung im Tagesgeschäft.",
+      en: "Right hand to the management in day-to-day operations."
+    }
+  },
+  {
+    from: "04/2012", to: "03/2015", company: "Creditsafe Deutschland GmbH",
+    role: { de: "Telesales, Teamleitung, Marketing", en: "Telesales, team lead, marketing" },
+    body: {
+      de: "Start in der Kaltakquise, dann Teamleitung, zuletzt Leadgenerierung und Messen im Marketing-Team.",
+      en: "Started in cold outreach, then team lead, finally lead generation and trade fairs in the marketing team."
+    }
+  },
+  {
+    from: "10/2011", to: "03/2012", company: "Z Personaldienstleistungen GmbH",
+    role: { de: "Zeitarbeit, Einsatz bei Klosterfrau", en: "Temporary assignment at Klosterfrau" },
+    body: { de: "Befristeter Einsatz beim Kunden Klosterfrau.", en: "Fixed-term assignment with client Klosterfrau." },
+    early: true
+  },
+  {
+    from: "10/2009", to: "06/2011", company: "OSZ für Bürowirtschaft und Verwaltung, Berlin",
+    role: { de: "Allgemeine Hochschulreife, Schwerpunkt Wirtschaft", en: "Abitur, focus on business" },
+    body: { de: "Hochschulreife im zweiten Bildungsweg.", en: "University entrance qualification, second-chance route." },
+    kind: "education", early: true
+  },
+  {
+    from: "12/2006", to: "12/2009", company: "tecis Finanzdienstleistungen AG",
+    role: { de: "Investmentberatung", en: "Investment advisor" },
+    body: {
+      de: "Beratung von Privatkunden zu Investment- und Vorsorgeprodukten — parallel zur Ausbildung.",
+      en: "Advising private clients on investment and pension products — alongside vocational training."
     },
-    kind: "education",
-    confirm: true
+    early: true
+  },
+  {
+    from: "10/2006", to: "05/2009", company: "OSZ für Bürowirtschaft und Verwaltung, Berlin",
+    role: { de: "Ausbildung zum Kaufmann für Bürokommunikation", en: "Apprenticeship, office management" },
+    body: { de: "Abschlussnote „gut“.", en: "Graded “good”." },
+    kind: "education", early: true
+  },
+  {
+    from: "09/2005", to: "04/2006", company: "Obst- und Gemüsehandel Sarpen GbR",
+    role: { de: "Einkauf und Verkauf", en: "Buying and selling" },
+    body: {
+      de: "Familienbetrieb: Einkauf im Großhandel, Verkauf am Stand, Auf- und Abbau.",
+      en: "Family business: wholesale buying, selling at the stall, setting up and packing down."
+    },
+    early: true
+  },
+  {
+    from: "08/2005", to: "09/2005", company: "Restaurant Brachvogel, Berlin",
+    role: { de: "Küchenhilfe", en: "Kitchen hand" },
+    body: { de: "Der erste Job: Küche, Pizzaofen, Spüle.", en: "The first job: kitchen, pizza oven, dishes." },
+    early: true
   }
 ];
 
@@ -161,18 +212,6 @@ export const PROJECTS = [
       en: "A driver comes to you and drives you in your own car — bookable like a taxi, without leaving your car behind. Booking flow, driver matching, and the legal construction behind it."
     },
     confirm: true
-  },
-  {
-    name: "Mans Stuff",
-    status: "building",
-    url: "",
-    tags: ["App"],
-    body: {
-      de: "[Kurzbeschreibung folgt — bitte in einem Satz sagen, was Mans Stuff macht und für wen.]",
-      en: "[Short description pending — one sentence on what Mans Stuff does and who it is for.]"
-    },
-    confirm: true,
-    placeholder: true
   },
   {
     name: "Rhythmus",

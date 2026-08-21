@@ -93,9 +93,11 @@ function renderProjects() {
 function renderCareer() {
   const tl = document.getElementById("timeline");
   tl.innerHTML = "";
-  CAREER.forEach((c) => {
+
+  const buildItem = (c) => {
+    const end = c.toUnknown ? t("career.unknownEnd") : c.to || (c.from ? t("career.present") : "");
     const period = c.from || c.to
-      ? `${esc(c.from || "")}${c.from ? " — " : ""}${esc(c.to || (c.from ? t("career.present") : ""))}`
+      ? `${esc(c.from || "")}${c.from ? " — " : ""}${esc(end)}`
       : (lang === "de" ? "Zeitraum offen" : "Dates pending");
     const item = el("div",
       "tl-item" + (c.kind === "education" ? " is-edu" : "") + (c.placeholder ? " is-placeholder" : ""));
@@ -105,8 +107,33 @@ function renderCareer() {
       <div class="tl-company">${esc(c.company)}</div>
       <p class="tl-body">${esc(c.body[lang])}</p>
     `;
-    tl.appendChild(item);
-  });
+    return item;
+  };
+
+  CAREER.filter((c) => !c.early).forEach((c) => tl.appendChild(buildItem(c)));
+
+  const earlier = CAREER.filter((c) => c.early);
+  if (!earlier.length) return;
+
+  const more = el("div", "tl-more");
+  earlier.forEach((c) => more.appendChild(buildItem(c)));
+  more.hidden = true;
+
+  const toggle = el("button", "tl-toggle");
+  toggle.type = "button";
+  toggle.setAttribute("aria-expanded", "false");
+  const setLabel = () => {
+    const open = !more.hidden;
+    toggle.innerHTML = `<span>${esc(open ? t("career.hideEarlier") : t("career.showEarlier"))}</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>`;
+    toggle.classList.toggle("is-open", open);
+    toggle.setAttribute("aria-expanded", String(open));
+  };
+  toggle.addEventListener("click", () => { more.hidden = !more.hidden; setLabel(); });
+  setLabel();
+
+  tl.appendChild(toggle);
+  tl.appendChild(more);
 }
 
 function renderContact() {
