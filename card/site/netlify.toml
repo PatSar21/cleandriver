@@ -1,0 +1,5 @@
+# Settings for this folder when it is deployed directly (drag and drop).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
