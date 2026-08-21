@@ -307,8 +307,8 @@ export const CAREER = [
 export const PROJECTS = [
   {
     name: "CleanDriver",
-    status: "building",
-    url: "",
+    status: "live",
+    url: "https://cleandriver.eu",
     tags: ["Mobility", "Marktplatz", "Recht"],
     body: {
       de: "Ein Fahrer kommt zu Ihnen und fährt Sie in Ihrem eigenen Auto — buchbar wie ein Taxi, aber ohne Ihr Auto stehen zu lassen. Buchungsstrecke, Fahrer-Vermittlung und die rechtliche Konstruktion dahinter.",
