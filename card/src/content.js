@@ -7,15 +7,15 @@ export const PROFILE = {
   photo: "assets/portrait.jpg",
   location: "Berlin, Deutschland",
   locationEn: "Berlin, Germany",
-  email: "",          // filled in once confirmed
-  phone: "",          // filled in once confirmed
+  email: "patrick.sarpen21@gmail.com",
+  phone: "",          // deliberately not published
   linkedin: "https://www.linkedin.com/in/patrick-sarpen-4449591a2/",
   website: ""
 };
 
 export const CONTENT = {
   de: {
-    nav: { work: "Projekte", career: "Werdegang", contact: "Kontakt" },
+    nav: { work: "Projekte", career: "Werdegang", contact: "Kontakt", write: "Schreiben" },
     hero: {
       eyebrow: "Digitale Visitenkarte",
       role: "Enterprise Sales Manager & Gründer",
@@ -24,17 +24,17 @@ export const CONTENT = {
       saveContact: "Kontakt speichern",
       writeEmail: "E-Mail schreiben",
       stats: [
+        { value: "20+", label: "Jahre Berufserfahrung" },
         { value: "2", label: "eigene Projekte" },
-        { value: "Berlin", label: "Basis" },
-        { value: "DE / EN", label: "Sprachen" }
+        { value: "DE / EN / TR", label: "Sprachen" }
       ]
     },
     about: {
       label: "Über mich",
-      title: "Verkaufen und bauen — beides.",
+      title: "Verkaufen und bauen — seit zwanzig Jahren.",
       body: [
-        "Im Hauptberuf bringe ich Enterprise-Software zu großen Kunden: Erstkontakt, Pilot, Vertrag, Rollout. Ich sitze dabei jeden Tag zwischen Fachabteilung, IT und Einkauf und übersetze zwischen allen dreien.",
-        "Daneben baue ich eigene Produkte. Nicht als Hobby, sondern weil ich in Gesprächen ständig Probleme höre, für die es noch nichts Gutes gibt. Zwei davon sind bisher entstanden."
+        "Seit 2005 im Vertrieb — vom Verkaufsstand des Familienbetriebs über die Kaltakquise und die Leitung eines Zwölfer-Teams bis heute ins Enterprise-Geschäft. Erstkontakt, Pilot, Vertrag, Rollout: ich sitze jeden Tag zwischen Fachabteilung, IT und Einkauf und übersetze zwischen allen dreien.",
+        "Dazwischen viereinhalb Jahre eigenes Unternehmen: MOODBOWL, von der Idee bis zum laufenden Betrieb. Seitdem baue ich weiter eigene Produkte — nicht als Hobby, sondern weil ich in Gesprächen ständig Probleme höre, für die es noch nichts Gutes gibt. Zwei davon sind bisher entstanden."
       ]
     },
     career: {
@@ -61,6 +61,30 @@ export const CONTENT = {
       qrHint: "Diese Seite scannen",
       vcard: "Als Kontakt speichern (.vcf)"
     },
+    exchange: {
+      label: "Kontakt aufnehmen",
+      title: "Hinterlassen Sie mir Ihre Daten.",
+      intro: "Melden Sie sich mit Google an und schreiben Sie mir. Was Sie schreiben, sehen nur Sie und ich — niemand sonst.",
+      signIn: "Mit Google anmelden",
+      signOut: "Abmelden",
+      signedInAs: "Angemeldet als",
+      nameLabel: "Ihr Name",
+      companyLabel: "Firma (optional)",
+      messageLabel: "Ihre Nachricht",
+      messagePlaceholder: "Worum geht es?",
+      send: "Nachricht senden",
+      sending: "Wird gesendet …",
+      sent: "Danke — Ihre Nachricht ist bei mir angekommen.",
+      yourMessages: "Ihre Nachrichten",
+      noMessages: "Noch keine Nachricht von Ihnen.",
+      inbox: "Posteingang",
+      inboxEmpty: "Noch keine Nachrichten.",
+      inboxCount: "Nachrichten insgesamt",
+      privacyNote: "Nur Sie sehen Ihre eigenen Nachrichten. Ich sehe alle.",
+      errorSignIn: "Die Anmeldung ist noch nicht freigeschaltet. Bitte später erneut versuchen.",
+      errorSend: "Das hat nicht geklappt. Bitte noch einmal versuchen.",
+      required: "Bitte Name und Nachricht ausfüllen."
+    },
     footer: { rights: "Alle Rechte vorbehalten.", imprint: "Impressum" },
     draft: {
       title: "Entwurf",
@@ -68,7 +92,7 @@ export const CONTENT = {
     }
   },
   en: {
-    nav: { work: "Projects", career: "Career", contact: "Contact" },
+    nav: { work: "Projects", career: "Career", contact: "Contact", write: "Write" },
     hero: {
       eyebrow: "Digital business card",
       role: "Enterprise Sales Manager & Founder",
@@ -77,17 +101,17 @@ export const CONTENT = {
       saveContact: "Save contact",
       writeEmail: "Write an email",
       stats: [
+        { value: "20+", label: "years in the field" },
         { value: "2", label: "own projects" },
-        { value: "Berlin", label: "based in" },
-        { value: "DE / EN", label: "languages" }
+        { value: "DE / EN / TR", label: "languages" }
       ]
     },
     about: {
       label: "About",
-      title: "Selling and building — both.",
+      title: "Selling and building — for twenty years.",
       body: [
-        "By day I bring enterprise software to large customers: first contact, pilot, contract, rollout. Every day I sit between the business side, IT and procurement, and translate between all three.",
-        "On the side I build my own products. Not as a hobby — because I keep hearing problems in those conversations that nothing good solves yet. Two of them exist so far."
+        "In sales since 2005 — from the family market stall through cold calling and leading a team of twelve, to enterprise deals today. First contact, pilot, contract, rollout: every day I sit between the business side, IT and procurement, and translate between all three.",
+        "In between, four and a half years running my own company: MOODBOWL, from idea to a working business. I have kept building my own products since — not as a hobby, but because I keep hearing problems in those conversations that nothing good solves yet. Two of them exist so far."
       ]
     },
     career: {
@@ -114,6 +138,30 @@ export const CONTENT = {
       qrHint: "Scan this page",
       vcard: "Save as contact (.vcf)"
     },
+    exchange: {
+      label: "Get in touch",
+      title: "Leave me your details.",
+      intro: "Sign in with Google and write to me. What you write is visible to you and me only — nobody else.",
+      signIn: "Sign in with Google",
+      signOut: "Sign out",
+      signedInAs: "Signed in as",
+      nameLabel: "Your name",
+      companyLabel: "Company (optional)",
+      messageLabel: "Your message",
+      messagePlaceholder: "What is this about?",
+      send: "Send message",
+      sending: "Sending …",
+      sent: "Thank you — your message reached me.",
+      yourMessages: "Your messages",
+      noMessages: "No message from you yet.",
+      inbox: "Inbox",
+      inboxEmpty: "No messages yet.",
+      inboxCount: "messages in total",
+      privacyNote: "Only you can see your own messages. I can see all of them.",
+      errorSignIn: "Sign-in is not switched on yet. Please try again later.",
+      errorSend: "That did not work. Please try again.",
+      required: "Please fill in your name and a message."
+    },
     footer: { rights: "All rights reserved.", imprint: "Imprint" },
     draft: {
       title: "Draft",
@@ -133,70 +181,97 @@ export const CAREER = [
     confirm: true
   },
   {
-    from: "11/2015", to: "", toUnknown: true, company: "DNS:NET Internet Service GmbH",
-    role: { de: "Assistent der Vertriebsleitung", en: "Assistant to the Head of Sales" },
+    from: "06/2022", to: "", toUnknown: true, company: "WorkMotion Software GmbH, Berlin",
+    role: { de: "Senior Account Executive", en: "Senior Account Executive" },
     body: {
-      de: "Vertriebsinnendienst und Neukundenberatung online und am Telefon, dazu Systemadministration und Marketing.",
-      en: "Inside sales and new-customer advice by phone and email, plus systems administration and marketing."
+      de: "Neukundengeschäft von der Ansprache bis zum Abschluss, Messen, Vertriebstrainings, Projektsteuerung, QBRs und Forecasting.",
+      en: "New business from first contact to close, trade fairs, sales training, project management, QBRs and forecasting."
     },
     confirm: true
   },
   {
-    from: "03/2015", to: "11/2015", company: "Gillanation UG",
-    role: { de: "Assistent der Geschäftsführung", en: "Assistant to the Managing Director" },
+    from: "06/2021", to: "06/2022", company: "Cameo Systems GmbH, Berlin",
+    role: { de: "Sales & Recruiting Specialist", en: "Sales & Recruiting Specialist" },
     body: {
-      de: "Rechte Hand der Geschäftsführung im Tagesgeschäft.",
-      en: "Right hand to the management in day-to-day operations."
+      de: "Vermittlung von IT-Fachkräften, Headhunting, Key Accounting und Netzwerkaufbau.",
+      en: "Placing IT specialists, headhunting, key accounting and network building."
     }
   },
   {
-    from: "04/2012", to: "03/2015", company: "Creditsafe Deutschland GmbH",
-    role: { de: "Telesales, Teamleitung, Marketing", en: "Telesales, team lead, marketing" },
+    from: "05/2019", to: "12/2023", company: "MOODBOWL, Berlin",
+    role: { de: "Gründer und Geschäftsführer", en: "Founder and CEO" },
     body: {
-      de: "Start in der Kaltakquise, dann Teamleitung, zuletzt Leadgenerierung und Messen im Marketing-Team.",
-      en: "Started in cold outreach, then team lead, finally lead generation and trade fairs in the marketing team."
+      de: "Eigenes Unternehmen von der Idee bis zum laufenden Betrieb: Einkauf und Rezepturen, Kundengewinnung, Events, Buchhaltung, Website und Social Media.",
+      en: "My own company from idea to running operation: purchasing and recipes, winning customers, events, bookkeeping, website and social media."
     }
   },
   {
-    from: "10/2011", to: "03/2012", company: "Z Personaldienstleistungen GmbH",
-    role: { de: "Zeitarbeit, Einsatz bei Klosterfrau", en: "Temporary assignment at Klosterfrau" },
-    body: { de: "Befristeter Einsatz beim Kunden Klosterfrau.", en: "Fixed-term assignment with client Klosterfrau." },
+    from: "07/2018", to: "04/2019", company: "Sabbatical",
+    role: { de: "Auszeit und Reisen", en: "Time out and travel" },
+    body: { de: "Zehn Monate unterwegs.", en: "Ten months on the road." },
+    kind: "break"
+  },
+  {
+    from: "11/2015", to: "06/2018", company: "DNS:NET Internet Service GmbH, Berlin",
+    role: { de: "Stellvertretender Vertriebsleiter", en: "Deputy Sales Manager" },
+    body: {
+      de: "Vertriebsinnendienst und Neukundenberatung, dazu Personalplanung, Messen, Systemadministration und Marketing.",
+      en: "Inside sales and new-customer advice, plus staff planning, trade fairs, systems administration and marketing."
+    },
     early: true
   },
   {
-    from: "10/2009", to: "06/2011", company: "OSZ für Bürowirtschaft und Verwaltung, Berlin",
+    from: "03/2015", to: "11/2015", company: "Gillanation UG, Berlin",
+    role: { de: "Projektmanager Vertrieb", en: "Project Manager, Sales" },
+    body: {
+      de: "Marketing und Vermarktung einer Tanzplattform.",
+      en: "Marketing and go-to-market for a dance platform."
+    },
+    early: true
+  },
+  {
+    from: "04/2012", to: "03/2015", company: "Creditsafe Deutschland GmbH, Berlin",
+    role: { de: "Teamleiter Vertrieb und Marketing", en: "Team Leader, Sales and Marketing" },
+    body: {
+      de: "Start in der Kaltakquise, dann Führung eines Teams von zwölf Mitarbeitenden: Zielsetzung, Trainings, Messen und Leadgenerierung.",
+      en: "Started in cold outreach, then led a team of twelve: goal setting, training, trade fairs and lead generation."
+    },
+    early: true
+  },
+  {
+    from: "10/2011", to: "03/2012", company: "Z Personaldienstleistungen GmbH, Berlin",
+    role: { de: "Produktionshelfer bei Klosterfrau", en: "Production assistant at Klosterfrau" },
+    body: { de: "Abfüllung und Qualitätskontrolle.", en: "Packing, filling and quality control." },
+    early: true
+  },
+  {
+    from: "10/2009", to: "06/2011", company: "OSZ Bürowirtschaft und Verwaltung, Berlin",
     role: { de: "Allgemeine Hochschulreife, Schwerpunkt Wirtschaft", en: "Abitur, focus on business" },
     body: { de: "Hochschulreife im zweiten Bildungsweg.", en: "University entrance qualification, second-chance route." },
     kind: "education", early: true
   },
   {
-    from: "12/2006", to: "12/2009", company: "tecis Finanzdienstleistungen AG",
-    role: { de: "Investmentberatung", en: "Investment advisor" },
+    from: "12/2006", to: "12/2009", company: "Tecis Finanzdienstleistungen AG",
+    role: { de: "Investmentberater und Versicherungsfachmann", en: "Investment consultant and insurance specialist" },
     body: {
-      de: "Beratung von Privatkunden zu Investment- und Vorsorgeprodukten — parallel zur Ausbildung.",
-      en: "Advising private clients on investment and pension products — alongside vocational training."
+      de: "Beratung von Privatkunden — parallel zur Ausbildung.",
+      en: "Advising private clients — alongside vocational training."
     },
     early: true
   },
   {
-    from: "10/2006", to: "05/2009", company: "OSZ für Bürowirtschaft und Verwaltung, Berlin",
+    from: "10/2006", to: "05/2009", company: "OSZ Bürowirtschaft und Verwaltung, Berlin",
     role: { de: "Ausbildung zum Kaufmann für Bürokommunikation", en: "Apprenticeship, office management" },
     body: { de: "Abschlussnote „gut“.", en: "Graded “good”." },
     kind: "education", early: true
   },
   {
-    from: "09/2005", to: "04/2006", company: "Obst- und Gemüsehandel Sarpen GbR",
+    from: "09/2005", to: "11/2006", company: "Obst- und Gemüsehandel Sarpen, Berlin",
     role: { de: "Einkauf und Verkauf", en: "Buying and selling" },
     body: {
-      de: "Familienbetrieb: Einkauf im Großhandel, Verkauf am Stand, Auf- und Abbau.",
-      en: "Family business: wholesale buying, selling at the stall, setting up and packing down."
+      de: "Familienbetrieb: Einkauf im Großhandel, Verkauf am Stand. Der Anfang.",
+      en: "Family business: wholesale buying, selling at the stall. Where it started."
     },
-    early: true
-  },
-  {
-    from: "08/2005", to: "09/2005", company: "Restaurant Brachvogel, Berlin",
-    role: { de: "Küchenhilfe", en: "Kitchen hand" },
-    body: { de: "Der erste Job: Küche, Pizzaofen, Spüle.", en: "The first job: kitchen, pizza oven, dishes." },
     early: true
   }
 ];

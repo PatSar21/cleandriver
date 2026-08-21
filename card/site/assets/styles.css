@@ -454,3 +454,77 @@ footer.site a:hover { color: var(--text-dim); }
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
+
+/* ---------- private contact exchange ---------- */
+.ex-panel {
+  padding: clamp(22px, 4vw, 32px);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+}
+.ex-intro { color: var(--text-dim); margin: 0 0 20px; max-width: 52ch; }
+
+.ex-who {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  padding-bottom: 18px; margin-bottom: 22px;
+  border-bottom: 1px solid var(--line);
+  font-size: 14px;
+}
+.ex-who-label { color: var(--text-faint); }
+.ex-who strong { font-weight: 600; word-break: break-all; }
+.ex-signout {
+  appearance: none; cursor: pointer; font: inherit; font-size: 13px; font-weight: 600;
+  margin-left: auto; padding: 6px 13px; border-radius: 999px;
+  color: var(--text-dim); background: transparent; border: 1px solid var(--line);
+  transition: color .18s ease, border-color .18s ease;
+}
+.ex-signout:hover { color: var(--text); border-color: var(--line-hi); }
+
+.ex-form { display: flex; flex-direction: column; gap: 14px; align-items: flex-start; }
+.ex-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; width: 100%; }
+@media (max-width: 560px) { .ex-row { grid-template-columns: 1fr; } }
+.ex-field { display: flex; flex-direction: column; gap: 7px; width: 100%; }
+.ex-field > span { font-size: 12.5px; font-weight: 600; color: var(--text-faint); letter-spacing: .02em; }
+.ex-field input, .ex-field textarea {
+  width: 100%; font: inherit; font-size: 15px; color: var(--text);
+  padding: 12px 14px; border-radius: var(--r-sm);
+  background: rgba(0,0,0,.3); border: 1px solid var(--line);
+  transition: border-color .18s ease, background .18s ease;
+  resize: vertical;
+}
+.ex-field input::placeholder, .ex-field textarea::placeholder { color: var(--text-faint); }
+.ex-field input:focus, .ex-field textarea:focus {
+  outline: none; border-color: var(--accent); background: rgba(0,0,0,.45);
+}
+.ex-form .btn[disabled] { opacity: .6; cursor: default; }
+.ex-privacy { font-size: 12.5px; color: var(--text-faint); margin: 0; }
+
+.ex-notice {
+  width: 100%; margin: 0; padding: 11px 14px; border-radius: var(--r-sm); font-size: 14px;
+}
+.ex-notice.is-ok { color: var(--live); background: rgba(53,224,161,.09); border: 1px solid rgba(53,224,161,.28); }
+.ex-notice.is-error { color: #ffb4a8; background: rgba(255,120,100,.09); border: 1px solid rgba(255,120,100,.28); }
+
+.ex-mine, .ex-inbox-head { margin-top: 30px; }
+.ex-inbox-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  margin-top: 0; margin-bottom: 16px;
+}
+.ex-mine h3, .ex-inbox-head h3 {
+  font-family: var(--font-display); font-size: 17px; font-weight: 600;
+  letter-spacing: -.015em; margin: 0 0 14px;
+}
+.ex-inbox-head h3 { margin: 0; }
+.ex-empty { color: var(--text-faint); font-size: 14px; margin: 0; }
+
+.ex-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.ex-msg {
+  padding: 15px 16px; border-radius: var(--r-sm);
+  background: rgba(0,0,0,.25); border: 1px solid var(--line);
+}
+.ex-msg-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 9px; font-size: 14px; }
+.ex-msg-top strong { font-weight: 600; }
+.ex-msg-co { color: var(--accent); font-size: 13px; }
+.ex-msg-top time { margin-left: auto; color: var(--text-faint); font-size: 12.5px; }
+.ex-msg-mail { display: inline-block; margin-top: 4px; color: var(--text-dim); font-size: 13px; }
+.ex-msg p { margin: 8px 0 0; color: var(--text-dim); font-size: 14.5px; white-space: pre-wrap; }

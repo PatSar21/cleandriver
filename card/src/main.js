@@ -1,5 +1,6 @@
 import qrcode from "qrcode-generator";
 import { PROFILE, CONTENT, CAREER, PROJECTS, DRAFT_MODE } from "./content.js";
+import { initExchange } from "./exchange.js";
 
 const LANG_KEY = "ps-lang";
 const stored = localStorage.getItem(LANG_KEY);
@@ -139,12 +140,13 @@ function renderCareer() {
 function renderContact() {
   const rows = document.getElementById("contact-rows");
   rows.innerHTML = "";
-  const missing = lang === "de" ? "noch nicht hinterlegt" : "not set yet";
 
+  // Only rows with an actual value are shown — no empty placeholders on a public page.
   const row = (icon, value, href) => {
+    if (!value) return;
     const r = el("div", "crow");
-    r.innerHTML = `${icon}<span class="val${value ? "" : " is-empty"}">${value ? esc(value) : esc(missing)}</span>`;
-    if (value) {
+    r.innerHTML = `${icon}<span class="val">${esc(value)}</span>`;
+    {
       const b = el("button", null, t("contact.copy"));
       b.type = "button";
       b.addEventListener("click", async () => {
@@ -178,6 +180,8 @@ function renderQR() {
   if (svg) { svg.removeAttribute("width"); svg.removeAttribute("height"); }
 }
 
+let exchange = null;
+
 function renderAll() {
   renderStatic();
   renderDraft();
@@ -186,6 +190,7 @@ function renderAll() {
   renderProjects();
   renderCareer();
   renderContact();
+  if (exchange) exchange.render({ t, lang });
 }
 
 /* ---------- behaviour ---------- */
@@ -215,6 +220,7 @@ function initScroll() {
 
 renderPhoto();
 renderAll();
+exchange = initExchange({ t, lang });
 renderQR();
 initLang();
 initScroll();
