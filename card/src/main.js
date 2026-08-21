@@ -37,6 +37,8 @@ function renderStatic() {
   document.querySelectorAll(".lang button").forEach((b) =>
     b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
   document.getElementById("year").textContent = String(new Date().getFullYear());
+  document.getElementById("photo-credit").textContent =
+    (lang === "de" ? "Foto: " : "Photo: ") + PROFILE.photoCredit;
   document.title = `Patrick Sarpen — ${t("hero.role")}`;
 }
 
@@ -50,13 +52,15 @@ function renderDraft() {
 
 function renderPhoto() {
   const slot = document.getElementById("photo-slot");
-  slot.innerHTML = "";
-  const img = new Image();
-  img.alt = PROFILE.name;
-  img.decoding = "async";
-  img.src = PROFILE.photo;
-  img.onerror = () => { slot.innerHTML = `<div class="ph" aria-label="${esc(PROFILE.name)}">${esc(PROFILE.initials)}</div>`; };
-  slot.appendChild(img);
+  slot.innerHTML = `
+    <picture>
+      <source srcset="${esc(PROFILE.photoWebp)}" type="image/webp">
+      <img src="${esc(PROFILE.photo)}" alt="${esc(PROFILE.name)}" width="640" height="640" decoding="async" fetchpriority="high">
+    </picture>`;
+  // If the photo is missing, fall back to the monogram rather than a broken image.
+  slot.querySelector("img").addEventListener("error", () => {
+    slot.innerHTML = `<div class="ph" aria-label="${esc(PROFILE.name)}">${esc(PROFILE.initials)}</div>`;
+  });
 }
 
 function renderStats() {

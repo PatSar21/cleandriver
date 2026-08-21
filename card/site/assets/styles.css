@@ -233,8 +233,11 @@ h1.name {
 }
 
 .hero-photo { position: relative; flex: none; }
+.hero-photo picture { display: block; }
 .hero-photo img, .hero-photo .ph {
-  width: clamp(150px, 26vw, 216px); aspect-ratio: 1;
+  /* height:auto is required: the img's height attribute would otherwise
+     beat aspect-ratio and stretch the circle into an oval. */
+  width: clamp(150px, 26vw, 216px); height: auto; aspect-ratio: 1;
   border-radius: 50%; object-fit: cover; display: block;
   border: 1px solid var(--line-hi);
   background: linear-gradient(150deg, #171a22, #0d0f14);

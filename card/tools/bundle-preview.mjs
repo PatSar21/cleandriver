@@ -10,7 +10,14 @@ for (const f of ['inter-latin-wght-normal', 'inter-tight-latin-wght-normal']) {
   const b64 = (await readFile(`${SITE}/assets/fonts/${f}.woff2`)).toString('base64');
   css = css.replace(`url("fonts/${f}.woff2")`, `url("data:font/woff2;base64,${b64}")`);
 }
-const js = await readFile(`${SITE}/assets/app.js`, 'utf8');
+let js = await readFile(`${SITE}/assets/app.js`, 'utf8');
+
+// Inline the portrait so the preview needs no external files.
+const portraitJpg = (await readFile(`${SITE}/assets/portrait.jpg`)).toString('base64');
+const portraitWebp = (await readFile(`${SITE}/assets/portrait.webp`)).toString('base64');
+js = js
+  .replace('assets/portrait.jpg', `data:image/jpeg;base64,${portraitJpg}`)
+  .replace('assets/portrait.webp', `data:image/webp;base64,${portraitWebp}`);
 const html = await readFile(`${SITE}/index.html`, 'utf8');
 
 let body = html.slice(html.indexOf('<body>') + 6, html.indexOf('</body>'))

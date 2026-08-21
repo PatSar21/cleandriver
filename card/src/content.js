@@ -5,6 +5,8 @@ export const PROFILE = {
   name: "Patrick Sarpen",
   initials: "PS",
   photo: "assets/portrait.jpg",
+  photoWebp: "assets/portrait.webp",
+  photoCredit: "Marco Papajewski",
   location: "Berlin, Deutschland",
   locationEn: "Berlin, Germany",
   email: "patrick.sarpen21@gmail.com",
