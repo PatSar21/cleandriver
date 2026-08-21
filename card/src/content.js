@@ -318,8 +318,8 @@ export const PROJECTS = [
   },
   {
     name: "Rhythmus",
-    status: "building",
-    url: "",
+    status: "live",
+    url: "https://a-rhythmus.netlify.app",
     tags: ["App", "Gesundheit", "Zyklus"],
     tagline: { de: "Dein Zyklus. Dein Rhythmus.", en: "Your cycle. Your rhythm." },
     body: {
