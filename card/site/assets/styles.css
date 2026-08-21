@@ -536,3 +536,32 @@ footer.site a:hover { color: var(--text-dim); }
 .ex-msg-top time { margin-left: auto; color: var(--text-faint); font-size: 12.5px; }
 .ex-msg-mail { display: inline-block; margin-top: 4px; color: var(--text-dim); font-size: 13px; }
 .ex-msg p { margin: 8px 0 0; color: var(--text-dim); font-size: 14.5px; white-space: pre-wrap; }
+
+/* sign-in: email link form */
+.ex-signin-form { max-width: 380px; }
+.ex-or {
+  display: flex; align-items: center; gap: 14px;
+  margin: 20px 0; max-width: 380px;
+  color: var(--text-faint); font-size: 12.5px;
+}
+.ex-or::before, .ex-or::after {
+  content: ""; flex: 1; height: 1px; background: var(--line);
+}
+
+.ex-sent { max-width: 46ch; }
+.ex-sent-mark {
+  display: inline-grid; place-items: center;
+  width: 44px; height: 44px; border-radius: 50%;
+  margin-bottom: 16px;
+  color: var(--live);
+  background: rgba(53,224,161,.1);
+  border: 1px solid rgba(53,224,161,.3);
+}
+.ex-sent-mark svg { width: 21px; height: 21px; }
+.ex-sent h3 {
+  font-family: var(--font-display); font-size: 20px; font-weight: 600;
+  letter-spacing: -.02em; margin: 0 0 8px;
+}
+.ex-sent p { color: var(--text-dim); font-size: 15px; margin: 0 0 18px; }
+.ex-sent strong { color: var(--text); font-weight: 600; word-break: break-all; }
+.ex-sent .ex-signout { margin-left: 0; }

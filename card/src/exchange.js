@@ -3,7 +3,7 @@
 // this file only decides what to draw.
 
 import { createClient } from "@supabase/supabase-js";
-import { SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, OWNER_EMAIL } from "./config.js";
+import { SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, OWNER_EMAIL, ENABLE_GOOGLE } from "./config.js";
 
 export const supabase = createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
   auth: { persistSession: true, detectSessionInUrl: true, flowType: "pkce" }
@@ -17,6 +17,7 @@ let messages = [];
 let notice = null;          // { kind: "ok" | "error", text }
 let sending = false;
 let loaded = false;
+let linkSentTo = null;   // email a sign-in link was just sent to
 
 export function initExchange({ t, lang, onRender }) {
   const ctx = { t, lang, onRender };
@@ -31,6 +32,7 @@ export function initExchange({ t, lang, onRender }) {
     const changed = s?.user?.id !== session?.user?.id;
     session = s;
     if (changed) { messages = []; loaded = false; }
+    if (session) linkSentTo = null;
     if (session && !loaded) loadMessages(ctx);
     render(ctx);
   });
@@ -50,7 +52,7 @@ async function loadMessages(ctx) {
   render(ctx);
 }
 
-async function signIn(ctx) {
+async function signInWithGoogle(ctx) {
   notice = null;
   const { error } = await supabase.auth.signInWithOAuth({
     provider: "google",
@@ -62,11 +64,38 @@ async function signIn(ctx) {
   }
 }
 
+const looksLikeEmail = (v) => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v);
+
+async function sendSignInLink(ctx, email) {
+  if (!looksLikeEmail(email)) {
+    notice = { kind: "error", text: ctx.t("exchange.errorEmail") };
+    return render(ctx);
+  }
+
+  sending = true;
+  notice = null;
+  render(ctx);
+
+  const { error } = await supabase.auth.signInWithOtp({
+    email,
+    options: { shouldCreateUser: true, emailRedirectTo: location.origin + location.pathname }
+  });
+
+  sending = false;
+  if (error) {
+    notice = { kind: "error", text: ctx.t("exchange.errorLink") };
+  } else {
+    linkSentTo = email;
+  }
+  render(ctx);
+}
+
 async function signOut(ctx) {
   await supabase.auth.signOut();
   messages = [];
   loaded = false;
   notice = null;
+  linkSentTo = null;
   render(ctx);
 }
 
@@ -126,12 +155,46 @@ function render(ctx) {
 
   /* ---- signed out ---- */
   if (!session) {
+    if (linkSentTo) {
+      box.innerHTML = `
+        <div class="ex-sent">
+          <div class="ex-sent-mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m4 7 8 6 8-6"/></svg>
+          </div>
+          <h3>${esc(t("exchange.linkSent"))}</h3>
+          <p>${esc(t("exchange.linkSentBody")).replace("{email}", `<strong>${esc(linkSentTo)}</strong>`)}</p>
+          <button type="button" class="ex-signout" id="ex-again">${esc(t("exchange.linkAgain"))}</button>
+        </div>`;
+      box.querySelector("#ex-again").addEventListener("click", () => {
+        linkSentTo = null; notice = null; render(ctx);
+      });
+      return;
+    }
+
     box.innerHTML = `
       <p class="ex-intro">${esc(t("exchange.intro"))}</p>
-      ${noticeHtml}
-      <button type="button" class="btn btn-primary" id="ex-signin">${GOOGLE_MARK}<span>${esc(t("exchange.signIn"))}</span></button>
+      <form class="ex-form ex-signin-form" id="ex-mail-form" novalidate>
+        <label class="ex-field">
+          <span>${esc(t("exchange.emailLabel"))}</span>
+          <input name="email" type="email" inputmode="email" autocomplete="email"
+                 maxlength="200" placeholder="${esc(t("exchange.emailPlaceholder"))}" required>
+        </label>
+        ${noticeHtml}
+        <button type="submit" class="btn btn-primary" ${sending ? "disabled" : ""}>
+          ${esc(sending ? t("exchange.sendingLink") : t("exchange.sendLink"))}
+        </button>
+      </form>
+      ${ENABLE_GOOGLE ? `
+        <div class="ex-or"><span>${esc(t("exchange.or"))}</span></div>
+        <button type="button" class="btn btn-ghost" id="ex-signin">${GOOGLE_MARK}<span>${esc(t("exchange.signIn"))}</span></button>` : ""}
     `;
-    box.querySelector("#ex-signin").addEventListener("click", () => signIn(ctx));
+    const mailForm = box.querySelector("#ex-mail-form");
+    mailForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      sendSignInLink(ctx, mailForm.elements.email.value.trim());
+    });
+    const g = box.querySelector("#ex-signin");
+    if (g) g.addEventListener("click", () => signInWithGoogle(ctx));
     return;
   }
 

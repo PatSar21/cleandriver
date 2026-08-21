@@ -28,7 +28,7 @@ let body = html.slice(html.indexOf('<body>') + 6, html.indexOf('</body>'))
 body = body.replace(
   '<div class="ex-panel" id="exchange-body"></div>',
   `<div class="ex-panel">
-     <p class="ex-intro">Melden Sie sich mit Google an und schreiben Sie mir. Was Sie schreiben, sehen nur Sie und ich — niemand sonst.</p>
+     <p class="ex-intro">Kurz anmelden, dann schreiben. Was Sie schreiben, sehen nur Sie und ich — niemand sonst.</p>
      <p class="ex-notice is-ok" style="max-width:56ch">Dieser Bereich funktioniert nur auf der echten Seite — in dieser Vorschau ist die Verbindung zur Datenbank gesperrt.<br><span style="opacity:.8">This part only works on the live site; the preview cannot reach the database.</span></p>
    </div>`);
 
