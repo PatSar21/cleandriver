@@ -206,7 +206,18 @@ Der Auftrag hat sich im Verlauf geändert: kein Softwareprodukt, kein B2B-Vertra
 2. **Zweitleben-Set für Polstermöbel** (mittleres Risiko): Maßschaum plus Bezug plus Anleitung für die verbreitetsten Sofamodelle. Killer-Risiko: Sperrgut und Passform.
 3. **Koffer mit tauschbaren Rollen und Zehn-Jahres-Teilegarantie** (hohes Risiko, eigenes Objekt): kein Marktbeleg, reine Hypothese, hoher Kapitalbedarf.
 
-## T2.3 Vertiefung Vorschlag 1
+## T2.3 Prüfergebnis vom 08.09.2026: Vorschlag 1 und 2 widerlegt
+
+Der entscheidende Test ist gelaufen. Ergebnis:
+
+- **Kaffeevollautomat:** Modellspezifische Dichtungs- und Wartungssets mit kostenlosen Anleitungen bei mehreren deutschen Shops, getrennt nach Baureihen (EAM, ECAM, ESAM, ETAM), inklusive Silikonfett mit Trinkwasserzulassung. Exakt das vorgeschlagene Produkt.
+- **Saugroboter:** Ersatzteile von Akku über Radmodul bis LDS-Sensor bei spezialisierten Shops, dazu Service-Kits mit mehreren Teilen und bebilderte Schritt-für-Schritt-Anleitungen.
+- **Die zugrundeliegende These:** Ein großer Ersatzteilshop bietet über 1.000 Video-Reparaturanleitungen, Beratung und einen Typenschildscanner. Die angenommene Lücke „der Zugang scheitert" ist bedient. Das war die zentrale Annahme aus T2.1, und sie ist falsch.
+- **Vorschlag 2:** Schaumstoffzuschnitt und Bezüge nach Maß bei mehreren deutschen Anbietern mit Konfigurator, teils kombiniert beim selben Anbieter.
+
+Der folgende Abschnitt bleibt als Dokumentation stehen, nicht als Empfehlung.
+
+## T2.4 Vertiefung Vorschlag 1 (dokumentiert, nicht empfohlen)
 
 **Auswahlregel:** hoher Gerätewert, billiges Ausfallteil, Tausch ohne Eingriff in die Netzspannung, kleines Versandmaß, idealerweise wiederkehrendes Verschleißteil. Deshalb keine Kleingeräte: für einen Toaster für 25 € rechnet sich kein Reparaturset.
 
@@ -236,6 +247,20 @@ Der Auftrag hat sich im Verlauf geändert: kein Softwareprodukt, kein B2B-Vertra
 5. Woche 7–12: zweite Modellreihe oder Abbruch.
 
 **Abbruchkriterien, vorher festlegen:** weniger als fünf verkaufte Sets in sechs Wochen, oder Retourenquote über 20 %, oder mehr als 30 Minuten Support je Set.
+
+---
+
+## T2.5 Bilanz: neun Prüfungen, neun besetzte Märkte
+
+Smart-Home-Hardware, 3D-Druck-Ersatzteile, Möbelverbinder, Küchenmaschinenteile, modulare Matratzen, Kaffeevollautomaten-Sets, Saugroboter-Teile, Ferndiagnose und Anleitungsportale, Polsterbezüge nach Maß. Neun Stichproben, neunmal ein funktionierender Anbieter.
+
+**Was das über die Suchmethode sagt:** Eine Lücke, die sich in zwanzig Minuten ergoogeln lässt, ist keine. Entweder ist sie besetzt, oder sie ist leer, weil sie wirtschaftlich unattraktiv oder schwer ist. Bezeichnend: Der einzige Bereich ohne gefundenen Anbieter ist die Fortbestands-Treuhand aus Teil 1 — also genau das, was als zu kompliziert verworfen wurde. Leer heißt schwer.
+
+Drei ehrliche Wege, keiner davon „weiter suchen":
+
+1. **Schwierigkeit annehmen.** Zurück zu Teil 1. Der unbesetzte Raum ist regulatorisch, langsam und vertriebsintensiv — passend zum Profil, aber kein Feierabendprodukt.
+2. **Wettbewerb annehmen.** In einen bedienten Markt gehen und über Ausführung, Service und Vertrauen gewinnen statt über Neuheit. Die Bedingung „was es noch nicht gibt" hat hier reihenweise Sackgassen produziert.
+3. **Zugang nutzen.** Eine Chance aus asymmetrischem Wissen statt aus Recherche: etwas, das aus der eigenen Position bei CleanDriver, im Vertrieb oder im Kreislaufgeschäft sichtbar ist und sich nicht ergoogeln lässt.
 
 ---
 
@@ -275,6 +300,14 @@ Alle Angaben stammen aus Web-Recherche vom 08.09.2026. Wo unten Fachpresse oder 
 - Sustainability Fatigue und NIQ-Index: https://brandneo.de/pulse-check/sustainability-fatigue · EmpCo und Werbeaussagen: https://www.hellosimple.de/pages/zero-waste-oder-less-waste
 - Geprüfter Wettbewerb: https://shop.wolfcraft.com/de-de/products/p_4665_exzentermoebelverbinderset · https://furnica.at/collections/moebelverbinder · https://www.die-matratzenmanufaktur.de/Modulare-Matratzen · https://www.ersatzteileshop.de/kleine-haushaltsgeraete/kuechenmaschine
 - Beschaffung: https://www.ersatzteile-grosshandel.de/ · https://www.lieferanten.de/produkt-Ersatzteile.html
+
+**Prüfung der B2C-Vorschläge (08.09.2026)**
+- Wartungssets DeLonghi: https://www.juraprofi.de/DeLonghi-Ersatzteile/Wartungsset-DeLonghi:::626_646.html
+- Saeco Dicht- und Pflegesatz: https://www.kaffeemaschinendoctor.de/ReparatursetsWerkzeug/Saeco-Bruehgruppen-Dicht-und-Pflegesatz-alte-Modelle::2554.html
+- Reparatursets DeLonghi: https://www.world4trade.de/Reparatursets-fuer-DeLonghi-Kaffeemaschinen
+- Saugroboter-Ersatzteile und Service-Kits: https://www.ersatzteilshop.de/saugroboter/ · https://www.roboter-deals.de/61-ersatzteile-reparaturen
+- Ersatzteilshop mit Typenschildscanner und über 1.000 Videoanleitungen: https://www.ersatzteilshop.de/
+- Bezüge nach Maß plus Schaumstoff: https://dein-polster.com/katalog/bezuege-nach-mass · https://topschaum.de/katalog/bezuege-nach-mass · https://www.vanmade.de/Nach-Mass-starten/Alle-Massanfertigungen/Bezuege-nach-Mass/ · https://schaumstoffonline.de/collections/sitzpolster
 
 **Reparaturförderung Deutschland**
 - https://www.deutsche-handwerks-zeitung.de/bundesweiter-reparaturbonus-gescheitert-das-tut-sich-in-den-laendern-378638/
