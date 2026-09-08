@@ -172,6 +172,73 @@ Keine Verbraucher-App: teure Datenpflege, Zahlungsbereitschaft bei Privatleuten 
 
 ---
 
+# Teil 2: Dieselbe These als physisches B2C-Produkt
+
+Der Auftrag hat sich im Verlauf geändert: kein Softwareprodukt, kein B2B-Vertrag, sondern etwas Physisches für Privatkunden. Dieser Teil prüft, ob das trägt.
+
+## T2.1 Marktanalyse
+
+**Abfallstruktur.** Sperrmüll 2023 rund 2,4 Mio. Tonnen, etwa 7 % aller Haushaltsabfälle (Destatis). Möbelabfall geschätzt 2,3 Mio. Tonnen im Jahr. Sofas etwa 20 %, Schränke 15 %, Matratzen 10 %. Davon 350.000 bis 490.000 Tonnen gut erhaltene, wiederverwendbare Möbel.
+*Konfidenz: mittel bis hoch für die Sperrmüllmenge, mittel für die Zusammensetzung (Sekundärquellen).*
+
+**Austauschgründe.** UBA-Obsoleszenzstudie: Erstnutzungsdauer Haushaltsgroßgeräte von 14,1 auf 13,0 Jahre gesunken, Frühausfälle unter fünf Jahren von 3,5 auf 8,3 % gestiegen, Defekt als Ursache für 55,6 % der Ersatzkäufe. Fast ein Drittel der Großgeräte wird ersetzt, obwohl funktionsfähig; bei Unterhaltungselektronik 60 % nach fünf bis sechs Jahren. Geplante Obsoleszenz konnte die Studie nicht nachweisen.
+*Wichtig: Daten aus 2012/13, Studie 2016. Über zehn Jahre alt, vor Verwendung nach neueren Erhebungen suchen.*
+
+**Nachfrageklima.** NIQ Sustainability Index Deutschland 2025 bei 91,3 Punkten (laut Bericht historischer Tiefstand), rund 61 % schauen zuerst auf den Preis, EmpCo-Richtlinie verbietet ab September 2026 unbelegte Umweltaussagen.
+
+**Reparaturpraxis.** Repair-Cafés melden Reparaturquoten von 60 bis 80 %, mitgebracht werden überwiegend Kleingeräte. Bundesweite Gesamtzahlen existieren laut Netzwerk Reparatur-Initiativen bislang nicht.
+
+**Wettbewerbsprüfung — fünf Kategorien geprüft, fünf besetzt:**
+
+| Kategorie | Befund |
+|---|---|
+| Lokale Smart-Home-Hardware | Home Assistant Green ca. 179 €, Shelly unter 15 € |
+| 3D-Druck-Ersatzteile allgemein | mindestens fünf deutsche Anbieter |
+| Möbelverbinder-Reparatur | wolfcraft, Furnica, eBay, Reparaturknete ab ca. 7 € |
+| Küchenmaschinen-Ersatzteile | mehrere Shops plus Nachbauteile-Hersteller |
+| Modulare Matratzen | mindestens fünf deutsche Anbieter |
+
+**Schlussfolgerung:** Die Lücke ist nicht das Teil, sondern der Weg dorthin. Wer ein Ersatzteil braucht, muss Modellnummer und Teilebezeichnung kennen, den richtigen Shop finden und sich den Einbau zutrauen.
+
+## T2.2 Drei Vorschläge
+
+1. **Reparaturpaket statt Ersatzteil** (Empfehlung, geringes Risiko): Teil, Spezialwerkzeug, gedruckte Anleitung, Hilfenummer — eine Box, ein Preis.
+2. **Zweitleben-Set für Polstermöbel** (mittleres Risiko): Maßschaum plus Bezug plus Anleitung für die verbreitetsten Sofamodelle. Killer-Risiko: Sperrgut und Passform.
+3. **Koffer mit tauschbaren Rollen und Zehn-Jahres-Teilegarantie** (hohes Risiko, eigenes Objekt): kein Marktbeleg, reine Hypothese, hoher Kapitalbedarf.
+
+## T2.3 Vertiefung Vorschlag 1
+
+**Auswahlregel:** hoher Gerätewert, billiges Ausfallteil, Tausch ohne Eingriff in die Netzspannung, kleines Versandmaß, idealerweise wiederkehrendes Verschleißteil. Deshalb keine Kleingeräte: für einen Toaster für 25 € rechnet sich kein Reparaturset.
+
+| Kategorie | Wert | Teilepreis | Ohne Netzspannung | Wiederkauf | Versand | Urteil |
+|---|---|---|---|---|---|---|
+| Kaffeevollautomat | 5 | 5 | 4 | 5 | 5 | Start hier |
+| Saugroboter | 4 | 5 | 5 | 5 | 4 | zweite Kategorie |
+| Küchenmaschine | 4 | 5 | 4 | 2 | 4 | Markt besetzt |
+| Waschmaschine | 4 | 4 | 2 | 2 | 2 | Netzspannung, Sperrgut |
+| Toaster, Föhn | 1 | 5 | 2 | 1 | 5 | lohnt nicht |
+
+*Skala 1 bis 5, eigene Einschätzung, keine Marktdaten. Ob der Kaffeevollautomat-Teilemarkt schon kuratiert bedient wird, ist ungeprüft — das ist der erste Test.*
+
+**Inhalt der Box:** passendes Teil zur konkreten Modellnummer, das eine Spezialwerkzeug, gedruckte Anleitung mit Fotos (keine QR-Codes auf Server, die abgeschaltet werden), Verschleißteile zum Mittauschen, Kontakt für Rückfragen. Verkauft wird die Gewissheit, dass es hinterher läuft.
+
+**Beschaffung:** Ersatzteil-Großhändler mit Wiederverkäuferkonditionen und Streckenlieferung existieren; Rabattangaben in Anbieterverzeichnissen sind Werbung, nicht belastbar. Fehlende Kunststoffteile bei bestehenden 3D-Druck-Dienstleistern fertigen lassen, keine eigene Maschine.
+
+**Verteidigung:** Anleitungsbibliothek, Fehlerdatenbank aus Supportanfragen, und ein Versprechen, das kein Teileshop gibt — passt nicht oder klappt nicht, Geld zurück, Teil behalten.
+
+**Rechtliche Bremsen:** keine Laienanleitungen in den netzseitigen Bereich; Eigenmarke kann Herstellerhaftung auslösen; gesetzliche Gewährleistung gegenüber Verbrauchern unabhängig von Lieferantenzusagen. Vor dem ersten Verkauf anwaltlich klären.
+
+**90 Tage, unter 500 Euro:**
+1. Woche 1: zwanzig echte Defektfälle aus Foren, YouTube-Kommentaren, Kleinanzeigen sammeln.
+2. Woche 2: drei Großhändler nach Konditionen und Streckenlieferung fragen, Einkaufspreise notieren.
+3. Woche 3–4: defektes Gerät für 30–60 € kaufen, selbst reparieren, fotografieren. Ergebnis ist die erste Anleitung.
+4. Woche 5–6: zehn Sets verkaufen, Vorkasse, Ankündigung in denselben Foren.
+5. Woche 7–12: zweite Modellreihe oder Abbruch.
+
+**Abbruchkriterien, vorher festlegen:** weniger als fünf verkaufte Sets in sechs Wochen, oder Retourenquote über 20 %, oder mehr als 30 Minuten Support je Set.
+
+---
+
 ## Quellen
 
 Alle Angaben stammen aus Web-Recherche vom 08.09.2026. Wo unten Fachpresse oder Blogs stehen, sind es Sekundärquellen – als solche behandeln.
@@ -199,6 +266,15 @@ Alle Angaben stammen aus Web-Recherche vom 08.09.2026. Wo unten Fachpresse oder 
 - Kompetenzstelle für nachhaltige Beschaffung, Produktgruppe IKT: https://www.nachhaltige-beschaffung.info/SharedDocs/Produktgruppenblaetter/PGBL_IT/PGB_IT.html
 - UBA-Leitfaden Beschaffung von Software: https://www.nachhaltige-beschaffung.info/SharedDocs/Kurzmeldungen/DE/2023/230804_UBA_LF_Software_2023.html
 - Einordnung § 97 Abs. 3 GWB und Ausführungsbedingungen: https://lrz.legal/de/lrz/nachhaltige-it-beschaffung-fokus-leistungsbeschreibung-und-ausfuehrungsbedingungen
+
+**Teil 2: Markt, Abfall, Reparaturpraxis**
+- Abfallwirtschaft, Destatis: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/Abfallwirtschaft/_inhalt.html · Aufbereitung Sperrmüllzahlen: https://weitergeben.org/zahlen-statistiken/sperrmuell/
+- UBA-Obsoleszenzstudie Texte 11/2016: https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/texte_11_2016_einfluss_der_nutzungsdauer_von_produkten_obsoleszenz.pdf · Kurzfassung: https://www.umweltbundesamt.de/themen/elektrogeraete-werden-immer-kuerzer-genutzt
+- Ersatzteile aus dem 3D-Drucker, UBA: https://www.umweltbundesamt.de/themen/ersatzteile-aus-dem-3d-drucker
+- Netzwerk Reparatur-Initiativen zur fehlenden Gesamtstatistik: https://www.reparatur-initiativen.de/post/auf-dem-weg-zur-reparatur-statistik
+- Sustainability Fatigue und NIQ-Index: https://brandneo.de/pulse-check/sustainability-fatigue · EmpCo und Werbeaussagen: https://www.hellosimple.de/pages/zero-waste-oder-less-waste
+- Geprüfter Wettbewerb: https://shop.wolfcraft.com/de-de/products/p_4665_exzentermoebelverbinderset · https://furnica.at/collections/moebelverbinder · https://www.die-matratzenmanufaktur.de/Modulare-Matratzen · https://www.ersatzteileshop.de/kleine-haushaltsgeraete/kuechenmaschine
+- Beschaffung: https://www.ersatzteile-grosshandel.de/ · https://www.lieferanten.de/produkt-Ersatzteile.html
 
 **Reparaturförderung Deutschland**
 - https://www.deutsche-handwerks-zeitung.de/bundesweiter-reparaturbonus-gescheitert-das-tut-sich-in-den-laendern-378638/
