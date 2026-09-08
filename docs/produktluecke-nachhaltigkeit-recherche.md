@@ -100,7 +100,49 @@ Das Prinzip ist **nicht erfunden**, sondern übertragen: Source-Code-Escrow ist 
 
 ---
 
-## 5. Widersprüche, Risiken und offene Fragen
+## 5. Vom Befund zum Produkt: was daraus verkauft werden kann
+
+**Das Register ist kein Produkt.** Es ist eine Datenbank, die jahrelang Pflege kostet und niemandem eine Rechnung schickt. Wer damit anfängt, baut zwei Jahre unbezahlt Daten und hofft, dass danach jemand zahlt. Umgekehrt trägt es: **zuerst die Antwort verkaufen, die Daten fallen dabei an.**
+
+### Kleinste verkaufbare Einheit: Langlebigkeits-Prüfbericht für Beschaffungsentscheidungen
+
+Jemand kauft 400 vernetzte Thermostate, 200 Wallboxen, 1.500 Rauchmelder mit Funkmodul. Die Frage, die heute niemand beantwortet: Funktionieren die in zehn Jahren noch, und was passiert, wenn der Hersteller die Cloud abschaltet? Käufer sind Wohnungswirtschaft, Facility Management, kommunale Beschaffung, Hausverwaltungen – lange Abschreibungszeiträume, echtes Ausfallrisiko, Budget für Beratung.
+
+Inhalt je Gerätekategorie:
+1. Angegebenes Supportende je Modell
+2. Cloud-Abhängigkeit: was bricht weg, wenn der Dienst endet
+3. Abschalt-Historie des Herstellers
+4. Empfohlene Ausschreibungsklausel, die das Risiko abfängt
+
+Vorteile: Umsatz ab dem ersten Kunden, kein Produktbau, keine Vorleistung. Nach etwa dreißig Berichten existiert die Datenbank, für deren Aufbau jemand bezahlt hat – das öffentliche Register ist dann finanziert statt subventioniert. Und es ist Vertrieb an institutionelle Einkäufer, nicht Softwareentwicklung.
+
+### Der Hebel: die Fortbestandsklausel
+
+Nicht der Bericht, sondern ein fertiger Textbaustein für Ausschreibungen: Hinterlegung von Serverkomponente und dokumentierter Schnittstelle, Freigabe bei Abkündigung oder Insolvenz. Nehmen fünf große Einkäufer die Klausel auf, müssen Hersteller liefern – und brauchen jemanden, der die Hinterlegung durchführt. Der Treuhandmarkt entsteht aus Kundendruck statt aus Überzeugungsarbeit. Verkauft wird Einkäufern eine Risikoabsicherung, nicht Herstellern eine Tugend.
+
+Der Rechtsrahmen steht bereits: Nachhaltigkeitskriterien dürfen nach § 97 Abs. 3 GWB in Vergabeverfahren einfließen, Langlebigkeit ist bei der IT-Beschaffung ausdrücklich als Kriterium vorgesehen, das Umweltbundesamt veröffentlicht Leitfäden dazu.
+*Konfidenz: mittel für die Einordnung des Vergaberechts (Sekundärquellen, keine Kommentarliteratur). Dass der Hebel trägt, ist eine Hypothese, kein Befund.*
+
+### Alternative: andocken statt selbst bauen
+
+Vier Träger, alle ungeprüft – Kandidaten für ein Telefonat, keine Rechercheergebnisse:
+
+| Träger | Anknüpfung |
+|---|---|
+| Blauer Engel DE-UZ 215 | Umweltzeichen für ressourcen- und energieeffiziente Software; Kriterien enthalten laut UBA bereits Kontinuität der Sicherheitsupdates und Abwärtskompatibilität. Pendant für vernetzte Geräte nicht gefunden. |
+| UBA-Leitfäden Beschaffung | Vorhanden für Monitore, Software, Videokonferenzsysteme, VoIP. Für vernetzte Gebäudetechnik keiner gefunden. |
+| Verbraucherzentralen, Stiftung Warentest | Als Abnehmer der Daten, nicht als Konkurrenz. |
+| endoflife.date | Offen und community-gepflegt, technisch naheliegende Basis, aber enterprise-fokussiert. |
+
+Andocken kostet die Eigentümerschaft und bringt Reichweite. Bei einem Projekt neben zwei Jobs vermutlich der bessere Tausch.
+
+### Was es nicht werden kann
+
+Keine Verbraucher-App: teure Datenpflege, Zahlungsbereitschaft bei Privatleuten nahe null, Konkurrenz sind kostenlose Testberichte. Kein Marktplatz: auf beiden Seiten fehlt die Menge.
+
+---
+
+## 6. Widersprüche, Risiken und offene Fragen
 
 **R1 – Lizenzrechte Dritter (potenziell tödlich).** Consumer-Firmware besteht häufig aus Code vieler Zulieferer, teils proprietär lizenziert. Ein Hersteller *kann* solche Firmware womöglich gar nicht offenlegen, selbst wenn er will. Das ist das wichtigste zu klärende Risiko. Mögliche Antwort: Hinterlegung nur des Server-/Protokollteils plus dokumentierter lokaler Schnittstelle, statt vollständiger Firmware. Ungeprüft.
 
@@ -119,13 +161,14 @@ Das Prinzip ist **nicht erfunden**, sondern übertragen: Source-Code-Escrow ist 
 
 ---
 
-## 6. Nächste Schritte (in dieser Reihenfolge, ohne Investition)
+## 7. Nächste Schritte (in dieser Reihenfolge, ohne Investition)
 
 1. **Negativbefund härten (1–2 Tage):** Gezielt nach bestehenden Anbietern suchen – Crunchbase, EU-Projektdatenbanken (Horizon/LIFE), Right-to-Repair-Europe-Umfeld, Stiftung Warentest/Verbraucherzentralen. Wenn es das schon gibt, endet die Idee hier, und das ist ein gutes Ergebnis.
 2. **R1 klären (1 Woche):** Zwei bis drei Gespräche mit Firmware-Entwicklern kleiner Hardwarehersteller: Könntet ihr überhaupt hinterlegen? Was steht dem entgegen?
-3. **Zahlungsbereitschaft testen (2–4 Wochen):** Zehn Verkaufsgespräche mit Herstellern langlebig positionierter vernetzter Produkte – **vor** jedem Bau. Das ist deine Kernkompetenz und der billigste denkbare Test.
-4. **Erst dann** Stufe 1 mit 50 Geräten als Prototyp aufsetzen.
-5. Verifiziere vor externer Verwendung alle Zahlen dieses Dokuments an den Primärquellen (Verordnungstexte über EUR-Lex, Circularity Gap Report im Original).
+3. **Ein Gespräch auf der Käuferseite (1 Stunde):** Eine Wohnungsgenossenschaft oder ein Facility-Management-Unternehmen, das gerade vernetzte Technik ausschreibt. Nicht fragen, ob sie die Idee gut finden – fragen, was passiert ist, als zuletzt ein Hersteller einen Dienst abgekündigt hat, und wer die Kosten getragen hat.
+4. **Zahlungsbereitschaft testen (2–4 Wochen): bei Einkäufern, nicht bei Herstellern.** Zehn Gespräche über den Prüfbericht als bezahlte Leistung. Erst wenn Einkäufer zahlen, lohnt der Weg zu den Herstellern.
+5. **Erst dann** Stufe 1 mit 50 Geräten als Prototyp aufsetzen – oder das Andocken an einen bestehenden Träger verhandeln.
+6. Verifiziere vor externer Verwendung alle Zahlen dieses Dokuments an den Primärquellen (Verordnungstexte über EUR-Lex, Circularity Gap Report im Original).
 
 ---
 
@@ -150,6 +193,12 @@ Alle Angaben stammen aus Web-Recherche vom 08.09.2026. Wo unten Fachpresse oder 
 - Escrow-Prinzip im Softwaregeschäft: https://www.pillsburylaw.com/en/news-and-insights/software-sunsetting-contractual-postcontractual-best-practices.html
 - Debatte „Open Source bei End-of-Life": https://www.darkreading.com/iot/consumer-groups-rally-to-address-iot-security-concerns
 - Lokale Wiederbelebung verwaister Geräte: https://www.home-assistant.io/
+
+**Beschaffung und Umweltzeichen**
+- Blauer Engel für Softwareprodukte (DE-UZ 215): https://www.blauer-engel.de/de/produktwelt/software · Hintergrundbericht UBA: https://www.umweltbundesamt.de/publikationen/umweltzeichen-blauer-engel-fuer-ressourcen
+- Kompetenzstelle für nachhaltige Beschaffung, Produktgruppe IKT: https://www.nachhaltige-beschaffung.info/SharedDocs/Produktgruppenblaetter/PGBL_IT/PGB_IT.html
+- UBA-Leitfaden Beschaffung von Software: https://www.nachhaltige-beschaffung.info/SharedDocs/Kurzmeldungen/DE/2023/230804_UBA_LF_Software_2023.html
+- Einordnung § 97 Abs. 3 GWB und Ausführungsbedingungen: https://lrz.legal/de/lrz/nachhaltige-it-beschaffung-fokus-leistungsbeschreibung-und-ausfuehrungsbedingungen
 
 **Reparaturförderung Deutschland**
 - https://www.deutsche-handwerks-zeitung.de/bundesweiter-reparaturbonus-gescheitert-das-tut-sich-in-den-laendern-378638/
