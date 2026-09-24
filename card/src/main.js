@@ -89,6 +89,7 @@ function renderProjects() {
       </div>
       ${p.tagline ? `<p class="proj-tagline">${esc(p.tagline[lang])}</p>` : ""}
       <p class="proj-body">${esc(p.body[lang])}</p>
+      ${p.aiNote ? `<p class="proj-ai">${esc(p.aiNote[lang])}</p>` : ""}
       <div class="tags">${p.tags.map((x) => `<span class="tag">${esc(x)}</span>`).join("")}</div>
       ${p.url ? `<a class="proj-link" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(t("projects.open"))} ${ICONS.arrow}</a>` : ""}
     `;

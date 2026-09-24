@@ -325,6 +325,10 @@ export const PROJECTS = [
     body: {
       de: "Eine App für die Frau. Kalender, Ernährung, Sport und Zyklus — alles an einem Ort, abgestimmt auf deinen Körper.",
       en: "An app for women. Calendar, nutrition, training and cycle — all in one place, tuned to your body."
+    },
+    aiNote: {
+      de: "Mit KI entwickelt: Erst die Unterstützung durch KI hat die Entwicklung dieser App überhaupt möglich gemacht. Design und Funktionen sind in Zusammenarbeit mit KI entstanden.",
+      en: "Built with AI: AI support is what made developing this app possible in the first place. Design and features were created in collaboration with AI."
     }
   }
 ];
