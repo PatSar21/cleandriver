@@ -1,0 +1,37 @@
+{
+  "config": {
+    "startBalance": 100,
+    "maxStakePct": 0.06,
+    "minEdge": 0.08,
+    "start": "2026-09-29T13:08:56.146Z",
+    "end": "2026-10-06T13:08:56.146Z"
+  },
+  "trades": [
+    {
+      "id": 1,
+      "openedAt": "2026-09-29T13:10:31.656Z",
+      "slug": "trump-renames-ai-by-september-30",
+      "question": "Trump renames AI by September 30?",
+      "endDate": "2026-10-01T03:59:00Z",
+      "side": "NO",
+      "price": 0.595,
+      "marketYes": 0.405,
+      "estimateYes": 0.25,
+      "edge": 0.15500000000000003,
+      "stake": 3,
+      "shares": 5.042016806722689,
+      "confidence": "niedrig",
+      "reason": "Aufloesung verlangt eine unterschriebene Executive Order, Proclamation oder ein Memorandum. Reden zaehlen ausdruecklich nicht. Trump kuendigte die Umbenennung am 22.09. vor der UN an; bis zu den Berichten vom 24./25.09. gab es kein formelles Dokument. Es bleiben ca. 1,5 Tage.",
+      "evidenceFor": "Kein formelles Dokument auf der Presidential-Actions-Seite laut Berichten; nur interne State-Department-E-Mail (zaehlt nicht); keine Meldung ueber bevorstehende Unterzeichnung gefunden",
+      "evidenceAgainst": "Trump setzt Ankuendigungen oft per EO nach; Handelsvolumen ist hoch, Marktteilnehmer koennten Hinweise auf eine baldige Unterzeichnung haben; meine Suche findet evtl. Meldungen vom 26.-29.09. nicht; Breaking-Defense-Schlagzeile spricht von 'orders'",
+      "sources": [
+        "https://www.axios.com/2026/09/22/trump-ai-super-intelligence-rebrand",
+        "https://breakingdefense.com/2026/09/trump-orders-all-us-agencies-to-refer-to-ai-as-super-intelligence/",
+        "https://thehill.com/homenews/administration/6109549-diplomats-ai-super-intelligence/",
+        "https://www.nationalobserver.com/2026/09/24/news/us-diplomats-ordered-say-super-intelligence-not-artificial-intelligence-after"
+      ],
+      "status": "offen",
+      "payout": 0
+    }
+  ]
+}
