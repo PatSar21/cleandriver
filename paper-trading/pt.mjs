@@ -46,8 +46,8 @@ function fail(msg) {
 function fetchJson(path) {
   if (process.env.PT_FIXTURE) {
     const fx = JSON.parse(readFileSync(process.env.PT_FIXTURE, 'utf8'));
-    if (!(path in fx)) throw new Error(`Fixture fehlt fuer ${path}`);
-    return fx[path];
+    const key = path.replace(/&end_date_(min|max)=[^&]*/g, '');
+    return fx[key] ?? [];
   }
   const url = API + path;
   try {
@@ -75,12 +75,15 @@ function binary(m) {
   return { yes: prices[yi], no: prices[ni] };
 }
 
+// Die API liefert geschlossene Maerkte nur mit closed=true, offene nur ohne.
 function getMarket(slug) {
-  const res = fetchJson(`/markets?slug=${encodeURIComponent(slug)}`);
-  const list = Array.isArray(res) ? res : [];
-  const m = list.find((x) => x.slug === slug);
-  if (!m) throw new Error(`Markt "${slug}" nicht gefunden`);
-  return m;
+  const q = `/markets?slug=${encodeURIComponent(slug)}`;
+  for (const path of [q, `${q}&closed=true`]) {
+    const res = fetchJson(path);
+    const m = (Array.isArray(res) ? res : []).find((x) => x.slug === slug);
+    if (m) return m;
+  }
+  throw new Error(`Markt "${slug}" nicht gefunden`);
 }
 
 const ledgerPath = () => join(DATA, 'ledger.json');
@@ -140,12 +143,20 @@ function cmdInit(a) {
 
 function cmdScan(a) {
   load();
-  const limit = Number(a.limit ?? 300);
+  const limit = Number(a.limit ?? 1000);
   const maxDays = Number(a['max-days'] ?? 14);
   const horizon = Date.now() + maxDays * 864e5;
-  const res = fetchJson(`/markets?active=true&closed=false&limit=${limit}&order=volume24hr&ascending=false`);
+  const range = `&end_date_min=${new Date().toISOString()}&end_date_max=${new Date(horizon).toISOString()}`;
+  // Die API liefert hoechstens 100 Maerkte pro Seite.
+  const all = [];
+  for (let offset = 0; offset < limit; offset += 100) {
+    const page = fetchJson(`/markets?active=true&closed=false&limit=100&offset=${offset}&order=volume24hr&ascending=false${range}`);
+    if (!Array.isArray(page)) break;
+    all.push(...page);
+    if (page.length < 100) break;
+  }
   const rows = [];
-  for (const m of Array.isArray(res) ? res : []) {
+  for (const m of all) {
     const p = binary(m);
     const end = Date.parse(m.endDate);
     if (!p || !m.slug || !Number.isFinite(end) || end > horizon || end < Date.now()) continue;
@@ -155,7 +166,7 @@ function cmdScan(a) {
   const stamp = new Date().toISOString().slice(0, 16).replace(':', '-');
   mkdirSync(join(DATA, 'snapshots'), { recursive: true });
   writeFileSync(join(DATA, 'snapshots', `${stamp}.json`), JSON.stringify(rows, null, 2) + '\n');
-  console.log(`${rows.length} Maerkte (binaer, Ende in <= ${maxDays} Tagen), Snapshot data/snapshots/${stamp}.json`);
+  console.log(`${all.length} Maerkte geladen, davon ${rows.length} (binaer, Ende in <= ${maxDays} Tagen), Snapshot data/snapshots/${stamp}.json`);
   for (const r of rows.slice(0, 60)) {
     console.log(`- ${r.slug} | JA ${pct(r.yes)} | Ende ${r.endDate.slice(0, 10)} | ${r.question}`);
   }
@@ -224,7 +235,7 @@ function cmdResolve() {
     try { m = getMarket(t.slug); } catch (e) { console.log(`#${t.id}: ${e.message}`); continue; }
     const p = binary(m);
     // Nur als aufgeloest werten, wenn der Markt geschlossen ist und eindeutig 1/0 steht.
-    if (!m.closed || !p) { console.log(`#${t.id}: noch offen`); continue; }
+    if (!m.closed || !p || (m.umaResolutionStatus && m.umaResolutionStatus !== 'resolved')) { console.log(`#${t.id}: noch offen`); continue; }
     const yesWon = p.yes >= 0.99 && p.no <= 0.01;
     const noWon = p.no >= 0.99 && p.yes <= 0.01;
     if (!yesWon && !noWon) { console.log(`#${t.id}: geschlossen, aber Ergebnis nicht eindeutig (${p.yes}/${p.no}) - bleibt offen`); continue; }
@@ -282,7 +293,7 @@ function cmdSelftest() {
   const soon = new Date(Date.now() + 3 * 864e5).toISOString();
   const mk = (slug, yes, closed = false) => ({ slug, question: `Frage ${slug}?`, outcomes: '["Yes","No"]', outcomePrices: JSON.stringify([String(yes), String(1 - yes)]), endDate: soon, active: !closed, closed, volume24hr: 1000 });
   const write = (fx) => writeFileSync(fxPath, JSON.stringify(fx));
-  const list = `/markets?active=true&closed=false&limit=300&order=volume24hr&ascending=false`;
+  const list = `/markets?active=true&closed=false&limit=100&offset=0&order=volume24hr&ascending=false`;
   write({ [list]: [mk('a', 0.4), mk('b', 0.7)], '/markets?slug=a': [mk('a', 0.4)], '/markets?slug=b': [mk('b', 0.7)] });
 
   const run = (cmd, expectFail = false) => {
@@ -298,7 +309,7 @@ function cmdSelftest() {
   const assert = (c, m) => { if (!c) throw new Error(`selftest: ${m}`); };
 
   run(['init']);
-  assert(run(['scan']).includes('2 Maerkte'), 'scan findet 2 Maerkte');
+  assert(run(['scan']).includes('davon 2 '), 'scan findet 2 Maerkte');
   assert(run(['open', '--slug', 'a', '--side', 'YES', '--estimate', '0.45', '--stake', '5', '--confidence', 'mittel', '--reason', 'x'], true).includes('unter der Schwelle'), 'zu kleiner Vorsprung abgelehnt');
   assert(run(['open', '--slug', 'a', '--side', 'YES', '--estimate', '0.6', '--stake', '7', '--confidence', 'mittel', '--reason', 'x'], true).includes('des Kontos'), '6-%-Grenze greift');
   run(['open', '--slug', 'a', '--side', 'YES', '--estimate', '0.6', '--stake', '6', '--confidence', 'mittel', '--reason', 'x']);
@@ -306,7 +317,7 @@ function cmdSelftest() {
   assert(run(['open', '--slug', 'a', '--side', 'YES', '--estimate', '0.6', '--stake', '1', '--confidence', 'mittel', '--reason', 'x'], true).includes('schon eine offene'), 'doppelte Position abgelehnt');
 
   // a loest JA auf (gewonnen), b loest JA auf (NEIN-Wette verloren)
-  write({ '/markets?slug=a': [mk('a', 1, true)], '/markets?slug=b': [mk('b', 1, true)] });
+  write({ '/markets?slug=a&closed=true': [mk('a', 1, true)], '/markets?slug=b&closed=true': [mk('b', 1, true)] });
   run(['resolve']);
   const l = JSON.parse(readFileSync(join(dir, 'ledger.json'), 'utf8'));
   assert(l.trades[0].status === 'gewonnen' && Math.abs(l.trades[0].payout - 15) < 1e-9, 'a gewonnen, 6 $ / 0,40 = 15 $ Auszahlung');
