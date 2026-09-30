@@ -67,3 +67,18 @@ Scan: 418 binäre Märkte, Ende in ≤ 14 Tagen.
 **Mykolaivka / Milei.** Beide Märkte sind stark gefallen. Neue Belege habe ich nicht gefunden, daher kein Trade.
 
 Richtig: noch nichts aufgelöst, was richtig lag. Falsch: #1 (siehe oben).
+
+## 2026-09-30 06:13 UTC · Durchlauf 4 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 385 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will OpenAI resume US ChatGPT Pro signups by September 30, 2026? | 33,5 % (vorher 71,5 %) | unklar | kein Trade |
+| Will Russia enter Mykolaivka by September 30, 2026? | 45,4 % (vorher 13,3 %) | unklar | kein Trade |
+
+**OpenAI.** Laut Berichten wurden die Pro-Stufen umbenannt, und es gibt einen 500-$-„Pro Max“-Plan. Bestätigt hat OpenAI das nicht ([Decrypt](https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan), [KuCoin News](https://www.kucoin.com/news/flash/openai-adjusts-chatgpt-pro-tiers-adds-500-pro-max-option)). Die Regeln verlangen, dass der wieder geöffnete Plan die Pro-Stufe mit der höchsten Nutzung bleibt. Mit Pro Max wäre das nicht mehr der Fall. Das erklärt den Absturz. Es fehlt eine offizielle Bestätigung, daher kein Trade.
+
+**Mykolaivka.** Laut Marktregeln geht es um den Ort bei 48,85° N / 37,77° E, also östlich von Slowjansk. Laut ISW rückten russische Kräfte dort am 27./28.09. nicht vor, ukrainische Kräfte räumten eine Stellung ([ISW 28.09.](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-28-2026)). Aufgelöst wird aber nach der ISW-Kartenschattierung, und die Karte kann ich nicht sehen. Der Preis schwankt stark (75 → 13 → 45 %). Kein belastbarer Vorsprung.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
