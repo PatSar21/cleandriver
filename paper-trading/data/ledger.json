@@ -30,8 +30,10 @@
         "https://thehill.com/homenews/administration/6109549-diplomats-ai-super-intelligence/",
         "https://www.nationalobserver.com/2026/09/24/news/us-diplomats-ordered-say-super-intelligence-not-artificial-intelligence-after"
       ],
-      "status": "offen",
-      "payout": 0
+      "status": "verloren",
+      "payout": 0,
+      "resolvedAt": "2026-09-30T00:13:25.153Z",
+      "outcome": "YES"
     }
   ]
 }

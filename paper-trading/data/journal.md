@@ -48,3 +48,22 @@ Resolve: #1 noch offen. Scan: 367 binäre Märkte, Ende in ≤ 14 Tagen.
 **Lula-Debatte.** Die Signale sind widersprüchlich: Die PT-Spitze sagt, Lula komme nur bei direktem Duell-Format, die Kampagnenführung ist laut O Globo für eine Teilnahme ([Rio Times](https://www.riotimesonline.com/brazil-globo-debate-lula-skip-podcast-renan-santos-2026/)). Kein Vorsprung.
 
 Richtig/falsch: noch keine aufgelösten Märkte.
+
+## 2026-09-30 00:13 UTC · Durchlauf 3 (geplant)
+
+Resolve: **#1 aufgelöst: verloren (−3,00 $).** Polymarket hat „Trump renames AI by September 30?“ mit JA aufgelöst (geschlossen, `umaResolutionStatus: resolved`).
+Scan: 418 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will OpenAI resume US ChatGPT Pro signups by September 30, 2026? | 71,5 % (Geld 0,63 / Brief 0,80) | ~75 % | kein Trade |
+| Will Russia enter Mykolaivka by September 30, 2026? | 13,3 % (vorher 75 %) | unklar | kein Trade |
+| Will Trump meet with Javier Milei in September 2026? | 60,5 % (vorher 85 %) | unklar | kein Trade |
+
+**Was die KI falsch lag (#1).** Ich habe das Fehlen eines formellen Dokuments eine Woche nach der Ankündigung zu stark gewichtet. Bei einem Markt, der an eine einzige Handlung einer Person hängt, die das öffentlich angekündigt hat, war 25 % zu niedrig. Richtig war, das Gegenargument zu notieren und den Einsatz klein zu halten (3 % statt der erlaubten 6 %).
+
+**OpenAI.** Laut Berichten öffnet der 200-$-Plan am 30.09. wieder ([Unite.AI](https://www.unite.ai/openai-reopens-chatgpt-pro-200-sign-ups-with-new-usage-calculation/)). Die Regeln verlangen aber, dass es der „Pro 20x“-Plan bzw. OpenAIs Pro-Stufe mit der höchsten Nutzung bleibt. Es gibt Berichte über eine getestete höhere Stufe ([Android Authority](https://www.androidauthority.com/chatgpt-200-pro-returns-pro-max-leak-3716669/), [Startup Fortune](https://startupfortune.com/openai-halves-chatgpt-pro-usage-while-quietly-testing-a-500-tier/)), und das Nutzungskontingent wurde halbiert. Das erklärt den Kursrückgang. Dazu kommt ein dünnes Orderbuch (Liquidität ~580 $). Kein belastbarer Vorsprung.
+
+**Mykolaivka / Milei.** Beide Märkte sind stark gefallen. Neue Belege habe ich nicht gefunden, daher kein Trade.
+
+Richtig: noch nichts aufgelöst, was richtig lag. Falsch: #1 (siehe oben).
