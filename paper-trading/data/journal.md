@@ -82,3 +82,18 @@ Resolve: keine offenen Positionen. Scan: 385 binäre Märkte, Ende in ≤ 14 Tag
 **Mykolaivka.** Laut Marktregeln geht es um den Ort bei 48,85° N / 37,77° E, also östlich von Slowjansk. Laut ISW rückten russische Kräfte dort am 27./28.09. nicht vor, ukrainische Kräfte räumten eine Stellung ([ISW 28.09.](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-28-2026)). Aufgelöst wird aber nach der ISW-Kartenschattierung, und die Karte kann ich nicht sehen. Der Preis schwankt stark (75 → 13 → 45 %). Kein belastbarer Vorsprung.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-09-30 12:13 UTC · Durchlauf 5 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 384 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Gemini 4.0 released by September 30, 2026? | 41 % (vorher 11 %) | unklar | kein Trade |
+| Will Trump meet with Javier Milei in September 2026? | 88,1 % (vorher 80,5 %) | unklar | kein Trade |
+
+**Gemini 4.0.** Laut DeepMind-Chef Kavukcuoglu ist Gemini 4 im Post-Training und soll „deutlich früher“ als Ende 2026 kommen, ein Datum nannte er nicht ([The Next Web](https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training), [9to5Google 24.09.](https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/)). Der Sprung von 11 auf 41 % am letzten Tag deutet auf neue Hinweise hin, die ich nicht finde, etwa Leaks oder eine Ankündigung. Ohne diese Info ist jede Schätzung geraten. Kein Trade.
+
+**Milei.** Für den 29./30.09. habe ich kein neues Treffen gefunden. Die Marktteilnehmer werten offenbar das gemeinsame „Escudo de las Américas“-Treffen vom 22.09. als qualifizierend. Das ist Auslegungssache der Resolver, kein Vorsprung für mich.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.

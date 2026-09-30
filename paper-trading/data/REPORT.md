@@ -1,6 +1,6 @@
 # 7-Tage-Test: Auswertung
 
-Stand: 2026-09-30T06:13:51.045Z · Zeitraum 2026-09-29 bis 2026-10-06
+Stand: 2026-09-30T12:13:24.536Z · Zeitraum 2026-09-29 bis 2026-10-06
 
 | Kennzahl | Wert |
 |---|---|
