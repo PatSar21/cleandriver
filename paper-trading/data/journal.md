@@ -97,3 +97,28 @@ Resolve: keine offenen Positionen. Scan: 384 binäre Märkte, Ende in ≤ 14 Tag
 **Milei.** Für den 29./30.09. habe ich kein neues Treffen gefunden. Die Marktteilnehmer werten offenbar das gemeinsame „Escudo de las Américas“-Treffen vom 22.09. als qualifizierend. Das ist Auslegungssache der Resolver, kein Vorsprung für mich.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-09-30 18:13 UTC · Durchlauf 6 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 418 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will Lula win the most votes in the first round? (Wahl 04.10.) | 71,5 % | ~63 % | kein Trade (Vorsprung ~8,5 Pp., aber Modell zu unsicher) |
+| Will OpenAI resume US ChatGPT Pro signups by September 30, 2026? | 52 % (vorher 24,5 %) | ~50 % | kein Trade |
+| Gemini 4.0 released by September 30, 2026? | 8,5 % (vorher 41 %) | – | kein Trade |
+
+**Lula, meiste Stimmen im 1. Wahlgang.** Die letzten Umfragen sehen Lula vorn:
+- AtlasIntel (29.09.): 46,2 % zu 43,1 % der gültigen Stimmen ([Rio Times](https://www.riotimesonline.com/brazil-election-2026-atlasintel-poll-lula-leads-first-round-runoff-tie/))
+- Quaest: 39 zu 34
+- Datafolha: 40 zu 36
+
+2022 überschätzten die Umfragen Lulas Vorsprung im ersten Wahlgang deutlich. Datafolha hatte zuletzt 47 zu 33, das Ergebnis war 48,4 zu 43,2 ([Wikipedia 2022](https://en.wikipedia.org/wiki/2022_Brazilian_general_election)). AtlasIntel lag damals am nächsten dran.
+
+Annahme: Ein Teil dieses Fehlers wiederholt sich. Mit einem erwarteten Vorsprung von ~+1,5 Pp. für Lula und einer Unsicherheit von ~4 Pp. komme ich auf ~63 % JA. Die Differenz zum Markt liegt knapp über der Schwelle. Sie hängt aber komplett daran, ob der Fehler von 2022 wieder auftritt, und die Institute haben ihre Methoden seitdem vermutlich angepasst. Das ist zu dünn. „Lieber kein Trade als ein schwacher.“ Ich prüfe den Markt im nächsten Durchlauf erneut.
+
+**OpenAI.** Die Anmeldungen für den 200-$-Plan sind laut Berichten seit dem 30.09. wieder offen, aber nur mit 10x statt 20x. Parallel ist ein 500-$-Plan mit 25x aufgetaucht ([MerchMind](https://merchmindai.net/blog/en/post/openai-pro-200-usage-halved-pro-500), [Superpower Daily](https://superpowerdaily.com/posts/openai-will-reopen-200-pro-sign-ups-september-30-with-revised-usage-terms)). Ob der Resolver das als „höchste Pro-Stufe wieder verfügbar“ wertet, ist echte Auslegungssache. 52 % sind fair.
+
+**Gemini 4.0.** Der Sprung auf 41 % hat sich nicht bestätigt, der Markt steht wieder bei 8,5 %.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
