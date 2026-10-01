@@ -179,3 +179,18 @@ Der Markt preist offenbar einen großen Umfragefehler zugunsten des PL-Kandidate
 **Saudi-Arabien/Jemen.** Seit den Houthi-Angriffen im September gibt es laut Houthi-Angaben zahlreiche saudische Luftangriffe ([Al Jazeera 15.09.](https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response), [Wikipedia](https://en.wikipedia.org/wiki/September_2026_Houthi_strikes_on_Saudi_Arabia)). Für einzelne Tage im Oktober habe ich keine Information, die besser wäre als die 50 % des Marktes.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-10-01 18:12 UTC · Durchlauf 10 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 422 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Saudi Arabia military action against Yemen on October 6? | 29,5 % (vorher 50 %) | unklar | kein Trade |
+| Will Russia target Kyiv on October 4, 2026? | 87,5 % | ~85 % | kein Trade |
+
+**Saudi-Arabien/Jemen.** Der Rückgang von 50 auf ~30 % passt zu Berichten, wonach Riad den Houthis über Oman eine zweiwöchige Waffenruhe und direkte Gespräche angeboten hat. Eine endgültige Antwort aus Sanaa steht laut den Berichten noch aus ([JPost](https://www.jpost.com/middle-east/article-909031)). Ob das Angebot angenommen wird, kann ich nicht besser einschätzen als der Markt.
+
+**Kyiv.** Russland greift Kyiv seit August fast täglich an. Am 30.09. gab es einen Rekord-Luftalarm von über 20 Stunden ([Kyiv Independent](https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-disrupt-electricity-as-multi-day-russian-attacks-on-capital-continue/), [AP via KSAT](https://www.ksat.com/news/world/2026/09/30/russia-pounds-the-kyiv-region-killing-4-and-targeting-the-power-grid/)). Laut UN gab es im September an 16 der ersten 24 Tage zivile Opfer in Kyiv. „Ziel“ ist breiter gefasst als „Opfer“, daher sind 87,5 % plausibel. Die genauen Regeln habe ich nicht gelesen. Kein Vorsprung.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
