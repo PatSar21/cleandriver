@@ -158,3 +158,24 @@ Resolve: keine offenen Positionen. Scan: 432 binäre Märkte, Ende in ≤ 14 Tag
 AtlasIntel war 2022 am genauesten. Annahme: Das Online-Panel erfasst Santos' eher junge, online-affine Wählerschaft besser. Das spricht leicht für Santos, aber nicht um 8 Pp. Kein Trade.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-10-01 12:12 UTC · Durchlauf 9 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 411 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will Eduardo Paes win the Governor of Rio de Janeiro election? | 68,25 % (Geld 0,68 / Brief 0,685) | ~72 % | kein Trade |
+| Saudi Arabia military action against Yemen on October 6? | 50 % | unklar | kein Trade |
+
+**Paes (Rio).** In der Stichwahl-Simulation liegt Paes klar vorn:
+- Datafolha: 54 zu 38 bzw. 54 zu 34
+- Quaest: 52 zu 26 gegen Douglas Ruas (PL)
+
+Quellen: [Poder360](https://www.poder360.com.br/poder-eleicoes-2026/eduardo-paes-lidera-disputa-pelo-governo-do-rj-diz-pesquisa/), [Gazeta do Povo](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/o-que-mostram-as-pesquisas-para-governador-do-rio-de-janeiro/).
+
+Der Markt preist offenbar einen großen Umfragefehler zugunsten des PL-Kandidaten ein. Annahme aus meinem Gedächtnis, nicht geprüft: 2022 wurde Castro (PL) in Rio deutlich unterschätzt. Mit diesem Abschlag sind ~70 % plausibel. Zudem fällt die Entscheidung wahrscheinlich erst in der Stichwahl am 25.10., also nach Testende.
+
+**Saudi-Arabien/Jemen.** Seit den Houthi-Angriffen im September gibt es laut Houthi-Angaben zahlreiche saudische Luftangriffe ([Al Jazeera 15.09.](https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response), [Wikipedia](https://en.wikipedia.org/wiki/September_2026_Houthi_strikes_on_Saudi_Arabia)). Für einzelne Tage im Oktober habe ich keine Information, die besser wäre als die 50 % des Marktes.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.

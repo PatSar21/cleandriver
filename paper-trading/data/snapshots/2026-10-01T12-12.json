@@ -1,0 +1,3290 @@
+[
+  {
+    "slug": "unl-wal-nor-2026-10-01-nor",
+    "question": "Will Norway win on 2026-10-01?",
+    "yes": 0.675,
+    "no": 0.325,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 424003.8359030006
+  },
+  {
+    "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "yes": 0.6225,
+    "no": 0.3775,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 260940.96638299996
+  },
+  {
+    "slug": "bitcoin-above-82k-on-october-1-2026",
+    "question": "Will the price of Bitcoin be above $82,000 on October 1?",
+    "yes": 0.967,
+    "no": 0.033,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 227130.94633700003
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-nld",
+    "question": "Will Netherlands win on 2026-10-01?",
+    "yes": 0.465,
+    "no": 0.535,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 222891.66559599998
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-prt",
+    "question": "Will Portugal win on 2026-10-01?",
+    "yes": 0.475,
+    "no": 0.525,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 163400.94428
+  },
+  {
+    "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "yes": 0.365,
+    "no": 0.635,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 161018.70004699993
+  },
+  {
+    "slug": "bitcoin-above-86k-on-october-1-2026",
+    "question": "Will the price of Bitcoin be above $86,000 on October 1?",
+    "yes": 0.03,
+    "no": 0.97,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 150745.89316099999
+  },
+  {
+    "slug": "atp-cadenas-sachko-2026-10-02-completed-match",
+    "question": "Bari: Completed Match: Gianluca Cadenasso vs Vitaliy Sachko",
+    "yes": 0.71,
+    "no": 0.29,
+    "endDate": "2026-10-09T08:00:00Z",
+    "volume24hr": 150741.30503999998
+  },
+  {
+    "slug": "bitcoin-above-82k-on-october-2-2026",
+    "question": "Will the price of Bitcoin be above $82,000 on October 2?",
+    "yes": 0.875,
+    "no": 0.125,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 99639.31816500002
+  },
+  {
+    "slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "question": "Will Flávio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.705,
+    "no": 0.295,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 92377.64113500003
+  },
+  {
+    "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+    "question": "Will Flavio Bolsonaro win the most votes in the first round of the 2026 Brazil presidential election?",
+    "yes": 0.305,
+    "no": 0.695,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 91472.61888600001
+  },
+  {
+    "slug": "will-bitcoin-reach-86k-september-28-october-4-2026",
+    "question": "Will Bitcoin reach $86,000 September 28-October 4?",
+    "yes": 0.385,
+    "no": 0.615,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 90346.288472
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-draw",
+    "question": "Will Wales vs. Norway end in a draw?",
+    "yes": 0.195,
+    "no": 0.805,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 83548.082254
+  },
+  {
+    "slug": "bitcoin-above-86k-on-october-2-2026",
+    "question": "Will the price of Bitcoin be above $86,000 on October 2?",
+    "yes": 0.115,
+    "no": 0.885,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 81382.02464700001
+  },
+  {
+    "slug": "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+    "question": "Will Lula win the most votes in the first round of the 2026 Brazil presidential election?",
+    "yes": 0.695,
+    "no": 0.305,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 73276.04755700001
+  },
+  {
+    "slug": "us-x-iran-ceasefire-continues-through-october-7",
+    "question": "US x Iran ceasefire continues through October 7?",
+    "yes": 0.915,
+    "no": 0.085,
+    "endDate": "2026-10-08T03:59:00Z",
+    "volume24hr": 72312.031305
+  },
+  {
+    "slug": "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election",
+    "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+    "yes": 0.043,
+    "no": 0.957,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 69990.16072400002
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-25-october-2-2026-180-199",
+    "question": "Will Elon Musk post 180-199 tweets from September 25 to October 2, 2026?",
+    "yes": 0.325,
+    "no": 0.675,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 69167.45581300001
+  },
+  {
+    "slug": "unl-esp-cze-2026-10-03-esp",
+    "question": "Will Spain win on 2026-10-03?",
+    "yes": 0.895,
+    "no": 0.105,
+    "endDate": "2026-10-03T18:45:00Z",
+    "volume24hr": 64822.76478300001
+  },
+  {
+    "slug": "saudi-arabia-military-action-against-yemen-on-october-12",
+    "question": "Saudi Arabia military action against Yemen on October 12?",
+    "yes": 0.49,
+    "no": 0.51,
+    "endDate": "2026-10-13T03:59:00Z",
+    "volume24hr": 61890.82
+  },
+  {
+    "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "question": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.297,
+    "no": 0.703,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 58642.21296800001
+  },
+  {
+    "slug": "will-bitcoin-dip-to-78k-september-28-october-4-2026",
+    "question": "Will Bitcoin dip to $78,000 September 28-October 4?",
+    "yes": 0.055,
+    "no": 0.945,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 56538.228168999995
+  },
+  {
+    "slug": "saudi-arabia-military-action-against-yemen-on-october-6",
+    "question": "Saudi Arabia military action against Yemen on October 6?",
+    "yes": 0.5,
+    "no": 0.5,
+    "endDate": "2026-10-07T03:59:00Z",
+    "volume24hr": 53597.56
+  },
+  {
+    "slug": "bitcoin-above-84k-on-october-1-2026",
+    "question": "Will the price of Bitcoin be above $84,000 on October 1?",
+    "yes": 0.51,
+    "no": 0.49,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 52812.45095199999
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-ser",
+    "question": "Will Serbia win on 2026-10-01?",
+    "yes": 0.055,
+    "no": 0.945,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 45970.17547
+  },
+  {
+    "slug": "ethereum-above-2600-on-october-2-2026",
+    "question": "Will the price of Ethereum be above $2,600 on October 2?",
+    "yes": 0.955,
+    "no": 0.045,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 42643.072059000006
+  },
+  {
+    "slug": "will-bitcoin-reach-90k-september-28-october-4-2026",
+    "question": "Will Bitcoin reach $90,000 September 28-October 4?",
+    "yes": 0.0365,
+    "no": 0.9635,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 39491.99144500001
+  },
+  {
+    "slug": "wta-yuan-andreev-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Yue Yuan vs Mirra Andreeva",
+    "yes": 0.66,
+    "no": 0.34,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 39340.210575
+  },
+  {
+    "slug": "unl-isr-kvx-2026-10-01-kvx",
+    "question": "Will Kosovo win on 2026-10-01?",
+    "yes": 0.405,
+    "no": 0.595,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 39056.068691
+  },
+  {
+    "slug": "will-bitcoin-dip-to-80k-september-28-october-4-2026",
+    "question": "Will Bitcoin dip to $80,000 September 28-October 4?",
+    "yes": 0.1,
+    "no": 0.9,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 36934.047538
+  },
+  {
+    "slug": "will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
+    "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
+    "yes": 0.826,
+    "no": 0.174,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 36358.55657
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-wal",
+    "question": "Will Wales win on 2026-10-01?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 35563.50627100001
+  },
+  {
+    "slug": "will-bitcoin-dip-to-82k-on-october-1-2026",
+    "question": "Will Bitcoin dip to $82,000 on October 1?",
+    "yes": 0.09,
+    "no": 0.91,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 33460.334363
+  },
+  {
+    "slug": "atp-tabur-gueymar-2026-10-02-completed-match",
+    "question": "Mouilleron-Le-Captif: Completed Match: Clement Tabur vs Sascha Gueymard-Wayenburg",
+    "yes": 0.54,
+    "no": 0.46,
+    "endDate": "2026-10-09T11:00:00Z",
+    "volume24hr": 32719.466839999997
+  },
+  {
+    "slug": "fif-mdv-lib-2026-10-01-lib",
+    "question": "Will Lebanon win on 2026-10-01?",
+    "yes": 0.9275,
+    "no": 0.0725,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 32522.522206
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-25-october-2-2026-200-219",
+    "question": "Will Elon Musk post 200-219 tweets from September 25 to October 2, 2026?",
+    "yes": 0.535,
+    "no": 0.465,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 31685.631881000005
+  },
+  {
+    "slug": "will-renan-santos-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "question": "Will Renan Santos finish in third place in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.455,
+    "no": 0.545,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 31413.463934000007
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-den",
+    "question": "Will Denmark win on 2026-10-01?",
+    "yes": 0.265,
+    "no": 0.735,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 28624.930434
+  },
+  {
+    "slug": "will-ethereum-dip-to-2500-september-28-october-4-2026",
+    "question": "Will Ethereum dip to $2,500 September 28-October 4?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 28310.081693000004
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-25-october-2-2026-220-239",
+    "question": "Will Elon Musk post 220-239 tweets from September 25 to October 2, 2026?",
+    "yes": 0.115,
+    "no": 0.885,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 28057.563737
+  },
+  {
+    "slug": "atp-valle-ma-2026-10-02-completed-match",
+    "question": "Bari: Completed Match: Enrico Dalla Valle vs Juan Martin",
+    "yes": 0.52,
+    "no": 0.48,
+    "endDate": "2026-10-09T08:00:00Z",
+    "volume24hr": 26266
+  },
+  {
+    "slug": "wta-fruhvir-samsono-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Linda Fruhvirtova vs Liudmila Samsonova",
+    "yes": 0.715,
+    "no": 0.285,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 26134
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-ger",
+    "question": "Will Germany win on 2026-10-01?",
+    "yes": 0.815,
+    "no": 0.185,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 22256.21156099999
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-draw",
+    "question": "Will Germany vs. Serbia end in a draw?",
+    "yes": 0.125,
+    "no": 0.875,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 20543.678084000003
+  },
+  {
+    "slug": "brazil-first-round-vote-share-flavio-bolsonaro-39-plus",
+    "question": "Will Flávio Bolsonaro win 39% or more of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.895,
+    "no": 0.105,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 20220.950826
+  },
+  {
+    "slug": "brazil-first-round-vote-share-renan-santos-8-plus",
+    "question": "Will Renan Santos win 8% or more of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.06,
+    "no": 0.94,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 20147.834951999997
+  },
+  {
+    "slug": "will-luiz-incio-lula-da-silva-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510-971",
+    "question": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5–10%?",
+    "yes": 0.155,
+    "no": 0.845,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 18875.20834
+  },
+  {
+    "slug": "ethereum-above-2700-on-october-1-2026",
+    "question": "Will the price of Ethereum be above $2,700 on October 1?",
+    "yes": 0.615,
+    "no": 0.385,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 18299.218042
+  },
+  {
+    "slug": "will-mrbeast-gamings-next-video-get-between-35-and-40-million-views-in-week-1-20260922",
+    "question": "Will MrBeast Gaming's next video get between 35 and 40 million views in week 1?",
+    "yes": 0.4805,
+    "no": 0.5195,
+    "endDate": "2026-10-03T23:59:00Z",
+    "volume24hr": 18105.624914
+  },
+  {
+    "slug": "will-bitcoin-dip-to-82k-september-28-october-4-2026",
+    "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
+    "yes": 0.375,
+    "no": 0.625,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 17420.246328999998
+  },
+  {
+    "slug": "unl-isr-kvx-2026-10-01-isr",
+    "question": "Will Israel win on 2026-10-01?",
+    "yes": 0.315,
+    "no": 0.685,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 17399.654231
+  },
+  {
+    "slug": "will-simone-tebet-win-the-most-votes-in-the-2026-sao-paulo-senate-election",
+    "question": "Will Simone Tebet win the most votes in the 2026 São Paulo Senate election?",
+    "yes": 0.043,
+    "no": 0.957,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 16675.609692
+  },
+  {
+    "slug": "will-mrbeast-gamings-next-video-get-between-30-and-35-million-views-in-week-1-20260922",
+    "question": "Will MrBeast Gaming's next video get between 30 and 35 million views in week 1?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-03T23:59:00Z",
+    "volume24hr": 16192.671401999998
+  },
+  {
+    "slug": "fif-uzb-syr-2026-10-01-syr",
+    "question": "Will Syria win on 2026-10-01?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 15986.393945000002
+  },
+  {
+    "slug": "unl-ire-aut-2026-10-01-aut",
+    "question": "Will Austria win on 2026-10-01?",
+    "yes": 0.445,
+    "no": 0.555,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 15636.382215999998
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-btts",
+    "question": "Wales vs. Norway: Both Teams to Score",
+    "yes": 0.565,
+    "no": 0.435,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 15027.938453
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-grc",
+    "question": "Will Greece win on 2026-10-01?",
+    "yes": 0.275,
+    "no": 0.725,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 14857.183400000002
+  },
+  {
+    "slug": "will-augusto-cury-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "question": "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.396,
+    "no": 0.604,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 14662.647196
+  },
+  {
+    "slug": "will-ethereum-reach-3000-september-28-october-4-2026",
+    "question": "Will Ethereum reach $3,000 September 28-October 4?",
+    "yes": 0.0365,
+    "no": 0.9635,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 14606.209573
+  },
+  {
+    "slug": "fif-uzb-syr-2026-10-01-uzb",
+    "question": "Will Uzbekistan win on 2026-10-01?",
+    "yes": 0.645,
+    "no": 0.355,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 14049.791401999997
+  },
+  {
+    "slug": "will-marina-silva-win-the-second-most-votes-in-the-2026-sao-paulo-senate-election",
+    "question": "Will Marina Silva win the second-most votes in the 2026 São Paulo Senate election?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 13679.615087
+  },
+  {
+    "slug": "will-marina-silva-win-the-most-votes-in-the-2026-sao-paulo-senate-election",
+    "question": "Will Marina Silva win the most votes in the 2026 São Paulo Senate election?",
+    "yes": 0.0365,
+    "no": 0.9635,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 13330.845669000004
+  },
+  {
+    "slug": "wta-alexand-sasnovi-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Ekaterina Alexandrova vs Aliaksandra Sasnovich",
+    "yes": 0.73,
+    "no": 0.27,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 13190
+  },
+  {
+    "slug": "wta-ruzic-kostovi-2026-10-02-completed-match",
+    "question": "Adana: Completed Match: Antonia Ruzic vs Teodora Kostovic",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-09T08:00:00Z",
+    "volume24hr": 13152
+  },
+  {
+    "slug": "wta-bejlek-inglis-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Sara Bejlek vs Maddison Inglis",
+    "yes": 0.745,
+    "no": 0.255,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 13152
+  },
+  {
+    "slug": "wta-pridank-andree-2026-10-02-completed-match",
+    "question": "Adana: Completed Match: Elena Pridankina vs Erika Andreeva",
+    "yes": 0.7,
+    "no": 0.3,
+    "endDate": "2026-10-09T08:00:00Z",
+    "volume24hr": 13116
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-kor",
+    "question": "Will Curaçao win on 2026-10-01?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 13104.856868000003
+  },
+  {
+    "slug": "wta-tauson-kuderme-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Clara Tauson vs Polina Kudermetova",
+    "yes": 0.7,
+    "no": 0.3,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 13094
+  },
+  {
+    "slug": "wta-paolini-snigur-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Jasmine Paolini vs Daria Snigur",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 13086
+  },
+  {
+    "slug": "will-ethereum-reach-2750-on-october-1-2026",
+    "question": "Will Ethereum reach $2,750 on October 1?",
+    "yes": 0.325,
+    "no": 0.675,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 13074.259306
+  },
+  {
+    "slug": "wta-golubic-stearns-2026-10-01-completed-match",
+    "question": "China Open: Completed Match: Viktorija Golubic vs Peyton Stearns",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-09T03:00:00Z",
+    "volume24hr": 13024
+  },
+  {
+    "slug": "will-bitcoin-reach-88k-september-28-october-4-2026",
+    "question": "Will Bitcoin reach $88,000 September 28-October 4?",
+    "yes": 0.115,
+    "no": 0.885,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 13010.936299
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-draw",
+    "question": "Will Denmark vs. Portugal end in a draw?",
+    "yes": 0.255,
+    "no": 0.745,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 12986.466926
+  },
+  {
+    "slug": "unl-bel-tur-2026-10-02-bel",
+    "question": "Will Belgium win on 2026-10-02?",
+    "yes": 0.64,
+    "no": 0.36,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 12764.773027
+  },
+  {
+    "slug": "unl-mal-gib-2026-10-01-mal",
+    "question": "Will Malta win on 2026-10-01?",
+    "yes": 0.775,
+    "no": 0.225,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 12762.971287000002
+  },
+  {
+    "slug": "over-40m-committed-to-the-jumper-public-sale",
+    "question": "Over $40M committed to the Jumper public sale?",
+    "yes": 0.365,
+    "no": 0.635,
+    "endDate": "2026-10-06T03:59:00Z",
+    "volume24hr": 12738.635601
+  },
+  {
+    "slug": "bitcoin-above-82k-on-october-5-2026",
+    "question": "Will the price of Bitcoin be above $82,000 on October 5?",
+    "yes": 0.8,
+    "no": 0.2,
+    "endDate": "2026-10-05T16:00:00Z",
+    "volume24hr": 11740.343176000002
+  },
+  {
+    "slug": "fif-mdv-lib-2026-10-01-draw",
+    "question": "Will Maldives vs. Lebanon end in a draw?",
+    "yes": 0.054,
+    "no": 0.946,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 11441.020206
+  },
+  {
+    "slug": "will-eduardo-paes-win-the-governor-of-rio-de-janeiro-election",
+    "question": "Will Eduardo Paes win the Governor of Rio de Janeiro election?",
+    "yes": 0.6825,
+    "no": 0.3175,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 11277.791904
+  },
+  {
+    "slug": "bitcoin-above-84k-on-october-2-2026",
+    "question": "Will the price of Bitcoin be above $84,000 on October 2?",
+    "yes": 0.49,
+    "no": 0.51,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 11155.436934999998
+  },
+  {
+    "slug": "will-bitcoin-dip-to-81k-on-october-1-2026",
+    "question": "Will Bitcoin dip to $81,000 on October 1?",
+    "yes": 0.0415,
+    "no": 0.9585,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 11016.093718
+  },
+  {
+    "slug": "bitcoin-above-84k-on-october-3-2026",
+    "question": "Will the price of Bitcoin be above $84,000 on October 3?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 10968.521491
+  },
+  {
+    "slug": "will-ethereum-dip-to-2600-september-28-october-4-2026",
+    "question": "Will Ethereum dip to $2,600 September 28-October 4?",
+    "yes": 0.295,
+    "no": 0.705,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 10606.721441
+  },
+  {
+    "slug": "afcq-gui-ken-2026-10-01-gui",
+    "question": "Will Guinea win on 2026-10-01?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 10090.830571
+  },
+  {
+    "slug": "will-sergio-moro-win-the-governor-of-parana-election-20260608205122817",
+    "question": "Will Sergio Moro win the Governor of Paraná election?",
+    "yes": 0.775,
+    "no": 0.225,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 9679.496479
+  },
+  {
+    "slug": "bitcoin-above-84k-on-october-5-2026",
+    "question": "Will the price of Bitcoin be above $84,000 on October 5?",
+    "yes": 0.505,
+    "no": 0.495,
+    "endDate": "2026-10-05T16:00:00Z",
+    "volume24hr": 9610.229927
+  },
+  {
+    "slug": "unl-ire-aut-2026-10-01-ire",
+    "question": "Will Republic of Ireland win on 2026-10-01?",
+    "yes": 0.265,
+    "no": 0.735,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 9562.853112999997
+  },
+  {
+    "slug": "uwcl-psg-ohl-2026-10-01-halftime-result-away",
+    "question": "Oud-Heverlee Leuven Women leading at halftime?",
+    "yes": 0.075,
+    "no": 0.925,
+    "endDate": "2026-10-01T19:00:00Z",
+    "volume24hr": 9270.176313999998
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-btts",
+    "question": "Denmark vs. Portugal: Both Teams to Score",
+    "yes": 0.615,
+    "no": 0.385,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 9214.392404000002
+  },
+  {
+    "slug": "fif-arg-bur-2026-10-03-arg",
+    "question": "Will Argentina win on 2026-10-03?",
+    "yes": 0.825,
+    "no": 0.175,
+    "endDate": "2026-10-03T20:00:00Z",
+    "volume24hr": 8904.699788
+  },
+  {
+    "slug": "will-leila-do-volei-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
+    "question": "Will Leila do Vôlei win the second-most votes in the 2026 Federal District Senate election?",
+    "yes": 0.115,
+    "no": 0.885,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 8880.175357999999
+  },
+  {
+    "slug": "will-paul-st-pierre-plamondon-be-the-next-premier-of-quebec-following-the-2026-quebec-general-election",
+    "question": "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election?",
+    "yes": 0.935,
+    "no": 0.065,
+    "endDate": "2026-10-06T03:59:00Z",
+    "volume24hr": 8823.41
+  },
+  {
+    "slug": "bitcoin-above-88k-on-october-3-2026",
+    "question": "Will the price of Bitcoin be above $88,000 on October 3?",
+    "yes": 0.039,
+    "no": 0.961,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 8764.587795
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-draw",
+    "question": "Will Greece vs. Netherlands end in a draw?",
+    "yes": 0.265,
+    "no": 0.735,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 8692.321907000001
+  },
+  {
+    "slug": "xrp-above-1pt4-on-october-2-2026",
+    "question": "Will the price of XRP be above $1.40 on October 2?",
+    "yes": 0.915,
+    "no": 0.085,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 8568.222184
+  },
+  {
+    "slug": "will-douglas-ruas-win-the-governor-of-rio-de-janeiro-election",
+    "question": "Will Douglas Ruas win the Governor of Rio de Janeiro election?",
+    "yes": 0.3205,
+    "no": 0.6795,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 8443.562584
+  },
+  {
+    "slug": "argcopa-pla-elp-2026-10-01-exact-score-2-0",
+    "question": "Exact Score: CA Platense 2 - 0 Estudiantes de La Plata?",
+    "yes": 0.032,
+    "no": 0.968,
+    "endDate": "2026-10-02T00:15:00Z",
+    "volume24hr": 8442.93116
+  },
+  {
+    "slug": "bitcoin-above-82k-on-october-6-2026",
+    "question": "Will the price of Bitcoin be above $82,000 on October 6?",
+    "yes": 0.765,
+    "no": 0.235,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 8132.277809999999
+  },
+  {
+    "slug": "will-sudans-emergency-response-rooms-win-the-nobel-peace-prize-in-2026",
+    "question": "Will Sudan's Emergency Response Rooms win the Nobel Peace Prize in 2026?",
+    "yes": 0.1175,
+    "no": 0.8825,
+    "endDate": "2026-10-10T00:00:00Z",
+    "volume24hr": 8122.264966999999
+  },
+  {
+    "slug": "googl-above-345-on-october-2-2026",
+    "question": "Will Google (GOOGL) finish week of September 28 above $345?",
+    "yes": 0.73,
+    "no": 0.27,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 7846.221699
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-2-october-9-2026-180-199",
+    "question": "Will Elon Musk post 180-199 tweets from October 2 to October 9, 2026?",
+    "yes": 0.255,
+    "no": 0.745,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 7841.433302
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-btts",
+    "question": "Greece vs. Netherlands: Both Teams to Score",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 7794.312575000001
+  },
+  {
+    "slug": "will-joao-azevedo-win-the-most-votes-in-the-2026-paraiba-senate-election",
+    "question": "Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election?",
+    "yes": 0.945,
+    "no": 0.055,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 7594.207837
+  },
+  {
+    "slug": "unl-fra-ita-2026-10-02-fra",
+    "question": "Will France win on 2026-10-02?",
+    "yes": 0.695,
+    "no": 0.305,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 7523.363154
+  },
+  {
+    "slug": "ethereum-above-2800-on-october-2-2026",
+    "question": "Will the price of Ethereum be above $2,800 on October 2?",
+    "yes": 0.1,
+    "no": 0.9,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 7212.389066000001
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-exact-score-1-1",
+    "question": "Exact Score: Wales 1 - 1 Norway?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 7169.687311
+  },
+  {
+    "slug": "will-verity-opening-weekend-box-office-be-at-least-28m",
+    "question": "Will \"Verity\" Opening Weekend Box Office be at least 28m?",
+    "yes": 0.79,
+    "no": 0.21,
+    "endDate": "2026-10-04T12:00:00Z",
+    "volume24hr": 7168.956499
+  },
+  {
+    "slug": "atp-holmgre-guerrie-2026-09-30-completed-match",
+    "question": "Porto 2: Completed Match: August Holmgren vs Andrea Guerrieri",
+    "yes": 0.56,
+    "no": 0.44,
+    "endDate": "2026-10-07T09:00:00Z",
+    "volume24hr": 7160
+  },
+  {
+    "slug": "atp-poljica-rocha-2026-09-30-completed-match",
+    "question": "Porto 2: Completed Match: Mili Poljicak vs Henrique Rocha",
+    "yes": 0.5,
+    "no": 0.5,
+    "endDate": "2026-10-07T09:00:00Z",
+    "volume24hr": 7140
+  },
+  {
+    "slug": "conl-nca-cri-2026-10-01-cri",
+    "question": "Will Costa Rica win on 2026-10-01?",
+    "yes": 0.645,
+    "no": 0.355,
+    "endDate": "2026-10-02T02:00:00Z",
+    "volume24hr": 7067.999575999999
+  },
+  {
+    "slug": "will-gabriel-souza-win-the-governor-of-rio-grande-do-sul-election-253",
+    "question": "Will Gabriel Souza win the Governor of Rio Grande do Sul election?",
+    "yes": 0.047,
+    "no": 0.953,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 7008.4382479999995
+  },
+  {
+    "slug": "will-luciano-zucco-win-the-governor-of-rio-grande-do-sul-election-718",
+    "question": "Will Luciano Zucco win the Governor of Rio Grande do Sul election?",
+    "yes": 0.875,
+    "no": 0.125,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 6997.817797
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-at-least-45-million-views-on-day-1-20261003",
+    "question": "Will MrBeast's next video get at least 45 million views on day 1?",
+    "yes": 0.225,
+    "no": 0.775,
+    "endDate": "2026-10-06T23:59:00Z",
+    "volume24hr": 6961.216958
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-140-159",
+    "question": "Will Elon Musk post 140-159 tweets from September 29 to October 6, 2026?",
+    "yes": 0.032,
+    "no": 0.968,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 6876.531537999999
+  },
+  {
+    "slug": "unl-mal-gib-2026-10-01-draw",
+    "question": "Will Malta vs. Gibraltar end in a draw?",
+    "yes": 0.175,
+    "no": 0.825,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 6731.383352
+  },
+  {
+    "slug": "will-michelle-bolsonaro-win-the-most-votes-in-the-2026-federal-district-senate-election",
+    "question": "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?",
+    "yes": 0.949,
+    "no": 0.051,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 6679.4468
+  },
+  {
+    "slug": "will-ethereum-reach-2800-on-october-1-2026",
+    "question": "Will Ethereum reach $2,800 on October 1?",
+    "yes": 0.0655,
+    "no": 0.9345,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 6457.714757999999
+  },
+  {
+    "slug": "will-ethereum-reach-2800-september-28-october-4-2026",
+    "question": "Will Ethereum reach $2,800 September 28-October 4?",
+    "yes": 0.375,
+    "no": 0.625,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 6333.2571450000005
+  },
+  {
+    "slug": "unl-hrv-eng-2026-10-03-eng",
+    "question": "Will England win on 2026-10-03?",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 6282.433229999999
+  },
+  {
+    "slug": "will-ronaldo-caiado-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+    "question": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.125,
+    "no": 0.875,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 6124.415913999998
+  },
+  {
+    "slug": "conl-lca-gdl-2026-10-02-gdl",
+    "question": "Will Guadeloupe win on 2026-10-02?",
+    "yes": 0.4,
+    "no": 0.6,
+    "endDate": "2026-10-02T19:00:00Z",
+    "volume24hr": 6031.349361
+  },
+  {
+    "slug": "will-taylor-brown-win-big-brother-season-28-20260708173711857",
+    "question": "Will Taylor Brown win Big Brother season 28?",
+    "yes": 0.155,
+    "no": 0.845,
+    "endDate": "2026-10-01T23:59:00Z",
+    "volume24hr": 6019.063303
+  },
+  {
+    "slug": "bitcoin-above-80k-on-october-3-2026",
+    "question": "Will the price of Bitcoin be above $80,000 on October 3?",
+    "yes": 0.964,
+    "no": 0.036,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 5963.4664840000005
+  },
+  {
+    "slug": "highest-temperature-in-manila-on-october-2-2026-32c",
+    "question": "Will the highest temperature in Manila be 32°C on October 2?",
+    "yes": 0.36,
+    "no": 0.64,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 5926.186233999999
+  },
+  {
+    "slug": "unl-ire-isr-2026-10-04-ire",
+    "question": "Will Republic of Ireland win on 2026-10-04?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-04T18:45:00Z",
+    "volume24hr": 5842.240072
+  },
+  {
+    "slug": "will-bitcoin-reach-85k-on-october-1-2026",
+    "question": "Will Bitcoin reach $85,000 on October 1?",
+    "yes": 0.37,
+    "no": 0.63,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 5780.685255
+  },
+  {
+    "slug": "brazil-first-round-vote-share-flavio-bolsonaro-36-39",
+    "question": "Will Flávio Bolsonaro win between 36% and 39% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.0935,
+    "no": 0.9065,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 5722.793552
+  },
+  {
+    "slug": "unl-aze-lie-2026-10-01-btts",
+    "question": "Azerbaijan vs. Liechtenstein: Both Teams to Score",
+    "yes": 0.195,
+    "no": 0.805,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 5692.640442
+  },
+  {
+    "slug": "unl-isr-kvx-2026-10-01-btts",
+    "question": "Israel vs. Kosovo: Both Teams to Score",
+    "yes": 0.575,
+    "no": 0.425,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 5540.00576
+  },
+  {
+    "slug": "will-the-price-of-bitcoin-be-between-82000-84000-on-october-1-2026",
+    "question": "Will the price of Bitcoin be between $82,000 and $84,000 on October 1?",
+    "yes": 0.47,
+    "no": 0.53,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 5507.705047
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-between-30-and-35-million-views-on-day-1-20261003",
+    "question": "Will MrBeast's next video get between 30 and 35 million views on day 1?",
+    "yes": 0.17,
+    "no": 0.83,
+    "endDate": "2026-10-06T23:59:00Z",
+    "volume24hr": 5452.143334
+  },
+  {
+    "slug": "highest-temperature-in-shanghai-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Shanghai be 24°C on October 2?",
+    "yes": 0.53,
+    "no": 0.47,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 5423.3140379999995
+  },
+  {
+    "slug": "will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-183",
+    "question": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+    "yes": 0.253,
+    "no": 0.747,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 5393.938996999999
+  },
+  {
+    "slug": "itf-abouel1-adeshi1-2026-10-01-completed-match",
+    "question": "W15 Sharm ElSheikh, Main Draw: Completed Match: Hania Abouelsaad vs Esther Adeshina",
+    "yes": 0.54,
+    "no": 0.46,
+    "endDate": "2026-10-08T08:00:00Z",
+    "volume24hr": 5280
+  },
+  {
+    "slug": "will-ethereum-dip-to-2650-on-october-1-2026",
+    "question": "Will Ethereum dip to $2,650 on October 1?",
+    "yes": 0.155,
+    "no": 0.845,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 5243
+  },
+  {
+    "slug": "ethereum-above-2700-on-october-2-2026",
+    "question": "Will the price of Ethereum be above $2,700 on October 2?",
+    "yes": 0.535,
+    "no": 0.465,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 5162.95
+  },
+  {
+    "slug": "will-lula-win-the-most-votes-in-the-next-brazil-presidential-election-from-minas-gerais",
+    "question": "Will Lula win the most votes in the next Brazil presidential election from Minas Gerais?",
+    "yes": 0.795,
+    "no": 0.205,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 5136.280645
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-halftime-result-away",
+    "question": "Portugal leading at halftime?",
+    "yes": 0.365,
+    "no": 0.635,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 5004.912260999998
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-exact-score-1-1",
+    "question": "Exact Score: Germany 1 - 1 Serbia?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 4996.372332999999
+  },
+  {
+    "slug": "will-the-price-of-ethereum-be-between-2700-2800-on-october-1-2026",
+    "question": "Will the price of Ethereum be between $2,700 and $2,800 on October 1?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 4939.102213
+  },
+  {
+    "slug": "will-the-price-of-bitcoin-be-between-80000-82000-on-october-2-2026",
+    "question": "Will the price of Bitcoin be between $80,000 and $82,000 on October 2?",
+    "yes": 0.105,
+    "no": 0.895,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 4878.965235999999
+  },
+  {
+    "slug": "xrp-above-1pt6-on-october-2-2026",
+    "question": "Will the price of XRP be above $1.60 on October 2?",
+    "yes": 0.055,
+    "no": 0.945,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 4832.461605
+  },
+  {
+    "slug": "will-luiz-incio-lula-da-silva-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-639",
+    "question": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by less than 5%?",
+    "yes": 0.575,
+    "no": 0.425,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 4782.409875
+  },
+  {
+    "slug": "will-the-next-google-gemini-pro-model-be-released-between-october-5-and-october-11-2026",
+    "question": "Will the next Google Gemini Pro model be released between October 5 and October 11, 2026?",
+    "yes": 0.056,
+    "no": 0.944,
+    "endDate": "2026-10-11T23:59:00Z",
+    "volume24hr": 4689.183316000001
+  },
+  {
+    "slug": "unl-isr-kvx-2026-10-01-exact-score-3-1",
+    "question": "Exact Score: Israel 3 - 1 Kosovo?",
+    "yes": 0.031,
+    "no": 0.969,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 4651.6875
+  },
+  {
+    "slug": "bitcoin-above-80k-on-october-4-2026",
+    "question": "Will the price of Bitcoin be above $80,000 on October 4?",
+    "yes": 0.9565,
+    "no": 0.0435,
+    "endDate": "2026-10-04T16:00:00Z",
+    "volume24hr": 4575.542992
+  },
+  {
+    "slug": "highest-temperature-in-munich-on-october-2-2026-18c",
+    "question": "Will the highest temperature in Munich be 18°C on October 2?",
+    "yes": 0.145,
+    "no": 0.855,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 4487.013981
+  },
+  {
+    "slug": "bitcoin-above-78k-on-october-6-2026",
+    "question": "Will the price of Bitcoin be above $78,000 on October 6?",
+    "yes": 0.963,
+    "no": 0.037,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 4478.414527
+  },
+  {
+    "slug": "highest-temperature-in-wuhan-on-october-2-2026-19c",
+    "question": "Will the highest temperature in Wuhan be 19°C on October 2?",
+    "yes": 0.26,
+    "no": 0.74,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 4401.4082579999995
+  },
+  {
+    "slug": "conl-dom-hai-2026-10-01-hai",
+    "question": "Will Haiti win on 2026-10-01?",
+    "yes": 0.475,
+    "no": 0.525,
+    "endDate": "2026-10-02T00:00:00Z",
+    "volume24hr": 4392.864939
+  },
+  {
+    "slug": "unl-kaz-mol-2026-10-02-kaz",
+    "question": "Will Kazakhstan win on 2026-10-02?",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-02T14:00:00Z",
+    "volume24hr": 4298.529123
+  },
+  {
+    "slug": "crint-inda-ausa-2026-09-29-inda",
+    "question": "Will India A win?",
+    "yes": 0.102,
+    "no": 0.898,
+    "endDate": "2026-10-06T04:00:00Z",
+    "volume24hr": 4239.719784
+  },
+  {
+    "slug": "highest-temperature-in-atlanta-on-october-2-2026-86-87f",
+    "question": "Will the highest temperature in Atlanta be between 86-87°F on October 2?",
+    "yes": 0.4,
+    "no": 0.6,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 4204.524063000003
+  },
+  {
+    "slug": "highest-temperature-in-manila-on-october-2-2026-34c",
+    "question": "Will the highest temperature in Manila be 34°C on October 2?",
+    "yes": 0.195,
+    "no": 0.805,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 4198.795337
+  },
+  {
+    "slug": "will-the-price-of-bitcoin-be-between-84000-86000-on-october-1-2026",
+    "question": "Will the price of Bitcoin be between $84,000 and $86,000 on October 1?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 4191.29058
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-between-40-and-45-million-views-on-day-1-20261003",
+    "question": "Will MrBeast's next video get between 40 and 45 million views on day 1?",
+    "yes": 0.245,
+    "no": 0.755,
+    "endDate": "2026-10-06T23:59:00Z",
+    "volume24hr": 4189.7428580000005
+  },
+  {
+    "slug": "over-50m-committed-to-the-jumper-public-sale",
+    "question": "Over $50M committed to the Jumper public sale?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-06T03:59:00Z",
+    "volume24hr": 4187.778124
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-btts",
+    "question": "Germany vs. Serbia: Both Teams to Score",
+    "yes": 0.52,
+    "no": 0.48,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 4170.264137
+  },
+  {
+    "slug": "unl-mal-gib-2026-10-01-btts",
+    "question": "Malta vs. Gibraltar: Both Teams to Score",
+    "yes": 0.315,
+    "no": 0.685,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 4110.279648
+  },
+  {
+    "slug": "ethereum-above-2700-on-october-7-2026",
+    "question": "Will the price of Ethereum be above $2,700 on October 7?",
+    "yes": 0.52,
+    "no": 0.48,
+    "endDate": "2026-10-07T16:00:00Z",
+    "volume24hr": 4090
+  },
+  {
+    "slug": "solana-above-115-on-october-2-2026",
+    "question": "Will the price of Solana be above $115 on October 2?",
+    "yes": 0.77,
+    "no": 0.23,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 4065.866664
+  },
+  {
+    "slug": "itf-ritsch1-martin10-2026-10-01-completed-match",
+    "question": "M25 Zaragoza, Main Draw: Completed Match: Alexander Ritschard vs samuel arauzo martinez",
+    "yes": 0.5855,
+    "no": 0.4145,
+    "endDate": "2026-10-08T16:00:00Z",
+    "volume24hr": 4065.0505
+  },
+  {
+    "slug": "ethereum-above-2500-on-october-7-2026",
+    "question": "Will the price of Ethereum be above $2,500 on October 7?",
+    "yes": 0.915,
+    "no": 0.085,
+    "endDate": "2026-10-07T16:00:00Z",
+    "volume24hr": 4063.461533
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-180-199",
+    "question": "Will Elon Musk post 180-199 tweets from September 29 to October 6, 2026?",
+    "yes": 0.275,
+    "no": 0.725,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 4060.5403200000005
+  },
+  {
+    "slug": "enl-gat-wor-2026-10-03-wor",
+    "question": "Will Worthing FC win on 2026-10-03?",
+    "yes": 0.595,
+    "no": 0.405,
+    "endDate": "2026-10-03T14:00:00Z",
+    "volume24hr": 4057.56109
+  },
+  {
+    "slug": "will-googl-reach-360-by-september-28-2026",
+    "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $360 Week of September 28 2026?",
+    "yes": 0.24,
+    "no": 0.76,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 4033.029997
+  },
+  {
+    "slug": "will-xauusd-reach-4200-by-september-28-2026-from-september-30",
+    "question": "Will Gold (XAUUSD) hit (HIGH) $4,200 Week of September 28 2026?",
+    "yes": 0.73,
+    "no": 0.27,
+    "endDate": "2026-10-02T21:00:00Z",
+    "volume24hr": 4032.406181
+  },
+  {
+    "slug": "ethereum-above-2900-on-october-7-2026",
+    "question": "Will the price of Ethereum be above $2,900 on October 7?",
+    "yes": 0.095,
+    "no": 0.905,
+    "endDate": "2026-10-07T16:00:00Z",
+    "volume24hr": 4025
+  },
+  {
+    "slug": "ethereum-above-2800-on-october-7-2026",
+    "question": "Will the price of Ethereum be above $2,800 on October 7?",
+    "yes": 0.25,
+    "no": 0.75,
+    "endDate": "2026-10-07T16:00:00Z",
+    "volume24hr": 4005
+  },
+  {
+    "slug": "epl-liv-mac-2026-10-11-mac",
+    "question": "Will Manchester City FC win on 2026-10-11?",
+    "yes": 0.385,
+    "no": 0.615,
+    "endDate": "2026-10-11T15:30:00Z",
+    "volume24hr": 3980.682547
+  },
+  {
+    "slug": "brazil-first-round-vote-share-renan-santos-2-4",
+    "question": "Will Renan Santos win between 2% and 4% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.43,
+    "no": 0.57,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 3968.05798
+  },
+  {
+    "slug": "will-digger-opening-weekend-box-office-be-less-than-17m",
+    "question": "Will \"Digger\" Opening Weekend Box Office be less than 17m?",
+    "yes": 0.956,
+    "no": 0.044,
+    "endDate": "2026-10-04T12:00:00Z",
+    "volume24hr": 3964.1633119999997
+  },
+  {
+    "slug": "will-guilherme-derrite-win-the-most-votes-in-the-2026-sao-paulo-senate-election",
+    "question": "Will Guilherme Derrite win the most votes in the 2026 São Paulo Senate election?",
+    "yes": 0.71,
+    "no": 0.29,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3961.8382899999992
+  },
+  {
+    "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-minas-gerais",
+    "question": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Minas Gerais?",
+    "yes": 0.1655,
+    "no": 0.8345,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3959.016881000001
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-exact-score-1-3",
+    "question": "Exact Score: Denmark 1 - 3 Portugal?",
+    "yes": 0.054,
+    "no": 0.946,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 3942.762172
+  },
+  {
+    "slug": "will-xauusd-dip-to-4100-by-september-28-2026",
+    "question": "Will Gold (XAUUSD) hit (LOW) $4,100 Week of September 28 2026?",
+    "yes": 0.24,
+    "no": 0.76,
+    "endDate": "2026-10-02T21:00:00Z",
+    "volume24hr": 3873.3007099999995
+  },
+  {
+    "slug": "will-atlanta-braves-advance-to-the-nlds-in-the-2026-mlb-playoffs",
+    "question": "Will Atlanta Braves advance to the NLDS in the 2026 MLB Playoffs?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-05T23:59:00Z",
+    "volume24hr": 3840.340823
+  },
+  {
+    "slug": "highest-temperature-in-london-on-october-2-2026-22c",
+    "question": "Will the highest temperature in London be 22°C on October 2?",
+    "yes": 0.285,
+    "no": 0.715,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3820.6872880000005
+  },
+  {
+    "slug": "will-bitcoin-dip-to-83k-on-october-1-2026",
+    "question": "Will Bitcoin dip to $83,000 on October 1?",
+    "yes": 0.395,
+    "no": 0.605,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 3811.375957
+  },
+  {
+    "slug": "atp-shimizu-tomic-2026-09-30-completed-match",
+    "question": "Jingshan: Completed Match: Yuta Shimizu vs Bernard Tomic",
+    "yes": 0.5,
+    "no": 0.5,
+    "endDate": "2026-10-08T03:00:00Z",
+    "volume24hr": 3730
+  },
+  {
+    "slug": "clf-vfb-sgf-2026-10-01-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.09,
+    "no": 0.91,
+    "endDate": "2026-10-01T15:30:00Z",
+    "volume24hr": 3690.0124210000004
+  },
+  {
+    "slug": "will-ethereum-reach-2900-september-28-october-4-2026",
+    "question": "Will Ethereum reach $2,900 September 28-October 4?",
+    "yes": 0.095,
+    "no": 0.905,
+    "endDate": "2026-10-05T04:00:00Z",
+    "volume24hr": 3648.782025
+  },
+  {
+    "slug": "fif-uzb-syr-2026-10-01-draw",
+    "question": "Will Uzbekistan vs. Syria end in a draw?",
+    "yes": 0.225,
+    "no": 0.775,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 3631.8647330000003
+  },
+  {
+    "slug": "will-the-life-of-a-showgirl-the-encore-first-week-sales-be-at-least-150k",
+    "question": "Will \"The Life of a Showgirl: The Encore\" first week sales be at least 150k?",
+    "yes": 0.9,
+    "no": 0.1,
+    "endDate": "2026-10-03T03:59:00Z",
+    "volume24hr": 3601.4429280000004
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-exact-score-0-1",
+    "question": "Exact Score: Wales 0 - 1 Norway?",
+    "yes": 0.095,
+    "no": 0.905,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 3595.885699
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-1-october-3-2026-0-39",
+    "question": "Will Elon Musk post <40 tweets from October 1 to October 3, 2026?",
+    "yes": 0.095,
+    "no": 0.905,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 3549.460031
+  },
+  {
+    "slug": "bitcoin-above-86k-on-october-3-2026",
+    "question": "Will the price of Bitcoin be above $86,000 on October 3?",
+    "yes": 0.155,
+    "no": 0.845,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 3541.900028
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-2-2",
+    "question": "Exact Score: Curaçao 2 - 2 Trinidad and Tobago?",
+    "yes": 0.0475,
+    "no": 0.9525,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 3538.135002
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-240-259",
+    "question": "Will Elon Musk post 240-259 tweets from September 29 to October 6, 2026?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 3535.207246
+  },
+  {
+    "slug": "will-manuela-d-avila-win-the-second-most-votes-in-the-2026-rio-grande-do-sul-senate-election",
+    "question": "Will Manuela D'Ávila win the second-most votes in the 2026 Rio Grande do Sul Senate election?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3514.830483
+  },
+  {
+    "slug": "highest-temperature-in-munich-on-october-2-2026-19c",
+    "question": "Will the highest temperature in Munich be 19°C on October 2?",
+    "yes": 0.275,
+    "no": 0.725,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3497.5262700000003
+  },
+  {
+    "slug": "will-the-price-of-ethereum-be-between-2500-2600-on-october-2-2026",
+    "question": "Will the price of Ethereum be between $2,500 and $2,600 on October 2?",
+    "yes": 0.05,
+    "no": 0.95,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 3476.636614999996
+  },
+  {
+    "slug": "will-googl-reach-355-by-september-28-2026",
+    "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $355 Week of September 28 2026?",
+    "yes": 0.51,
+    "no": 0.49,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 3470.867221
+  },
+  {
+    "slug": "highest-temperature-in-los-angeles-on-october-2-2026-84-85f",
+    "question": "Will the highest temperature in Los Angeles be between 84-85°F on October 2?",
+    "yes": 0.29,
+    "no": 0.71,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3422.0093050000005
+  },
+  {
+    "slug": "bitcoin-above-82k-on-october-3-2026",
+    "question": "Will the price of Bitcoin be above $82,000 on October 3?",
+    "yes": 0.855,
+    "no": 0.145,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 3409.759218
+  },
+  {
+    "slug": "highest-temperature-in-atlanta-on-october-2-2026-84-85f",
+    "question": "Will the highest temperature in Atlanta be between 84-85°F on October 2?",
+    "yes": 0.28,
+    "no": 0.72,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3407.458604
+  },
+  {
+    "slug": "will-partido-liberal-pl-hold-the-most-seats-as-a-result-of-the-next-brazilian-senate-election",
+    "question": "Will Partido Liberal (PL) hold the most seats as a result of the next Brazilian Senate election?",
+    "yes": 0.93,
+    "no": 0.07,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3403.6841929999996
+  },
+  {
+    "slug": "highest-temperature-in-tokyo-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Tokyo be 24°C on October 2?",
+    "yes": 0.505,
+    "no": 0.495,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3392.6750530000004
+  },
+  {
+    "slug": "will-juliana-brizola-win-the-governor-of-rio-grande-do-sul-election-467",
+    "question": "Will Juliana Brizola win the Governor of Rio Grande do Sul election?",
+    "yes": 0.08,
+    "no": 0.92,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3375.717778
+  },
+  {
+    "slug": "highest-temperature-in-moscow-on-october-2-2026-12c",
+    "question": "Will the highest temperature in Moscow be 12°C on October 2?",
+    "yes": 0.195,
+    "no": 0.805,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3347.215984
+  },
+  {
+    "slug": "unl-fin-alb-2026-10-03-alb",
+    "question": "Will Albania win on 2026-10-03?",
+    "yes": 0.305,
+    "no": 0.695,
+    "endDate": "2026-10-03T13:00:00Z",
+    "volume24hr": 3324.842048
+  },
+  {
+    "slug": "uwcl-faw-im-2026-10-01-im",
+    "question": "Will FC Internazionale Milano win on 2026-10-01?",
+    "yes": 0.535,
+    "no": 0.465,
+    "endDate": "2026-10-01T16:45:00Z",
+    "volume24hr": 3312.5763180000004
+  },
+  {
+    "slug": "highest-temperature-in-amsterdam-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Amsterdam be 21°C on October 2?",
+    "yes": 0.39,
+    "no": 0.61,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3303.9547460000003
+  },
+  {
+    "slug": "afcq-gui-ken-2026-10-01-ken",
+    "question": "Will Kenya win on 2026-10-01?",
+    "yes": 0.125,
+    "no": 0.875,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 3301.8189319999997
+  },
+  {
+    "slug": "highest-temperature-in-tokyo-on-october-2-2026-25c",
+    "question": "Will the highest temperature in Tokyo be 25°C on October 2?",
+    "yes": 0.105,
+    "no": 0.895,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3287.7350759999995
+  },
+  {
+    "slug": "will-ciro-gomes-win-the-2026-cear-gubernatorial-election",
+    "question": "Will Ciro Gomes win the 2026 Ceará gubernatorial election?",
+    "yes": 0.31,
+    "no": 0.69,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3281.0652069999996
+  },
+  {
+    "slug": "highest-temperature-in-seoul-on-october-2-2026-22c",
+    "question": "Will the highest temperature in Seoul (Incheon) be 22°C on October 2?",
+    "yes": 0.355,
+    "no": 0.645,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3274.866761
+  },
+  {
+    "slug": "unl-wal-nor-2026-10-01-exact-score-0-3",
+    "question": "Exact Score: Wales 0 - 3 Norway?",
+    "yes": 0.0755,
+    "no": 0.9245,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 3273.60938
+  },
+  {
+    "slug": "wti-closes-above-89-on-october-1-2026",
+    "question": "WTI Crude Oil (WTI) closes above $89 on October 1?",
+    "yes": 0.87,
+    "no": 0.13,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 3250.279197
+  },
+  {
+    "slug": "lal-rea-vil-2026-10-10-rea",
+    "question": "Will Real Madrid CF win on 2026-10-10?",
+    "yes": 0.735,
+    "no": 0.265,
+    "endDate": "2026-10-10T19:00:00Z",
+    "volume24hr": 3243.825487
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-160-179",
+    "question": "Will Elon Musk post 160-179 tweets from September 29 to October 6, 2026?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 3227.651608
+  },
+  {
+    "slug": "will-verity-opening-weekend-box-office-be-between-22m-and-25m",
+    "question": "Will \"Verity\" Opening Weekend Box Office be between 22m and 25m?",
+    "yes": 0.0525,
+    "no": 0.9475,
+    "endDate": "2026-10-04T12:00:00Z",
+    "volume24hr": 3208.416748
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-200-219",
+    "question": "Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?",
+    "yes": 0.275,
+    "no": 0.725,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 3154.392050000001
+  },
+  {
+    "slug": "unl-mal-gib-2026-10-01-gib",
+    "question": "Will Gibraltar win on 2026-10-01?",
+    "yes": 0.055,
+    "no": 0.945,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 3111.2679609999996
+  },
+  {
+    "slug": "highest-temperature-in-madrid-on-october-2-2026-26corhigher",
+    "question": "Will the highest temperature in Madrid be 26°C or higher on October 2?",
+    "yes": 0.56,
+    "no": 0.44,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3105.689799
+  },
+  {
+    "slug": "will-any-other-model-be-the-best-ai-model-on-october-12-2026",
+    "question": "Will any other model be the best AI model on October 12, 2026?",
+    "yes": 0.94,
+    "no": 0.06,
+    "endDate": "2026-10-13T03:59:00Z",
+    "volume24hr": 3073.4962810000006
+  },
+  {
+    "slug": "will-elmano-de-freitas-win-the-2026-cear-gubernatorial-election",
+    "question": "Will Elmano de Freitas win the 2026 Ceará gubernatorial election?",
+    "yes": 0.685,
+    "no": 0.315,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 3067.847887
+  },
+  {
+    "slug": "highest-temperature-in-warsaw-on-october-2-2026-22c",
+    "question": "Will the highest temperature in Warsaw be 22°C on October 2?",
+    "yes": 0.285,
+    "no": 0.715,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 3062.423884
+  },
+  {
+    "slug": "clf-rbb-ceu-2026-10-01-exact-score-0-0",
+    "question": "Exact Score: Real Betis Seville 0 - 0 AD Ceuta?",
+    "yes": 0.0335,
+    "no": 0.9665,
+    "endDate": "2026-10-01T18:00:00Z",
+    "volume24hr": 3058.0784899999985
+  },
+  {
+    "slug": "will-parti-qubcois-win-the-most-seats-in-the-2026-quebec-general-election",
+    "question": "Will Parti Québécois win the most seats in the 2026 Quebec general election?",
+    "yes": 0.962,
+    "no": 0.038,
+    "endDate": "2026-10-06T03:59:00Z",
+    "volume24hr": 3012.6627099999996
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-exact-score-0-2",
+    "question": "Exact Score: Greece 0 - 2 Netherlands?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 3000.386583
+  },
+  {
+    "slug": "highest-temperature-in-helsinki-on-october-2-2026-18c",
+    "question": "Will the highest temperature in Helsinki be 18°C on October 2?",
+    "yes": 0.12,
+    "no": 0.88,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2941.482863
+  },
+  {
+    "slug": "will-wti-dip-to-85-by-september-28-2026",
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $85 Week of September 28 2026?",
+    "yes": 0.04,
+    "no": 0.96,
+    "endDate": "2026-10-02T22:00:00Z",
+    "volume24hr": 2902.0841029999997
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-0-1",
+    "question": "Exact Score: Curaçao 0 - 1 Trinidad and Tobago?",
+    "yes": 0.0395,
+    "no": 0.9605,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2839.230823
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-3-0",
+    "question": "Exact Score: Curaçao 3 - 0 Trinidad and Tobago?",
+    "yes": 0.0655,
+    "no": 0.9345,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2837.205714
+  },
+  {
+    "slug": "highest-temperature-in-san-francisco-on-october-2-2026-71forbelow",
+    "question": "Will the highest temperature in San Francisco be 71°F or below on October 2?",
+    "yes": 0.18,
+    "no": 0.82,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2815.879753
+  },
+  {
+    "slug": "will-rick-devens-win-big-brother-season-28-20260712164630746",
+    "question": "Will Rick Devens win Big Brother season 28?",
+    "yes": 0.474,
+    "no": 0.526,
+    "endDate": "2026-10-01T23:59:00Z",
+    "volume24hr": 2802.3642560000003
+  },
+  {
+    "slug": "highest-temperature-in-toronto-on-october-2-2026-22c",
+    "question": "Will the highest temperature in Toronto be 22°C on October 2?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2797.053035
+  },
+  {
+    "slug": "highest-temperature-in-denver-on-october-2-2026-82-83f",
+    "question": "Will the highest temperature in Denver be between 82-83°F on October 2?",
+    "yes": 0.375,
+    "no": 0.625,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2785.8894450000003
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-3-1",
+    "question": "Exact Score: Curaçao 3 - 1 Trinidad and Tobago?",
+    "yes": 0.068,
+    "no": 0.932,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2738.0452450000003
+  },
+  {
+    "slug": "will-bitcoin-reach-86k-on-october-1-2026",
+    "question": "Will Bitcoin reach $86,000 on October 1?",
+    "yes": 0.08,
+    "no": 0.92,
+    "endDate": "2026-10-02T04:00:00Z",
+    "volume24hr": 2717.002364999999
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-1-1",
+    "question": "Exact Score: Curaçao 1 - 1 Trinidad and Tobago?",
+    "yes": 0.105,
+    "no": 0.895,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2700.771916
+  },
+  {
+    "slug": "will-aapl-reach-340-by-september-28-2026",
+    "question": "Will Apple (AAPL) hit (HIGH) $340 Week of September 28 2026?",
+    "yes": 0.18,
+    "no": 0.82,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2673.530372
+  },
+  {
+    "slug": "highest-temperature-in-london-on-october-2-2026-20c",
+    "question": "Will the highest temperature in London be 20°C on October 2?",
+    "yes": 0.14,
+    "no": 0.86,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2664.2609539999994
+  },
+  {
+    "slug": "highest-temperature-in-singapore-on-october-2-2026-33c",
+    "question": "Will the highest temperature in Singapore be 33°C on October 2?",
+    "yes": 0.465,
+    "no": 0.535,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2657.676627
+  },
+  {
+    "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-federal-district",
+    "question": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?",
+    "yes": 0.955,
+    "no": 0.045,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 2640.360231
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-2-october-9-2026-260-279",
+    "question": "Will Elon Musk post 260-279 tweets from October 2 to October 9, 2026?",
+    "yes": 0.036,
+    "no": 0.964,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 2635.5504650000003
+  },
+  {
+    "slug": "highest-temperature-in-atlanta-on-october-2-2026-88-89f",
+    "question": "Will the highest temperature in Atlanta be between 88-89°F on October 2?",
+    "yes": 0.205,
+    "no": 0.795,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2595.6962129999997
+  },
+  {
+    "slug": "will-lula-win-the-most-votes-in-the-next-brazil-presidential-election-from-para",
+    "question": "Will Lula win the most votes in the next Brazil presidential election from Pará?",
+    "yes": 0.9645,
+    "no": 0.0355,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 2572.253542
+  },
+  {
+    "slug": "ethereum-above-2500-on-october-5-2026",
+    "question": "Will the price of Ethereum be above $2,500 on October 5?",
+    "yes": 0.955,
+    "no": 0.045,
+    "endDate": "2026-10-05T16:00:00Z",
+    "volume24hr": 2572.12098
+  },
+  {
+    "slug": "highest-temperature-in-hong-kong-on-october-2-2026-28c",
+    "question": "Will the highest temperature in Hong Kong be 28°C on October 2?",
+    "yes": 0.048,
+    "no": 0.952,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2558.656703
+  },
+  {
+    "slug": "will-googl-dip-to-340-by-september-28-2026-from-september-30",
+    "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $340 Week of September 28 2026?",
+    "yes": 0.31,
+    "no": 0.69,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2556.199462
+  },
+  {
+    "slug": "wti-closes-above-93-on-october-1-2026",
+    "question": "WTI Crude Oil (WTI) closes above $93 on October 1?",
+    "yes": 0.226,
+    "no": 0.774,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2531.148076
+  },
+  {
+    "slug": "highest-temperature-in-beijing-on-october-2-2026-25c",
+    "question": "Will the highest temperature in Beijing be 25°C on October 2?",
+    "yes": 0.08,
+    "no": 0.92,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2528.423991
+  },
+  {
+    "slug": "argcopa-pla-elp-2026-10-01-draw",
+    "question": "Will CA Platense vs. Estudiantes de La Plata end in a draw?",
+    "yes": 0.335,
+    "no": 0.665,
+    "endDate": "2026-10-02T00:15:00Z",
+    "volume24hr": 2523.006685
+  },
+  {
+    "slug": "highest-temperature-in-munich-on-october-2-2026-20c",
+    "question": "Will the highest temperature in Munich be 20°C on October 2?",
+    "yes": 0.29,
+    "no": 0.71,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2504.5091570000004
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-3-2",
+    "question": "Exact Score: Curaçao 3 - 2 Trinidad and Tobago?",
+    "yes": 0.033,
+    "no": 0.967,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2499.979541
+  },
+  {
+    "slug": "will-eduardo-gomes-win-the-most-votes-in-the-2026-tocantins-senate-election",
+    "question": "Will Eduardo Gomes win the most votes in the 2026 Tocantins Senate election?",
+    "yes": 0.85,
+    "no": 0.15,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 2495.575086
+  },
+  {
+    "slug": "highest-temperature-in-tokyo-on-october-2-2026-23c",
+    "question": "Will the highest temperature in Tokyo be 23°C on October 2?",
+    "yes": 0.335,
+    "no": 0.665,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2493.452275
+  },
+  {
+    "slug": "argcopa-pla-elp-2026-10-01-pla",
+    "question": "Will CA Platense win on 2026-10-01?",
+    "yes": 0.185,
+    "no": 0.815,
+    "endDate": "2026-10-02T00:15:00Z",
+    "volume24hr": 2484.191307
+  },
+  {
+    "slug": "highest-temperature-in-seoul-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Seoul (Incheon) be 21°C on October 2?",
+    "yes": 0.545,
+    "no": 0.455,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2443.478701
+  },
+  {
+    "slug": "highest-temperature-in-shanghai-on-october-2-2026-23c",
+    "question": "Will the highest temperature in Shanghai be 23°C on October 2?",
+    "yes": 0.12,
+    "no": 0.88,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2442.461268
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-exact-score-1-0",
+    "question": "Exact Score: Germany 1 - 0 Serbia?",
+    "yes": 0.07,
+    "no": 0.93,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 2441.967673
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-exact-score-1-0",
+    "question": "Exact Score: Denmark 1 - 0 Portugal?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 2438.124974
+  },
+  {
+    "slug": "highest-temperature-in-london-on-october-2-2026-21c",
+    "question": "Will the highest temperature in London be 21°C on October 2?",
+    "yes": 0.56,
+    "no": 0.44,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2410.1351529999997
+  },
+  {
+    "slug": "highest-temperature-in-warsaw-on-october-2-2026-20c",
+    "question": "Will the highest temperature in Warsaw be 20°C on October 2?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2397.4600259999997
+  },
+  {
+    "slug": "uwcl-mci-rma-2026-10-01-mci",
+    "question": "Will Manchester City WFC win on 2026-10-01?",
+    "yes": 0.595,
+    "no": 0.405,
+    "endDate": "2026-10-01T19:00:00Z",
+    "volume24hr": 2396.7173649999995
+  },
+  {
+    "slug": "highest-temperature-in-shanghai-on-october-2-2026-25c",
+    "question": "Will the highest temperature in Shanghai be 25°C on October 2?",
+    "yes": 0.33,
+    "no": 0.67,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2392.921813
+  },
+  {
+    "slug": "will-nvda-reach-236-by-september-28-2026",
+    "question": "Will NVIDIA (NVDA) hit (HIGH) $236 Week of September 28 2026?",
+    "yes": 0.315,
+    "no": 0.685,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2389.26395
+  },
+  {
+    "slug": "highest-temperature-in-cape-town-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Cape Town be 21°C on October 2?",
+    "yes": 0.1625,
+    "no": 0.8375,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2381.889141
+  },
+  {
+    "slug": "highest-temperature-in-beijing-on-october-2-2026-23c",
+    "question": "Will the highest temperature in Beijing be 23°C on October 2?",
+    "yes": 0.375,
+    "no": 0.625,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2374.762841
+  },
+  {
+    "slug": "unl-isr-kvx-2026-10-01-exact-score-2-1",
+    "question": "Exact Score: Israel 2 - 1 Kosovo?",
+    "yes": 0.075,
+    "no": 0.925,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 2366.75
+  },
+  {
+    "slug": "will-the-price-of-ethereum-be-between-2600-2700-on-october-1-2026",
+    "question": "Will the price of Ethereum be between $2,600 and $2,700 on October 1?",
+    "yes": 0.365,
+    "no": 0.635,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 2361.037721
+  },
+  {
+    "slug": "highest-temperature-in-wuhan-on-october-2-2026-18c",
+    "question": "Will the highest temperature in Wuhan be 18°C on October 2?",
+    "yes": 0.38,
+    "no": 0.62,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2315.895291
+  },
+  {
+    "slug": "highest-temperature-in-tel-aviv-on-october-2-2026-29c",
+    "question": "Will the highest temperature in Tel Aviv be 29°C on October 2?",
+    "yes": 0.52,
+    "no": 0.48,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2312.7179699999997
+  },
+  {
+    "slug": "will-rklb-dip-to-68-by-september-28-2026",
+    "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $68 Week of September 28 2026?",
+    "yes": 0.2,
+    "no": 0.8,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2310.989406
+  },
+  {
+    "slug": "highest-temperature-in-denver-on-october-2-2026-78-79f",
+    "question": "Will the highest temperature in Denver be between 78-79°F on October 2?",
+    "yes": 0.105,
+    "no": 0.895,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2283.86613
+  },
+  {
+    "slug": "highest-temperature-in-lucknow-on-october-2-2026-32c",
+    "question": "Will the highest temperature in Lucknow be 32°C on October 2?",
+    "yes": 0.145,
+    "no": 0.855,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2281.950672
+  },
+  {
+    "slug": "atp-bolt-zh-2026-09-30-completed-match",
+    "question": "Jingshan: Completed Match: Alex Bolt vs Evan Zhu",
+    "yes": 0.5505,
+    "no": 0.4495,
+    "endDate": "2026-10-08T03:00:00Z",
+    "volume24hr": 2280
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-exact-score-1-0",
+    "question": "Exact Score: Curaçao 1 - 0 Trinidad and Tobago?",
+    "yes": 0.11,
+    "no": 0.89,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2275.090454
+  },
+  {
+    "slug": "highest-temperature-in-munich-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Munich be 21°C on October 2?",
+    "yes": 0.18,
+    "no": 0.82,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2274.814952
+  },
+  {
+    "slug": "unl-hrv-eng-2026-10-03-hrv",
+    "question": "Will Croatia win on 2026-10-03?",
+    "yes": 0.235,
+    "no": 0.765,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 2271.2693540000005
+  },
+  {
+    "slug": "highest-temperature-in-karachi-on-october-2-2026-33c",
+    "question": "Will the highest temperature in Karachi be 33°C on October 2?",
+    "yes": 0.22,
+    "no": 0.78,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2265.90555
+  },
+  {
+    "slug": "bitcoin-above-86k-on-october-4-2026",
+    "question": "Will the price of Bitcoin be above $86,000 on October 4?",
+    "yes": 0.17,
+    "no": 0.83,
+    "endDate": "2026-10-04T16:00:00Z",
+    "volume24hr": 2261.086147
+  },
+  {
+    "slug": "highest-temperature-in-denver-on-october-2-2026-80-81f",
+    "question": "Will the highest temperature in Denver be between 80-81°F on October 2?",
+    "yes": 0.4,
+    "no": 0.6,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2260.433635
+  },
+  {
+    "slug": "crint-inda-ausa-2026-09-29-ausa",
+    "question": "Will Australia A win?",
+    "yes": 0.65,
+    "no": 0.35,
+    "endDate": "2026-10-06T04:00:00Z",
+    "volume24hr": 2249.8696649999997
+  },
+  {
+    "slug": "highest-temperature-in-singapore-on-october-2-2026-32c",
+    "question": "Will the highest temperature in Singapore be 32°C on October 2?",
+    "yes": 0.38,
+    "no": 0.62,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2246.31768
+  },
+  {
+    "slug": "wti-closes-above-92-on-october-1-2026",
+    "question": "WTI Crude Oil (WTI) closes above $92 on October 1?",
+    "yes": 0.42,
+    "no": 0.58,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2230.485963
+  },
+  {
+    "slug": "highest-temperature-in-madrid-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Madrid be 24°C on October 2?",
+    "yes": 0.1105,
+    "no": 0.8895,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2225.058883999999
+  },
+  {
+    "slug": "will-aecio-neves-win-the-second-most-votes-in-the-2026-minas-gerais-senate-election",
+    "question": "Will Aécio Neves win the second-most votes in the 2026 Minas Gerais Senate election?",
+    "yes": 0.0585,
+    "no": 0.9415,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 2219.664394
+  },
+  {
+    "slug": "will-claude-opus-5pt5-high-be-the-best-ai-model-on-october-12-2026",
+    "question": "Will claude-opus-5.5-high be the best AI model on October 12, 2026?",
+    "yes": 0.04,
+    "no": 0.96,
+    "endDate": "2026-10-13T03:59:00Z",
+    "volume24hr": 2214.272722
+  },
+  {
+    "slug": "highest-temperature-in-taipei-on-october-2-2026-33c",
+    "question": "Will the highest temperature in Taipei be 33°C on October 2?",
+    "yes": 0.3,
+    "no": 0.7,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2211.72796
+  },
+  {
+    "slug": "conl-cay-pur-2026-10-01-exact-score-1-1",
+    "question": "Exact Score: Cayman Islands 1 - 1 Puerto Rico?",
+    "yes": 0.0315,
+    "no": 0.9685,
+    "endDate": "2026-10-02T00:00:00Z",
+    "volume24hr": 2206.5625
+  },
+  {
+    "slug": "will-googl-dip-to-335-by-september-28-2026",
+    "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $335 Week of September 28 2026?",
+    "yes": 0.105,
+    "no": 0.895,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2205.5121690000005
+  },
+  {
+    "slug": "will-open-reach-2-50-by-september-28-2026",
+    "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $2.50 Week of September 28 2026?",
+    "yes": 0.245,
+    "no": 0.755,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 2203.682256
+  },
+  {
+    "slug": "will-trump-say-manufacture-during-his-remarks-at-peterbilt-motors-company-october-1",
+    "question": "Will Trump say \"Manufacture\" or \"Manufacturing\" during his remarks at Peterbilt Motors Company?",
+    "yes": 0.845,
+    "no": 0.155,
+    "endDate": "2026-10-01T20:05:00Z",
+    "volume24hr": 2202.714823
+  },
+  {
+    "slug": "lowest-temperature-in-hong-kong-on-october-2-2026-27c",
+    "question": "Will the lowest temperature in Hong Kong be 27°C on October 2?",
+    "yes": 0.445,
+    "no": 0.555,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2200.82947
+  },
+  {
+    "slug": "will-wti-reach-95-by-september-28-2026-from-september-28",
+    "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 Week of September 28 2026?",
+    "yes": 0.335,
+    "no": 0.665,
+    "endDate": "2026-10-02T22:00:00Z",
+    "volume24hr": 2196.5837650000003
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-halftime-result-home",
+    "question": "Germany leading at halftime?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 2193.39986
+  },
+  {
+    "slug": "donald-trump-of-truth-social-posts-october-2-october-9-2026-200plus",
+    "question": "Will Donald Trump post 200+ Truth Social posts from October 2 to October 9, 2026?",
+    "yes": 0.26,
+    "no": 0.74,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 2156
+  },
+  {
+    "slug": "highest-temperature-in-toronto-on-october-2-2026-20c",
+    "question": "Will the highest temperature in Toronto be 20°C on October 2?",
+    "yes": 0.365,
+    "no": 0.635,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2138.649686
+  },
+  {
+    "slug": "highest-temperature-in-amsterdam-on-october-2-2026-20c",
+    "question": "Will the highest temperature in Amsterdam be 20°C on October 2?",
+    "yes": 0.585,
+    "no": 0.415,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2127.090782
+  },
+  {
+    "slug": "highest-temperature-in-qingdao-on-october-2-2026-23c",
+    "question": "Will the highest temperature in Qingdao be 23°C on October 2?",
+    "yes": 0.515,
+    "no": 0.485,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2122.151902
+  },
+  {
+    "slug": "wti-closes-above-94-on-october-1-2026",
+    "question": "WTI Crude Oil (WTI) closes above $94 on October 1?",
+    "yes": 0.116,
+    "no": 0.884,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 2119.0458099999996
+  },
+  {
+    "slug": "unl-bela-smr-2026-10-03-smr",
+    "question": "Will San Marino win on 2026-10-03?",
+    "yes": 0.036,
+    "no": 0.964,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 2110.825738
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-2-october-9-2026-200-219",
+    "question": "Will Elon Musk post 200-219 tweets from October 2 to October 9, 2026?",
+    "yes": 0.225,
+    "no": 0.775,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 2092.803098
+  },
+  {
+    "slug": "highest-temperature-in-qingdao-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Qingdao be 24°C on October 2?",
+    "yes": 0.455,
+    "no": 0.545,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2090.952547
+  },
+  {
+    "slug": "unl-bih-swe-2026-10-02-swe",
+    "question": "Will Sweden win on 2026-10-02?",
+    "yes": 0.395,
+    "no": 0.605,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 2089.4429200000004
+  },
+  {
+    "slug": "will-verity-opening-weekend-box-office-be-between-25m-and-28m",
+    "question": "Will \"Verity\" Opening Weekend Box Office be between 25m and 28m?",
+    "yes": 0.135,
+    "no": 0.865,
+    "endDate": "2026-10-04T12:00:00Z",
+    "volume24hr": 2071.629887
+  },
+  {
+    "slug": "unl-prt-nor-2026-10-04-prt",
+    "question": "Will Portugal win on 2026-10-04?",
+    "yes": 0.535,
+    "no": 0.465,
+    "endDate": "2026-10-04T18:45:00Z",
+    "volume24hr": 2068.181114
+  },
+  {
+    "slug": "highest-temperature-in-milan-on-october-2-2026-25c",
+    "question": "Will the highest temperature in Milan be 25°C on October 2?",
+    "yes": 0.5,
+    "no": 0.5,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2066.483916
+  },
+  {
+    "slug": "will-xagusd-reach-62-by-september-28-2026",
+    "question": "Will Silver (XAGUSD) hit (HIGH) $62 Week of September 28 2026?",
+    "yes": 0.53,
+    "no": 0.47,
+    "endDate": "2026-10-02T21:00:00Z",
+    "volume24hr": 2037.37842
+  },
+  {
+    "slug": "highest-temperature-in-toronto-on-october-2-2026-19c",
+    "question": "Will the highest temperature in Toronto be 19°C on October 2?",
+    "yes": 0.145,
+    "no": 0.855,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 2027.4387489999997
+  },
+  {
+    "slug": "conl-cay-pur-2026-10-01-pur",
+    "question": "Will Puerto Rico win on 2026-10-01?",
+    "yes": 0.905,
+    "no": 0.095,
+    "endDate": "2026-10-02T00:00:00Z",
+    "volume24hr": 1995.6158420000002
+  },
+  {
+    "slug": "mls-sea-skc-2026-10-01-sea",
+    "question": "Will Seattle Sounders FC win on 2026-10-01?",
+    "yes": 0.655,
+    "no": 0.345,
+    "endDate": "2026-10-02T01:30:00Z",
+    "volume24hr": 1991.5239789999998
+  },
+  {
+    "slug": "fif-uzb-syr-2026-10-01-btts",
+    "question": "Uzbekistan vs. Syria: Both Teams to Score",
+    "yes": 0.415,
+    "no": 0.585,
+    "endDate": "2026-10-01T14:00:00Z",
+    "volume24hr": 1985.689337
+  },
+  {
+    "slug": "highest-temperature-in-shenzhen-on-october-2-2026-29c",
+    "question": "Will the highest temperature in Shenzhen be 29°C on October 2?",
+    "yes": 0.215,
+    "no": 0.785,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1985.4232419999996
+  },
+  {
+    "slug": "will-there-be-6-earthquakes-of-5pt5-or-above-magnitude-worldwide-copy-copy-copy-copy-copy",
+    "question": "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?",
+    "yes": 0.375,
+    "no": 0.625,
+    "endDate": "2026-10-05T23:59:00Z",
+    "volume24hr": 1973.204848
+  },
+  {
+    "slug": "lowest-temperature-in-tokyo-on-october-2-2026-20c",
+    "question": "Will the lowest temperature in Tokyo be 20°C on October 2?",
+    "yes": 0.145,
+    "no": 0.855,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1968.5251039999996
+  },
+  {
+    "slug": "solana-above-125-on-october-2-2026",
+    "question": "Will the price of Solana be above $125 on October 2?",
+    "yes": 0.055,
+    "no": 0.945,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 1933.942339
+  },
+  {
+    "slug": "argcopa-pla-elp-2026-10-01-elp",
+    "question": "Will Estudiantes de La Plata win on 2026-10-01?",
+    "yes": 0.485,
+    "no": 0.515,
+    "endDate": "2026-10-02T00:15:00Z",
+    "volume24hr": 1933.4539409999998
+  },
+  {
+    "slug": "highest-temperature-in-toronto-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Toronto be 21°C on October 2?",
+    "yes": 0.33,
+    "no": 0.67,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1929.8906769999999
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-between-70-and-80-million-views-on-week-1-20261003",
+    "question": "Will MrBeast's next video get between 70 and 80 million views on week 1?",
+    "yes": 0.125,
+    "no": 0.875,
+    "endDate": "2026-10-11T23:59:00Z",
+    "volume24hr": 1918.55
+  },
+  {
+    "slug": "highest-temperature-in-beijing-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Beijing be 24°C on October 2?",
+    "yes": 0.51,
+    "no": 0.49,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1910.6730200000002
+  },
+  {
+    "slug": "unl-aze-lie-2026-10-01-draw",
+    "question": "Will Azerbaijan vs. Liechtenstein end in a draw?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 1907.516667
+  },
+  {
+    "slug": "conl-dma-guy1-2026-10-01-dma",
+    "question": "Will Dominica win on 2026-10-01?",
+    "yes": 0.065,
+    "no": 0.935,
+    "endDate": "2026-10-01T21:00:00Z",
+    "volume24hr": 1889.378083
+  },
+  {
+    "slug": "fif-ind-bra-2026-10-03-bra",
+    "question": "Will Brazil win on 2026-10-03?",
+    "yes": 0.955,
+    "no": 0.045,
+    "endDate": "2026-10-03T14:00:00Z",
+    "volume24hr": 1887.976039
+  },
+  {
+    "slug": "will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913",
+    "question": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+    "yes": 0.0625,
+    "no": 0.9375,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1884.574147
+  },
+  {
+    "slug": "highest-temperature-in-jeddah-on-october-2-2026-35c",
+    "question": "Will the highest temperature in Jeddah be 35°C on October 2?",
+    "yes": 0.345,
+    "no": 0.655,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1876.69542
+  },
+  {
+    "slug": "ucl-vil-nap-2026-10-13-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.46,
+    "no": 0.54,
+    "endDate": "2026-10-13T19:00:00Z",
+    "volume24hr": 1866
+  },
+  {
+    "slug": "nvda-above-230-on-october-2-2026",
+    "question": "Will NVIDIA (NVDA) finish week of September 28 above $230?",
+    "yes": 0.635,
+    "no": 0.365,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1850.45
+  },
+  {
+    "slug": "ucl-vf-bay-2026-10-13-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.48,
+    "no": 0.52,
+    "endDate": "2026-10-13T19:00:00Z",
+    "volume24hr": 1850
+  },
+  {
+    "slug": "highest-temperature-in-milan-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Milan be 24°C on October 2?",
+    "yes": 0.36,
+    "no": 0.64,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1845.57316
+  },
+  {
+    "slug": "ucl-atm-mnu-2026-10-13-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.425,
+    "no": 0.575,
+    "endDate": "2026-10-13T19:00:00Z",
+    "volume24hr": 1843.202142
+  },
+  {
+    "slug": "unl-esp-cze-2026-10-03-btts",
+    "question": "Spain vs. Czechia: Both Teams to Score",
+    "yes": 0.345,
+    "no": 0.655,
+    "endDate": "2026-10-03T18:45:00Z",
+    "volume24hr": 1836.212129
+  },
+  {
+    "slug": "will-mu-reach-1110-by-september-28-2026",
+    "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $1,110 Week of September 28 2026?",
+    "yes": 0.715,
+    "no": 0.285,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1826.062599
+  },
+  {
+    "slug": "unl-aze-lie-2026-10-01-aze",
+    "question": "Will Azerbaijan win on 2026-10-01?",
+    "yes": 0.885,
+    "no": 0.115,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 1822.6240040000002
+  },
+  {
+    "slug": "conl-vir-maf-2026-10-01-vir",
+    "question": "Will US Virgin Islands win on 2026-10-01?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-01T20:00:00Z",
+    "volume24hr": 1808.384784
+  },
+  {
+    "slug": "ucl-int-bru-2026-10-13-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.445,
+    "no": 0.555,
+    "endDate": "2026-10-13T19:00:00Z",
+    "volume24hr": 1808
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-exact-score-2-2",
+    "question": "Exact Score: Denmark 2 - 2 Portugal?",
+    "yes": 0.0675,
+    "no": 0.9325,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 1805.574616
+  },
+  {
+    "slug": "will-trump-say-six-seven-this-week-20261004",
+    "question": "Will Trump say \"Six Seven\" this week?",
+    "yes": 0.235,
+    "no": 0.765,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 1803.317572
+  },
+  {
+    "slug": "bitcoin-above-84k-on-october-6-2026",
+    "question": "Will the price of Bitcoin be above $84,000 on October 6?",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 1803.12
+  },
+  {
+    "slug": "ucl-lin2-liv-2026-10-14-exact-score-any-other",
+    "question": "Exact Score: Any Other Score?",
+    "yes": 0.46,
+    "no": 0.54,
+    "endDate": "2026-10-14T16:45:00Z",
+    "volume24hr": 1796
+  },
+  {
+    "slug": "bitcoin-above-88k-on-october-5-2026",
+    "question": "Will the price of Bitcoin be above $88,000 on October 5?",
+    "yes": 0.07,
+    "no": 0.93,
+    "endDate": "2026-10-05T16:00:00Z",
+    "volume24hr": 1790.319133
+  },
+  {
+    "slug": "googl-above-350-on-october-2-2026",
+    "question": "Will Google (GOOGL) finish week of September 28 above $350?",
+    "yes": 0.565,
+    "no": 0.435,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1789.0193110000002
+  },
+  {
+    "slug": "unl-ire-aut-2026-10-01-btts",
+    "question": "Republic of Ireland vs. Austria: Both Teams to Score",
+    "yes": 0.495,
+    "no": 0.505,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 1774.551769
+  },
+  {
+    "slug": "highest-temperature-in-ankara-on-october-2-2026-18c",
+    "question": "Will the highest temperature in Ankara be 18°C on October 2?",
+    "yes": 0.16,
+    "no": 0.84,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1757.074772
+  },
+  {
+    "slug": "highest-temperature-in-madrid-on-october-2-2026-25c",
+    "question": "Will the highest temperature in Madrid be 25°C on October 2?",
+    "yes": 0.3,
+    "no": 0.7,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1753.68869
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-2-october-9-2026-240-259",
+    "question": "Will Elon Musk post 240-259 tweets from October 2 to October 9, 2026?",
+    "yes": 0.075,
+    "no": 0.925,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 1750.15711
+  },
+  {
+    "slug": "highest-temperature-in-taipei-on-october-2-2026-32c",
+    "question": "Will the highest temperature in Taipei be 32°C on October 2?",
+    "yes": 0.335,
+    "no": 0.665,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1741.633385
+  },
+  {
+    "slug": "will-the-price-of-bitcoin-be-between-86000-88000-on-october-2-2026",
+    "question": "Will the price of Bitcoin be between $86,000 and $88,000 on October 2?",
+    "yes": 0.0995,
+    "no": 0.9005,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 1735.611801
+  },
+  {
+    "slug": "jnj-quarterly-earnings-nongaap-eps-10-13-2026-2pt59",
+    "question": "Will Johnson & Johnson (JNJ) beat quarterly earnings?",
+    "yes": 0.65,
+    "no": 0.35,
+    "endDate": "2026-10-13T20:00:00Z",
+    "volume24hr": 1710.0391370000002
+  },
+  {
+    "slug": "will-annual-inflation-be-3pt7-in-september-2026",
+    "question": "Will annual inflation be 3.7% in September?",
+    "yes": 0.325,
+    "no": 0.675,
+    "endDate": "2026-10-15T03:59:00Z",
+    "volume24hr": 1704.923847
+  },
+  {
+    "slug": "highest-temperature-in-wuhan-on-october-2-2026-17c",
+    "question": "Will the highest temperature in Wuhan be 17°C on October 2?",
+    "yes": 0.18,
+    "no": 0.82,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1701.44179
+  },
+  {
+    "slug": "will-veneziano-win-the-second-most-votes-in-the-2026-paraiba-senate-election",
+    "question": "Will Veneziano win the second-most votes in the 2026 Paraíba Senate election?",
+    "yes": 0.575,
+    "no": 0.425,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1698.15
+  },
+  {
+    "slug": "highest-temperature-in-helsinki-on-october-2-2026-16c",
+    "question": "Will the highest temperature in Helsinki be 16°C on October 2?",
+    "yes": 0.37,
+    "no": 0.63,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1690.993668
+  },
+  {
+    "slug": "brazil-first-round-vote-share-lula-da-silva-44-plus",
+    "question": "Will Lula win 44% or more of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 1690.782766
+  },
+  {
+    "slug": "will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927",
+    "question": "Will Raquel Lyra win the Pernambuco Governor election?",
+    "yes": 0.475,
+    "no": 0.525,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1686.618621
+  },
+  {
+    "slug": "ethereum-above-2900-on-october-4-2026",
+    "question": "Will the price of Ethereum be above $2,900 on October 4?",
+    "yes": 0.034,
+    "no": 0.966,
+    "endDate": "2026-10-04T16:00:00Z",
+    "volume24hr": 1681.033592
+  },
+  {
+    "slug": "will-xagusd-dip-to-59-by-september-28-2026",
+    "question": "Will Silver (XAGUSD) hit (LOW) $59 Week of September 28 2026?",
+    "yes": 0.225,
+    "no": 0.775,
+    "endDate": "2026-10-02T21:00:00Z",
+    "volume24hr": 1667.52672
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-between-80-and-90-million-views-on-week-1-20261003",
+    "question": "Will MrBeast's next video get between 80 and 90 million views on week 1?",
+    "yes": 0.28,
+    "no": 0.72,
+    "endDate": "2026-10-11T23:59:00Z",
+    "volume24hr": 1664.016664
+  },
+  {
+    "slug": "unl-bel-tur-2026-10-02-tur",
+    "question": "Will Türkiye win on 2026-10-02?",
+    "yes": 0.165,
+    "no": 0.835,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 1652.929092
+  },
+  {
+    "slug": "highest-temperature-in-tel-aviv-on-october-2-2026-30c",
+    "question": "Will the highest temperature in Tel Aviv be 30°C on October 2?",
+    "yes": 0.445,
+    "no": 0.555,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1652.324363
+  },
+  {
+    "slug": "will-hood-dip-to-102-50-by-september-28-2026",
+    "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $102.50 Week of September 28 2026?",
+    "yes": 0.0405,
+    "no": 0.9595,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1649
+  },
+  {
+    "slug": "unl-den-prt-2026-10-01-exact-score-2-3",
+    "question": "Exact Score: Denmark 2 - 3 Portugal?",
+    "yes": 0.037,
+    "no": 0.963,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 1648.784893
+  },
+  {
+    "slug": "highest-temperature-in-los-angeles-on-october-2-2026-82-83f",
+    "question": "Will the highest temperature in Los Angeles be between 82-83°F on October 2?",
+    "yes": 0.145,
+    "no": 0.855,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1647.274735
+  },
+  {
+    "slug": "lowest-temperature-in-hong-kong-on-october-2-2026-26c",
+    "question": "Will the lowest temperature in Hong Kong be 26°C on October 2?",
+    "yes": 0.34,
+    "no": 0.66,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1647.2552660000001
+  },
+  {
+    "slug": "wta-gao-udvardy-2026-09-29-completed-match",
+    "question": "China Open: Completed Match: Xinyu Gao vs Panna Udvardy",
+    "yes": 0.5005,
+    "no": 0.5,
+    "endDate": "2026-10-07T03:00:00Z",
+    "volume24hr": 1640
+  },
+  {
+    "slug": "will-rklb-reach-74-by-september-28-2026-from-september-30",
+    "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $74 Week of September 28 2026?",
+    "yes": 0.72,
+    "no": 0.28,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1634.8324380000004
+  },
+  {
+    "slug": "brazil-first-round-vote-share-renan-santos-6-8",
+    "question": "Will Renan Santos win between 6% and 8% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.114,
+    "no": 0.886,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 1618.526399
+  },
+  {
+    "slug": "will-mrbeasts-next-video-get-between-35-and-40-million-views-on-day-1-20261003",
+    "question": "Will MrBeast's next video get between 35 and 40 million views on day 1?",
+    "yes": 0.285,
+    "no": 0.715,
+    "endDate": "2026-10-06T23:59:00Z",
+    "volume24hr": 1617.6228580000002
+  },
+  {
+    "slug": "highest-temperature-in-miami-on-october-2-2026-88-89f",
+    "question": "Will the highest temperature in Miami be between 88-89°F on October 2?",
+    "yes": 0.44,
+    "no": 0.56,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1614.293269
+  },
+  {
+    "slug": "highest-temperature-in-paris-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Paris be 21°C on October 2?",
+    "yes": 0.295,
+    "no": 0.705,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1610.709179
+  },
+  {
+    "slug": "argpn-mor-abo-2026-10-03-abo",
+    "question": "Will CA All Boys win on 2026-10-03?",
+    "yes": 0.165,
+    "no": 0.835,
+    "endDate": "2026-10-03T18:00:00Z",
+    "volume24hr": 1600.243794
+  },
+  {
+    "slug": "will-manuela-d-avila-win-the-most-votes-in-the-2026-rio-grande-do-sul-senate-election",
+    "question": "Will Manuela D'Ávila win the most votes in the 2026 Rio Grande do Sul Senate election?",
+    "yes": 0.06,
+    "no": 0.94,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1599.2167210000002
+  },
+  {
+    "slug": "conl-vgb-msr-2026-10-01-vgb",
+    "question": "Will British Virgin Islands win on 2026-10-01?",
+    "yes": 0.045,
+    "no": 0.955,
+    "endDate": "2026-10-01T20:00:00Z",
+    "volume24hr": 1593.273419
+  },
+  {
+    "slug": "will-spy-dip-to-760-by-september-28-2026",
+    "question": "Will S&P 500 (SPY) hit (LOW) $760 Week of September 28 2026?",
+    "yes": 0.44,
+    "no": 0.56,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1589.697253
+  },
+  {
+    "slug": "highest-temperature-in-shenzhen-on-october-2-2026-31c",
+    "question": "Will the highest temperature in Shenzhen be 31°C on October 2?",
+    "yes": 0.275,
+    "no": 0.725,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1586.881085
+  },
+  {
+    "slug": "highest-temperature-in-warsaw-on-october-2-2026-21c",
+    "question": "Will the highest temperature in Warsaw be 21°C on October 2?",
+    "yes": 0.555,
+    "no": 0.445,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1574.4063769999998
+  },
+  {
+    "slug": "unl-ger-ser-2026-10-01-exact-score-2-1",
+    "question": "Exact Score: Germany 2 - 1 Serbia?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 1557.798311
+  },
+  {
+    "slug": "col1-cle-onc-2026-10-01-draw",
+    "question": "Will Internacional de Bogotá vs. Once Caldas end in a draw?",
+    "yes": 0.325,
+    "no": 0.675,
+    "endDate": "2026-10-02T01:00:00Z",
+    "volume24hr": 1557.148232
+  },
+  {
+    "slug": "elon-musk-of-tweets-september-29-october-6-2026-220-239",
+    "question": "Will Elon Musk post 220-239 tweets from September 29 to October 6, 2026?",
+    "yes": 0.185,
+    "no": 0.815,
+    "endDate": "2026-10-06T16:00:00Z",
+    "volume24hr": 1554.5467859999999
+  },
+  {
+    "slug": "bitcoin-above-80k-on-october-5-2026",
+    "question": "Will the price of Bitcoin be above $80,000 on October 5?",
+    "yes": 0.925,
+    "no": 0.075,
+    "endDate": "2026-10-05T16:00:00Z",
+    "volume24hr": 1553.634544
+  },
+  {
+    "slug": "highest-temperature-in-chicago-on-october-2-2026-64-65f",
+    "question": "Will the highest temperature in Chicago be between 64-65°F on October 2?",
+    "yes": 0.46,
+    "no": 0.54,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1553.4958049999998
+  },
+  {
+    "slug": "highest-temperature-in-busan-on-october-2-2026-24c",
+    "question": "Will the highest temperature in Busan be 24°C on October 2?",
+    "yes": 0.505,
+    "no": 0.495,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1542.6968579999998
+  },
+  {
+    "slug": "highest-temperature-in-munich-on-october-2-2026-22c",
+    "question": "Will the highest temperature in Munich be 22°C on October 2?",
+    "yes": 0.108,
+    "no": 0.892,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1542.3510899999999
+  },
+  {
+    "slug": "will-simone-tebet-win-the-second-most-votes-in-the-2026-sao-paulo-senate-election",
+    "question": "Will Simone Tebet win the second-most votes in the 2026 São Paulo Senate election?",
+    "yes": 0.06,
+    "no": 0.94,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1539.6966230000003
+  },
+  {
+    "slug": "highest-temperature-in-moscow-on-october-2-2026-13c",
+    "question": "Will the highest temperature in Moscow be 13°C on October 2?",
+    "yes": 0.53,
+    "no": 0.47,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1530.981509
+  },
+  {
+    "slug": "highest-temperature-in-ankara-on-october-2-2026-16c",
+    "question": "Will the highest temperature in Ankara be 16°C on October 2?",
+    "yes": 0.335,
+    "no": 0.665,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1523.5039950000003
+  },
+  {
+    "slug": "conl-kor-tri-2026-10-01-btts",
+    "question": "Curaçao vs. Trinidad and Tobago: Both Teams to Score",
+    "yes": 0.525,
+    "no": 0.475,
+    "endDate": "2026-10-01T22:00:00Z",
+    "volume24hr": 1522.932162
+  },
+  {
+    "slug": "unl-che-slv-2026-10-03-slv",
+    "question": "Will Slovenia win on 2026-10-03?",
+    "yes": 0.085,
+    "no": 0.915,
+    "endDate": "2026-10-03T18:45:00Z",
+    "volume24hr": 1505.7954859999998
+  },
+  {
+    "slug": "highest-temperature-in-kuala-lumpur-on-october-2-2026-33c",
+    "question": "Will the highest temperature in Kuala Lumpur be 33°C on October 2?",
+    "yes": 0.405,
+    "no": 0.595,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1482.639444
+  },
+  {
+    "slug": "will-lula-win-the-most-votes-in-the-next-brazil-presidential-election-from-amazonas",
+    "question": "Will Lula win the most votes in the next Brazil presidential election from Amazonas?",
+    "yes": 0.89,
+    "no": 0.11,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1482.333988
+  },
+  {
+    "slug": "will-acm-neto-win-the-2026-bahia-gubernatorial-election",
+    "question": "Will ACM Neto win the 2026 Bahia gubernatorial election?",
+    "yes": 0.37,
+    "no": 0.63,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1479.9827919999998
+  },
+  {
+    "slug": "will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election",
+    "question": "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?",
+    "yes": 0.635,
+    "no": 0.365,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1477.825693
+  },
+  {
+    "slug": "clf-vfb-sgf-2026-10-01-vfb",
+    "question": "Will VfB Stuttgart win on 2026-10-01?",
+    "yes": 0.785,
+    "no": 0.215,
+    "endDate": "2026-10-01T15:30:00Z",
+    "volume24hr": 1476.3616129999998
+  },
+  {
+    "slug": "brazil-first-round-vote-share-renan-santos-less-than-2",
+    "question": "Will Renan Santos win less than 2% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+    "yes": 0.0985,
+    "no": 0.9015,
+    "endDate": "2026-10-04T23:59:00Z",
+    "volume24hr": 1463.9417440000002
+  },
+  {
+    "slug": "will-lucas-ribeiro-win-the-governor-of-paraiba-election-20260706173717101",
+    "question": "Will Lucas Ribeiro win the Governor of Paraíba election?",
+    "yes": 0.955,
+    "no": 0.045,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1452.976402
+  },
+  {
+    "slug": "unl-pol-rom-2026-10-02-pol",
+    "question": "Will Poland win on 2026-10-02?",
+    "yes": 0.625,
+    "no": 0.375,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 1451.009241
+  },
+  {
+    "slug": "donald-trump-of-truth-social-posts-september-25-october-2-2026-180-199",
+    "question": "Will Donald Trump post 180-199 Truth Social posts from September 25 to October 2, 2026?",
+    "yes": 0.455,
+    "no": 0.545,
+    "endDate": "2026-10-02T16:00:00Z",
+    "volume24hr": 1446.1785639999998
+  },
+  {
+    "slug": "unl-bela-smr-2026-10-03-bela",
+    "question": "Will Belarus win on 2026-10-03?",
+    "yes": 0.885,
+    "no": 0.115,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 1444.520591
+  },
+  {
+    "slug": "fif-kr-ven-2026-10-02-ven",
+    "question": "Will Venezuela win on 2026-10-02?",
+    "yes": 0.175,
+    "no": 0.825,
+    "endDate": "2026-10-02T11:00:00Z",
+    "volume24hr": 1442.352884
+  },
+  {
+    "slug": "highest-temperature-in-nyc-on-october-2-2026-86-87f",
+    "question": "Will the highest temperature in New York City be between 86-87°F on October 2?",
+    "yes": 0.41,
+    "no": 0.59,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1442.076589
+  },
+  {
+    "slug": "will-carol-de-toni-win-the-most-votes-in-the-2026-santa-catarina-senate-election",
+    "question": "Will Carol de Toni win the most votes in the 2026 Santa Catarina Senate election?",
+    "yes": 0.715,
+    "no": 0.285,
+    "endDate": "2026-10-05T03:59:00Z",
+    "volume24hr": 1442.028144
+  },
+  {
+    "slug": "unl-che-slv-2026-10-03-btts",
+    "question": "Switzerland vs. Slovenia: Both Teams to Score",
+    "yes": 0.415,
+    "no": 0.585,
+    "endDate": "2026-10-03T18:45:00Z",
+    "volume24hr": 1440.8223689999998
+  },
+  {
+    "slug": "will-the-price-of-bitcoin-be-between-80000-82000-on-october-3-2026",
+    "question": "Will the price of Bitcoin be between $80,000 and $82,000 on October 3?",
+    "yes": 0.12,
+    "no": 0.88,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 1440.227646
+  },
+  {
+    "slug": "will-mu-reach-1170-by-september-28-2026",
+    "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $1,170 Week of September 28 2026?",
+    "yes": 0.21,
+    "no": 0.79,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1438.985299
+  },
+  {
+    "slug": "2-free-app-in-the-us-apple-app-store-on-october-2-20260925t180000000z-will-muse-from-meta-be-2-free-app-in-the-us-apple-app-store-on-october-2",
+    "question": "Will Muse from Meta be #2 Free App in the US Apple App Store on October 2?",
+    "yes": 0.15,
+    "no": 0.85,
+    "endDate": "2026-10-02T23:59:00Z",
+    "volume24hr": 1418.796044
+  },
+  {
+    "slug": "highest-temperature-in-tokyo-on-october-2-2026-22c",
+    "question": "Will the highest temperature in Tokyo be 22°C on October 2?",
+    "yes": 0.04,
+    "no": 0.96,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1415.7871659999998
+  },
+  {
+    "slug": "highest-temperature-in-wellington-on-october-2-2026-17c",
+    "question": "Will the highest temperature in Wellington be 17°C on October 2?",
+    "yes": 0.175,
+    "no": 0.825,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1415.3391
+  },
+  {
+    "slug": "afcq-gui-ken-2026-10-01-draw",
+    "question": "Will Guinea vs. Kenya end in a draw?",
+    "yes": 0.245,
+    "no": 0.755,
+    "endDate": "2026-10-01T16:00:00Z",
+    "volume24hr": 1409.675343
+  },
+  {
+    "slug": "unl-bih-swe-2026-10-02-bih",
+    "question": "Will Bosnia and Herzegovina win on 2026-10-02?",
+    "yes": 0.34,
+    "no": 0.66,
+    "endDate": "2026-10-02T18:45:00Z",
+    "volume24hr": 1400.621114
+  },
+  {
+    "slug": "will-googl-reach-365-by-september-28-2026",
+    "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $365 Week of September 28 2026?",
+    "yes": 0.0955,
+    "no": 0.9045,
+    "endDate": "2026-10-02T20:00:00Z",
+    "volume24hr": 1387.743718
+  },
+  {
+    "slug": "unl-grc-nld-2026-10-01-exact-score-2-1",
+    "question": "Exact Score: Greece 2 - 1 Netherlands?",
+    "yes": 0.0715,
+    "no": 0.9285,
+    "endDate": "2026-10-01T18:45:00Z",
+    "volume24hr": 1387.100332
+  },
+  {
+    "slug": "unl-hrv-esp-2026-10-06-esp",
+    "question": "Will Spain win on 2026-10-06?",
+    "yes": 0.68,
+    "no": 0.32,
+    "endDate": "2026-10-06T18:45:00Z",
+    "volume24hr": 1378.83531
+  },
+  {
+    "slug": "tsla-close-above-370-on-october-1-2026",
+    "question": "Will Tesla (TSLA) close above $370 on October 1?",
+    "yes": 0.07,
+    "no": 0.93,
+    "endDate": "2026-10-01T20:00:00Z",
+    "volume24hr": 1375.3267660000004
+  },
+  {
+    "slug": "ethereum-above-2600-on-october-3-2026",
+    "question": "Will the price of Ethereum be above $2,600 on October 3?",
+    "yes": 0.905,
+    "no": 0.095,
+    "endDate": "2026-10-03T16:00:00Z",
+    "volume24hr": 1371.331027
+  },
+  {
+    "slug": "mls-chi-vwh-2026-07-16-vwh",
+    "question": "Will Vancouver Whitecaps FC win on 2026-07-16?",
+    "yes": 0.415,
+    "no": 0.585,
+    "endDate": "2026-10-07T00:30:00Z",
+    "volume24hr": 1351.2023270000002
+  },
+  {
+    "slug": "elon-musk-of-tweets-october-2-october-9-2026-160-179",
+    "question": "Will Elon Musk post 160-179 tweets from October 2 to October 9, 2026?",
+    "yes": 0.165,
+    "no": 0.835,
+    "endDate": "2026-10-09T16:00:00Z",
+    "volume24hr": 1349.371064
+  },
+  {
+    "slug": "highest-temperature-in-hong-kong-on-october-2-2026-32c",
+    "question": "Will the highest temperature in Hong Kong be 32°C on October 2?",
+    "yes": 0.13,
+    "no": 0.87,
+    "endDate": "2026-10-02T12:00:00Z",
+    "volume24hr": 1347.290363
+  },
+  {
+    "slug": "unl-mac-sco-2026-10-03-sco",
+    "question": "Will Scotland win on 2026-10-03?",
+    "yes": 0.545,
+    "no": 0.455,
+    "endDate": "2026-10-03T18:45:00Z",
+    "volume24hr": 1345.424026
+  }
+]
