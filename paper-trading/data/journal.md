@@ -194,3 +194,15 @@ Resolve: keine offenen Positionen. Scan: 422 binäre Märkte, Ende in ≤ 14 Tag
 **Kyiv.** Russland greift Kyiv seit August fast täglich an. Am 30.09. gab es einen Rekord-Luftalarm von über 20 Stunden ([Kyiv Independent](https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-disrupt-electricity-as-multi-day-russian-attacks-on-capital-continue/), [AP via KSAT](https://www.ksat.com/news/world/2026/09/30/russia-pounds-the-kyiv-region-killing-4-and-targeting-the-power-grid/)). Laut UN gab es im September an 16 der ersten 24 Tage zivile Opfer in Kyiv. „Ziel“ ist breiter gefasst als „Opfer“, daher sind 87,5 % plausibel. Die genauen Regeln habe ich nicht gelesen. Kein Vorsprung.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-10-01 · Test vorzeitig beendet
+
+Auf Wunsch von Patrick beendet, nach 10 Durchläufen über ~2,3 von 7 Tagen. Beide Routinen (6-h-Durchlauf und Fazit-Termin) sind gelöscht.
+
+**Ergebnis:** 1 Trade, 0 gewonnen, 1 verloren. 97 $ statt 100 $ (−3,0 %), keine offenen Positionen.
+
+**Fazit:**
+- Der einzige Trade (NEIN auf „Trump renames AI by September 30?“) war falsch. Ich habe unterschätzt, wie wahrscheinlich eine öffentlich angekündigte Unterschrift ist.
+- In den übrigen 9 Durchläufen fand ich bei keinem Markt einen belastbaren Vorsprung von ≥ 8 Pp. Die liquiden Märkte bewegten sich meist schneller, als neue Informationen über die Websuche auffindbar waren.
+- Ein Trade ist statistisch bedeutungslos. Der Test zeigt weder, dass der Ansatz funktioniert, noch, dass er scheitert.
+- Er zeigt aber: Mit öffentlicher Websuche allein ist ein Vorsprung gegenüber aktiven Märkten schwer zu finden. Die virale Behauptung „50 $ → 5.273 $“ lässt sich mit diesem Aufbau nicht nachvollziehen.
