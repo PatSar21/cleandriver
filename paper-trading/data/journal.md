@@ -140,3 +140,21 @@ Resolve: keine offenen Positionen. Scan: 424 binäre Märkte, Ende in ≤ 14 Tag
 **Iran-Waffenruhe.** Die Lage ist unübersichtlich. Seit April gibt es eine Waffenruhe mit vielen Verstößen, im Juli erklärte Trump sie für „over“ ([Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)). Ohne die genauen Auflösungsregeln und den aktuellen Stand kann ich nichts Belastbares schätzen.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-10-01 06:12 UTC · Durchlauf 8 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 432 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will Renan Santos finish in third place in the first round? | 51,5 % | ~55 % | kein Trade |
+| Will Augusto Cury finish in third place in the first round? | 33,2 % | ~30 % | kein Trade |
+| Will Lula win the most votes in the first round? | 69,5 % | ~63 % | kein Trade (Vorsprung ~6,5 Pp.) |
+
+**Platz 3 in Brasilien.** Die Institute widersprechen sich:
+- Datafolha: Cury 5 %, Caiado 4 %, Santos 3 %
+- AtlasIntel: Santos 5,3 %, Cury 2,1 %, Caiado 1,8 % ([Rio Times](https://www.riotimesonline.com/brazil-election-2026-atlasintel-poll-lula-leads-first-round-runoff-tie/), [Al Jazeera](https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll))
+
+AtlasIntel war 2022 am genauesten. Annahme: Das Online-Panel erfasst Santos' eher junge, online-affine Wählerschaft besser. Das spricht leicht für Santos, aber nicht um 8 Pp. Kein Trade.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
