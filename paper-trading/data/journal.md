@@ -122,3 +122,21 @@ Annahme: Ein Teil dieses Fehlers wiederholt sich. Mit einem erwarteten Vorsprung
 **Gemini 4.0.** Der Sprung auf 41 % hat sich nicht bestätigt, der Markt steht wieder bei 8,5 %.
 
 Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
+
+## 2026-10-01 00:12 UTC · Durchlauf 7 (geplant)
+
+Resolve: keine offenen Positionen. Scan: 424 binäre Märkte, Ende in ≤ 14 Tagen.
+
+| Markt | Markt JA | Meine Schätzung JA | Entscheidung |
+|---|---|---|---|
+| Will Lula win the most votes in the first round? | 67,5 % (vorher 71,5 %) | ~63 % | kein Trade (Vorsprung ~4,5 Pp.) |
+| Will Parti Québécois win the most seats in the 2026 Quebec general election? (Wahl 05.10.) | 94,5 % | ~93 % | kein Trade |
+| US x Iran ceasefire continues through October 7? | 89 % | unklar | kein Trade |
+
+**Lula.** Der Markt hat sich in Richtung meiner Schätzung aus Durchlauf 6 bewegt. Ein Vorsprung ist nicht mehr da.
+
+**Québec.** Léger sieht den PQ bei 30 % vor dem PLQ mit 26 % ([Léger](https://leger360.com/in-the-news-quebec-voting-intentions-pq-leads-caq-second/)). Qc125 projiziert 67 Sitze, die Mehrheit liegt bei 64 ([Canadian Affairs 30.09.](https://www.canadianaffairs.news/2026/09/30/parti-quebecois-tipped-to-win-quebec-election/)). Bei „meiste Sitze“ statt Mehrheit sind 94,5 % plausibel. Kein Vorsprung.
+
+**Iran-Waffenruhe.** Die Lage ist unübersichtlich. Seit April gibt es eine Waffenruhe mit vielen Verstößen, im Juli erklärte Trump sie für „over“ ([Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)). Ohne die genauen Auflösungsregeln und den aktuellen Stand kann ich nichts Belastbares schätzen.
+
+Richtig/falsch: keine neuen Auflösungen. Stand: 97 $, −3,0 %.
